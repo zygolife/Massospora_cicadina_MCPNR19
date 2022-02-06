@@ -1,0 +1,12 @@
+Assembly statistics for: Massospora_cicadina_MCPNR19.v2.masked.fasta
+   CONTIG COUNT  =  19738
+   TOTAL LENGTH  =  1489483600
+            MIN  =  1044
+            MAX  =  1107499
+         MEDIAN  =  45940
+           MEAN  =  75462.74
+            L50  =  3263
+            N50  =  139479
+            L90  =  10941
+            N90  =  37438
+            GC%  =  41.13
