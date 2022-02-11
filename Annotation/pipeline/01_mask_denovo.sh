@@ -17,9 +17,9 @@ RL=$(realpath repeat_library)
 SAMPFILE=samples.csv
 N=${SLURM_ARRAY_TASK_ID}
 
-if [ ! $N ]; then
+if [ -z $N ]; then
     N=$1
-    if [ ! $N ]; then
+    if [ -z $N ]; then
         echo "need to provide a number by --array or cmdline"
         exit
     fi

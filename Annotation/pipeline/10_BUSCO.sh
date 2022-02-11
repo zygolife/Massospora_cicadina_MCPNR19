@@ -29,7 +29,7 @@ OUTFOLDER=BUSCO
 TEMP=/scratch/${SLURM_ARRAY_JOB_ID}_${N}
 mkdir -p $TEMP $BUSCO
 SAMPLEFILE=samples.csv
-SEED_SPECIES=entomophthora_muscae_ucb
+SEED_SPECIES=massospora_cicadina_rs
 IFS=,
 tail -n +2 $SAMPLEFILE | sed -n ${N}p | while read SPECIES STRAIN VERSION PHYLUM BIOSAMPLE BIOPROJECT LOCUSTAG
 do

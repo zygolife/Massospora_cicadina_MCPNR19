@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -p intel,batch --time 3-0:00:00 --ntasks 24 --nodes 1 --mem 96G --out logs/predict.%a.log
+#SBATCH -p intel,batch --time 3-0:00:00 --ntasks 24 --nodes 1 --mem 96G --out logs/predict.%a.log -a 1
 
 module unload miniconda2 miniconda3 anaconda3
 module unload perl
@@ -19,9 +19,10 @@ ulimit -Sn
 ulimit -Hn
 ulimit -n 30000
 
-#BUSCO=mucoromycota_odb10
+BUSCO=mucoromycota_odb10
 #fungi_odb10 # This could be changed to the core BUSCO set you want to use
-BUSCO=fungi_odb10
+#BUSCO=fungi_odb10
+#
 INDIR=$(realpath genomes)
 OUTDIR=$(realpath annotate)
 PREDS=$(realpath prediction_support)
@@ -30,9 +31,9 @@ SAMPFILE=samples.csv
 INFORMANT=$(realpath lib/informant_proteins.aa)
 N=${SLURM_ARRAY_TASK_ID}
 
-if [ ! $N ]; then
+if [ -z $N ]; then
     N=$1
-    if [ ! $N ]; then
+    if [ -z $N ]; then
         echo "need to provide a number by --array or cmdline"
         exit
     fi
@@ -47,7 +48,7 @@ fi
 export AUGUSTUS_CONFIG_PATH=$(realpath lib/augustus/3.3/config)
 
 export FUNANNOTATE_DB=/bigdata/stajichlab/shared/lib/funannotate_db
-SEED_SPECIES=massospora_cicadina_rs
+SEED_SPECIES=massospora_cicadina_mcpnr19
 
 IFS=,
 tail -n +2 $SAMPFILE | sed -n ${N}p | while read SPECIES STRAIN VERSION PHYLUM BIOSAMPLE BIOPROJECT LOCUSTAG
@@ -56,7 +57,7 @@ do
     BASE=$(echo -n ${SPECIES}_${STRAIN}.${VERSION} | perl -p -e 's/\s+/_/g')
     echo "sample is $BASE"
     MASKED=$(realpath $INDIR/$BASE.masked.fasta)
-    echo "Maskedis $MASKED"
+    echo "Masked asm file is $MASKED"
     augname=$(echo -n ${SPECIES}_${STRAIN} | perl -p -e '$_=lc($_)')
     if [ -d $AUGUSTUS_CONFIG_PATH/species/$augname ]; then
 	    SEED_SPECIES=$augname
@@ -66,16 +67,19 @@ do
       echo "Cannot find $BASE.masked.fasta in $INDIR - may not have been run yet"
       exit
     fi
-
+    echo "using seed species $SEED_SPECIES with busco"
     if [[ -f $PREDS/$BASE.genemark.gtf ]]; then
 	funannotate predict --cpus $CPU --keep_no_stops --SeqCenter $SEQCENTER --busco_db $BUSCO --optimize_augustus \
         --strain $STRAIN --min_training_models 100 --AUGUSTUS_CONFIG_PATH $AUGUSTUS_CONFIG_PATH \
         -i $MASKED --name $LOCUSTAG --protein_evidence $INFORMANT \
-        -s "$SPECIES"  -o $OUTDIR/$BASE --busco_seed_species $SEED_SPECIES --tmpdir $SCRATCH --genemark_gtf $PREDS/$BASE.genemark.gtf
+        -s "$SPECIES"  -o $OUTDIR/$BASE --busco_seed_species $SEED_SPECIES --tmpdir $SCRATCH --genemark_gtf $PREDS/$BASE.genemark.gtf \
+	--ploidy 1
     else
-	funannotate predict --cpus $CPU --keep_no_stops --SeqCenter $SEQCENTER --busco_db $BUSCO --optimize_augustus \
+	funannotate predict --cpus $CPU --keep_no_stops --SeqCenter $SEQCENTER --busco_db $BUSCO \
 	--strain $STRAIN --min_training_models 100 --AUGUSTUS_CONFIG_PATH $AUGUSTUS_CONFIG_PATH \
 	-i $MASKED --name $LOCUSTAG --protein_evidence $INFORMANT \
-	-s "$SPECIES"  -o $OUTDIR/$BASE --busco_seed_species $SEED_SPECIES --tmpdir $SCRATCH
+	-s "$SPECIES"  -o $OUTDIR/$BASE --busco_seed_species $SEED_SPECIES --tmpdir $SCRATCH \
+	--ploidy 1
     fi
+		#$BUSCO --optimize_augustus \
 done
