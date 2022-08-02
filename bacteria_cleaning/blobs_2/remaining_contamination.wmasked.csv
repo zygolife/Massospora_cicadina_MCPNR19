@@ -1,0 +1,56 @@
+﻿gc,length,ncount,Masso_5FC.consensus_round2.Illumina.sort_cov,bestsumorder_superkingdom,bestsumorder_phylum,bestsumorder_species,id,masked_pct
+0.4042,654660,0,11.6581,Bacteria,Actinobacteria,Streptomyces lincolnensis,ctg8,89.93
+0.4133,602311,0,11.9916,Archaea,Euryarchaeota,Methanocaldococcus jannaschii,ctg376,95.97
+0.4023,266526,0,12.4836,Bacteria,Chloroflexi,Herpetosiphon aurantiacus,ctg395,91.40
+0.4042,198064,0,10.4288,Bacteria,Actinobacteria,Mycobacteroides abscessus,ctg620,91.49
+0.3891,162119,0,10.0693,Bacteria,Cyanobacteria,Thermosynechococcus vestitus,ctg942,80.34
+0.4408,147037,0,15.5106,Archaea,Euryarchaeota,Archaeoglobus fulgidus,ctg1295,94.43
+0.4329,183219,0,15.8706,Archaea,Euryarchaeota,Methanothermobacter marburgensis,ctg1588,96.68
+0.4214,130641,0,13.3815,Bacteria,Actinobacteria,Streptomyces venezuelae,ctg1721,94.88
+0.4118,242588,0,11.9926,Archaea,Euryarchaeota,Methanocaldococcus jannaschii,ctg1808,92.64
+0.4185,181466,0,14.6725,Bacteria,Actinobacteria,Streptomyces griseus,ctg1864,92.21
+0.3945,203702,0,9.9761,Bacteria,Bacteroidetes,Flavobacterium psychrophilum,ctg2263,90.97
+0.4052,98326,0,11.0364,Bacteria,Cyanobacteria,Leptolyngbya boryana,ctg3262,90.09
+0.4113,93472,0,10.2925,Bacteria,Chlorobi,Prosthecochloris aestuarii,ctg3577,93.58
+0.4226,105824,0,9.9607,Bacteria,Cyanobacteria,Prochlorococcus marinus,ctg3618,91.19
+0.4163,148355,0,12.036,Bacteria,Actinobacteria,Streptomyces glaucescens,ctg3669,90.09
+0.4305,117923,0,13.8924,Bacteria,Spirochaetes,Treponema pallidum,ctg4047,96.01
+0.4347,107845,0,12.8492,Bacteria,Bacteroidetes,Bacteroides fragilis,ctg4566,92.99
+0.4023,76156,0,11.2197,Bacteria,Cyanobacteria,Synechocystis sp. PCC 6803,ctg4837,83.50
+0.3915,78451,0,11.5435,Bacteria,Cyanobacteria,Synechocystis sp. PCC 6803,ctg5476,79.74
+0.4068,89450,0,10.3681,Bacteria,Actinobacteria,Thermobifida fusca,ctg5671,93.89
+0.4455,97659,0,20.0526,Bacteria,Actinobacteria,Mycobacterium tuberculosis,ctg6010,95.25
+0.6239,9389,0,352.8651,Bacteria,Actinobacteria,Corynebacterium glutamicum,split1_ctg6018,1.01
+0.4117,64963,0,10.9986,Bacteria,Cyanobacteria,Nostoc punctiforme,ctg6102,83.99
+0.4015,62079,0,10.8029,Bacteria,Cyanobacteria,Synechocystis sp. PCC 6803,ctg6358,87.64
+0.4209,60816,0,10.0634,Bacteria,Planctomycetes,Rhodopirellula baltica,ctg6521,90.41
+0.4474,53719,0,0.4832,Archaea,Euryarchaeota,Thermococcus gammatolerans,ctg7655,0.31
+0.6331,12119,0,346.4504,Bacteria,Actinobacteria,Mycobacterium tuberculosis,split2_ctg8404,0.00
+0.64,10450,0,391.0199,Bacteria,Actinobacteria,Mycobacterium tuberculosis,split1_ctg9522,3.40
+0.4,138012,0,12.0962,Bacteria,Cyanobacteria,Leptolyngbya boryana,ctg9894,92.69
+0.429,36090,0,17.004,Bacteria,Actinobacteria,Streptomyces coelicolor,ctg10227,86.77
+0.4139,34765,0,8.2442,Bacteria,Chlamydiae,Candidatus Protochlamydia amoebophila,ctg10397,79.74
+0.5754,20041,0,54.1787,Bacteria,Chlamydiae,Chlamydia trachomatis,split1_ctg10420,0.19
+0.6257,31284,0,76.7797,Bacteria,Mucoromycota,Mortierella alpina,ctg11069,4.07
+0.4225,30691,0,15.0761,Bacteria,Chlorobi,Pelodictyon phaeoclathratiforme,ctg11149,81.55
+0.4181,51210,0,12.6324,Bacteria,Actinobacteria,Streptomyces antibioticus,ctg11653,87.47
+0.3755,28024,0,12.845,Bacteria,Aquificae,Aquifex aeolicus,ctg11669,82.51
+0.4145,47053,0,9.4653,Bacteria,Bacteroidetes,Bacteroides ovatus,ctg12408,89.81
+0.4246,66579,0,19.628,Bacteria,Cyanobacteria,Synechocystis sp. PCC 6803,ctg12450,92.24
+0.4306,36273,0,20.1382,Bacteria,Cyanobacteria,Nostoc sp. PCC 7120 = FACHB-418,ctg12711,85.87
+0.4428,20953,0,9.0116,Bacteria,Cyanobacteria,Synechocystis sp. PCC 6803,ctg13493,73.77
+0.6198,34442,0,3.7338,Bacteria,Actinobacteria,Mycobacterium tuberculosis,ctg13915,0.34
+0.6219,16180,0,3.1807,Bacteria,Euryarchaeota,Thermococcus litoralis,ctg14719,0.00
+0.633,15244,0,4.2515,Bacteria,Actinobacteria,Streptomyces coelicolor,ctg15054,0.00
+0.6256,11245,0,4.3236,Bacteria,Euryarchaeota,Methanocaldococcus jannaschii,ctg16670,0.32
+0.3408,18597,0,100.4532,Bacteria,Tenericutes,Mycoplasma pneumoniae,ctg17227,2.07
+0.3489,13185,0,13.0631,Bacteria,Actinobacteria,Streptomyces antibioticus,ctg17443,76.55
+0.6151,8960,0,2.9073,Bacteria,Actinobacteria,Paenarthrobacter aurescens,ctg17665,0.00
+0.4347,8227,0,6.9806,Bacteria,Aquificae,Aquifex aeolicus,ctg17844,52.60
+0.6115,8678,0,90.8685,Bacteria,Ascomycota,Saccharomyces cerevisiae,ctg18065,0.00
+0.6378,7775,0,4.2857,Bacteria,Actinobacteria,Leifsonia xyli,ctg18164,0.00
+0.6775,7128,0,1.1995,Bacteria,Actinobacteria,Mycobacterium tuberculosis,ctg18610,0.62
+0.6299,6826,0,3.7066,Bacteria,Actinobacteria,Mycobacterium tuberculosis,ctg18826,0.00
+0.6328,5027,0,192.8486,Bacteria,Actinobacteria,Pimelobacter sp.,ctg19764,0.00
+0.5599,4810,0,2.9794,Bacteria,Actinobacteria,Mycobacterium tuberculosis,ctg20290,0.00
+0.6554,33787,0,0.7504,Bacteria,Actinobacteria,Paenarthrobacter aurescens,ctg20369,0.32

@@ -1,0 +1,73 @@
+﻿gc,length,Masso_5FC.consensus_round2.Illumina.sort_cov,bestsumorder_phylum,bestsumorder_class,bestsumorder_order,bestsumorder_family,bestsumorder_genus,bestsumorder_species,id,masked_pct
+0.398,373485,10.6275,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Wolbachia,Wolbachia endosymbiont of Onchocerca volvulus,ctg27,90.85
+0.4239,344160,13.0879,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,ctg239,95.12
+0.4114,320496,11.1262,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Cellvibrionaceae,Teredinibacter,Teredinibacter turnerae,ctg55,90.23
+0.4263,308850,13.7968,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium radiotolerans,ctg1131,96.00
+0.4125,270450,11.6041,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Rhodopseudomonas,Rhodopseudomonas palustris,ctg3346,93.15
+0.3829,236437,11.702,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Caulobacter,Caulobacter sp. K31,ctg2882,81.93
+0.4364,222001,15.4168,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,Geobacter sulfurreducens,ctg5737,93.37
+0.4135,216348,10.3099,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Caulobacter,Caulobacter vibrioides,ctg3326,94.34
+0.4143,199126,12.6721,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,ctg964,96.18
+0.4067,194210,10.4133,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter baylyi,ctg501,94.16
+0.3952,190273,12.4404,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,ctg6948,88.57
+0.4075,187463,12.519,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium fabrum,ctg2566,89.97
+0.4155,184905,15.0343,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum brasilense,ctg6265,90.82
+0.4411,173672,13.996,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus influenzae,ctg5240,92.93
+0.4107,163490,12.8616,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,ctg2501,88.42
+0.398,158204,11.7254,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia massiliae,ctg1343,85.17
+0.4073,158014,10.2085,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus pinatubonensis,ctg6409,92.21
+0.4421,157527,9.3597,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,ctg4902,58.51
+0.4416,145444,14.69,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,ctg2734,94.56
+0.3965,143872,10.1526,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,ctg1369,92.91
+0.425,140492,13.8563,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium,Photobacterium profundum,ctg4852,94.70
+0.4089,139578,11.7319,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,ctg2428,88.43
+0.4261,138488,14.7067,Proteobacteria,Thermodesulfovibrionia,Thermodesulfovibrionales,Thermodesulfovibrionaceae,Thermodesulfovibrio,Thermodesulfovibrio yellowstonii,ctg7078,94.58
+0.4027,131482,10.9144,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia typhi,ctg5264,85.32
+0.3977,124437,12.1478,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,ctg4343,86.02
+0.3846,122480,9.7844,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Gluconacetobacter,Gluconacetobacter polyoxogenes,ctg4362,87.61
+0.4119,120386,11.2724,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium vitis,ctg3923,94.22
+0.4233,119361,13.3479,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,ctg2173,95.28
+0.4127,108306,15.6005,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Parvibaculaceae,Parvibaculum,Parvibaculum lavamentivorans,ctg5582,87.94
+0.3993,96624,12.7936,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Sinorhizobium,Sinorhizobium fredii,ctg7547,94.65
+0.4239,96366,11.5998,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,ctg7133,97.11
+0.4096,95357,9.9484,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingopyxis,Sphingopyxis alaskensis,ctg3416,86.00
+0.4177,89584,12.5247,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Parvibaculaceae,Parvibaculum,Parvibaculum lavamentivorans,ctg5345,94.67
+0.4178,89479,15.457,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Cellvibrionaceae,Cellvibrio,Cellvibrio japonicus,ctg3754,93.67
+0.4374,89047,11.5291,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus xanthus,ctg7853,84.99
+0.4296,82764,13.6635,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Trichlorobacter,Trichlorobacter lovleyi,ctg8161,91.09
+0.4445,80554,21.7377,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Roseobacteraceae,Ruegeria,Ruegeria sp. TM1040,ctg6344,95.69
+0.4081,73583,14.8611,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Xanthobacteraceae,Azorhizobium,Azorhizobium caulinodans,ctg5106,94.63
+0.4122,71474,10.8588,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella flexneri,ctg7255,93.20
+0.3979,64335,11.0875,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Nitrobacter,Nitrobacter winogradskyi,ctg6171,86.57
+0.4102,62320,11.3676,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,ctg6431,83.41
+0.3905,60967,10.1335,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter koseri,ctg10306,75.75
+0.3784,58506,9.1009,Proteobacteria,Chloroflexia,Chloroflexales,Roseiflexaceae,Roseiflexus,Roseiflexus sp. RS-1,ctg7761,86.75
+0.3895,56530,12.3449,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.,ctg7173,90.34
+0.4092,55199,16.2104,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Granulibacter,Granulibacter bethesdensis,ctg10513,89.86
+0.4297,52074,10.9481,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Rhodospirillum,Rhodospirillum rubrum,ctg7748,89.25
+0.4085,49623,12.0471,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,ctg7950,87.38
+0.3957,45826,10.806,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Parvibaculaceae,Parvibaculum,Parvibaculum lavamentivorans,ctg11223,88.55
+0.3776,42395,8.2787,Proteobacteria,Betaproteobacteria,Rhodocyclales,Azonexaceae,Dechloromonas,Dechloromonas aromatica,ctg12696,85.97
+0.4089,41931,10.2444,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas hydrophila,ctg9281,89.84
+0.4303,41648,13.77,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,ctg13935,94.01
+0.3945,39686,8.8146,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium,Photobacterium profundum,ctg12188,79.81
+0.4434,31293,10.5421,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp. 4-46,ctg11032,82.56
+0.3754,21124,0.4626,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,ctg13409,0.92
+0.4414,20083,10.3392,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophobacteraceae,Syntrophobacter,Syntrophobacter fumaroxidans,ctg13491,83.08
+0.4493,19409,3.1289,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,split1_ctg8598,2.55
+0.3825,17714,5.4842,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,ctg14191,0.00
+0.3035,16263,0.1447,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus influenzae,ctg14822,0.00
+0.3809,16215,0.5072,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter baylyi,ctg14676,0.00
+0.4437,13792,1.2341,Proteobacteria,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia multivorans,ctg15392,0.00
+0.3958,12105,0.3651,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,ctg16115,0.00
+0.4025,10856,2.3745,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia bellii,ctg16601,86.44
+0.4129,9966,9.2955,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Pasteurella,Pasteurella multocida,ctg17372,60.58
+0.3855,9447,7.9787,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus influenzae,ctg17252,67.09
+0.3603,8016,0.3699,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,ctg17935,1.11
+0.3813,7904,3.4648,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,ctg18107,0.61
+0.4476,7835,11.7355,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cenocepacia,ctg18681,0.46
+0.4449,7102,2.252,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,ctg18477,0.00
+0.3464,7043,0.91,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,ctg18519,2.03
+0.4421,6467,2.0175,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio cholerae,ctg18951,0.00
+0.3538,6164,1.2855,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Pseudescherichia,Pseudescherichia vulneris,ctg19207,1.62
+0.4395,653,1.5743,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,split12_ctg8598,0.00

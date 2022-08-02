@@ -1,0 +1,33 @@
+﻿gc,length,ncount,Masso_5FC.consensus_round2.Illumina.sort_cov,bestsumorder_phylum,bestsumorder_species,id,masked_pct
+0.4264,304789,0,13.116,Nucleocytoviricota,Acanthamoeba polyphaga mimivirus,ctg306,95.18
+0.4061,167125,0,10.4453,Nucleocytoviricota,Acanthamoeba polyphaga mimivirus,ctg5314,88.24
+0.4793,118715,0,0.6206,Uroviricota,Pseudomonas virus phiKZ,ctg8157,0.06
+0.4476,88615,0,0.2301,Uroviricota,Escherichia virus phiEco32,ctg3830,0.42
+0.5912,76492,0,0.6023,Uroviricota,Escherichia virus Lambda,ctg13967,0.23
+0.5539,56793,0,11.4796,Uroviricota,Escherichia virus P2,ctg14381,0.19
+0.4804,54049,0,0.6892,Uroviricota,Pseudomonas phage PhiPA3,ctg12200,0.14
+0.6037,45759,0,135.401,Uroviricota,Pseudomonas protegens,split3_ctg3914,0.09
+0.5782,44922,0,43.9584,Uroviricota,Burkholderia virus BcepMu,ctg8129,1.00
+0.5916,44085,0,0.1213,Uroviricota,Pseudomonas virus phiKMV,ctg8984,0.59
+0.4101,36641,0,10.8745,Kitrinoviricota,Ilheus virus,ctg10057,83.04
+0.4383,28427,0,0.1864,Uroviricota,Escherichia virus phiEco32,ctg16177,0.48
+0.5593,24174,0,30.0544,Uroviricota,Escherichia virus Lambda,ctg12420,0.26
+0.5117,17520,0,4.1616,Uroviricota,Escherichia virus P2,ctg14412,0.00
+0.5071,16390,0,1.1272,Uroviricota,Escherichia virus K1F,ctg14726,0.00
+0.5665,16104,0,33.0777,Uroviricota,Escherichia virus P2,ctg14607,0.65
+0.4219,15390,0,70.9639,Viruses-undef,Cydia pomonella granulovirus,ctg14981,4.16
+0.4392,12861,0,8.3417,Uroviricota,Escherichia virus 186,ctg15914,0.00
+0.4819,11902,0,15.3294,Uroviricota,Escherichia virus 186,ctg16387,0.00
+0.4977,9933,0,1.4952,Uroviricota,Hamiltonella virus APSE1,split2_ctg15375,0.00
+0.3588,8766,0,200.6178,Artverviricota,Simian immunodeficiency virus,ctg17373,3.91
+0.5127,7152,0,2.0517,Uroviricota,Xylella fastidiosa,split4_ctg14703,0.00
+0.579,6656,0,0.2431,Uroviricota,Escherichia virus Lambda,ctg18675,1.19
+0.366,6315,0,105.4534,Artverviricota,Bovine immunodeficiency virus,ctg20456,4.86
+0.5177,6087,0,5.998,Uroviricota,Escherichia virus Lambda,split2_ctg16938,0.00
+0.4643,5985,0,2.6212,Uroviricota,Phage PS119,ctg19210,0.00
+0.487,5579,0,1.6492,Uroviricota,Enterobacteria phage phi80,split1_ctg14703,0.00
+0.47,5028,0,4.5487,Uroviricota,Escherichia virus 186,ctg20006,0.00
+0.4653,3342,0,6.5458,Uroviricota,Escherichia virus Lambda,split3_ctg16938,0.00
+0.5006,3286,0,1.958,Uroviricota,Salmonella virus P22,split3_ctg14703,0.00
+0.5068,1770,0,0.3006,Uroviricota,Enterobacteria phage LP7,split2_ctg6805,0.00
+0.5163,215,0,4.5116,Uroviricota,Escherichia virus Lambda,split2_ctg14703,0.00
