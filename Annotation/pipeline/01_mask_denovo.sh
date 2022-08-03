@@ -57,7 +57,7 @@ do
     	 funannotate mask --cpus $CPU -i $INDIR/${name}.sorted.fasta -o $OUTDIR/${name}.masked.fasta -l $LIBRARY --method repeatmodeler
      else
        funannotate mask --cpus $CPU -i $INDIR/${name}.sorted.fasta -o $OUTDIR/${name}.masked.fasta --method repeatmodeler
-	echo "finished running masking"
+       echo "finished running masking"
        mv repeatmodeler-library.*.fasta $RL/${name}.repeatmodeler-library.fasta
        mv funannotate-mask.log $LOGS/masklog_long.$name.log
        ls -l

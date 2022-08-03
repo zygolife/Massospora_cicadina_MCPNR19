@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -p short -C xeon -N 1 -n 96 --mem 128gb --out logs/mafft_run.%A.%a.log -a 1-7
+#SBATCH -p short -C xeon -N 1 -n 96 --mem 400gb --out logs/mafft_run.%A.%a.log -a 1
 
 CPU=1
 if [ $SLURM_CPUS_ON_NODE ]; then

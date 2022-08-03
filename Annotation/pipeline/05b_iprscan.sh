@@ -7,7 +7,7 @@ module load anaconda3
 module load funannotate
 module unload perl
 module unload python
-module load iprscan/ 5.51-85.0
+module load iprscan/5.51-85.0
 CPU=1
 if [ ! -z $SLURM_CPUS_ON_NODE ]; then
   CPU=$SLURM_CPUS_ON_NODE

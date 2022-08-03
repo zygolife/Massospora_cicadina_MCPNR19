@@ -11,14 +11,14 @@ module unload perl
 module unload python
 module load funannotate
 module load phobius
-module laod workspace/scratch
+module load workspace/scratch
 
 export FUNANNOTATE_DB=/bigdata/stajichlab/shared/lib/funannotate_db
 CPUS=$SLURM_CPUS_ON_NODE
 OUTDIR=annotate
 INDIR=genomes
 SAMPFILE=samples.csv
-BUSCO=fungi_odb10
+BUSCO=mucoromycota_odb10
 
 if [ -z $CPUS ]; then
   CPUS=1

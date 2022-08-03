@@ -1,27 +1,27 @@
 #!/bin/bash -l
-#SBATCH -p short --time 2:00:00 --ntasks 96 --nodes 1 --mem 64G --out logs/mask_repeatMasker_report.%a.%A.log -a 1
+#-p batch,intel --time 60:00:00 -n 32 -N 1 --mem 96gb -out logs/mask_repeatMasker_report.%a.%A.log -a 2
+#SBATCH -p short --time 2:00:00 --ntasks 128 --nodes 1 --mem 64G --out logs/mask_repeatMasker_report.%a.%A.log 
 
 CPU=1
 if [ $SLURM_CPUS_ON_NODE ]; then
   CPU=$SLURM_CPUS_ON_NODE
 fi
-if [ -z $SLURM_JOB_ID ]; then
-  SLURM_JOB_ID=$$
-fi
+PA=$(expr $CPU / 4)
+
 module load RepeatMasker
 module load workspace/scratch
 
 INDIR=$(realpath genomes)
 OUTDIR=$(realpath repeatmasker_reports)
 SAMPFILE=samples.csv
+mkdir -p $OUTDIR
 
 N=${SLURM_ARRAY_TASK_ID}
 
-mkdir -p $OUTDIR
 
-if [ ! $N ]; then
+if [ -z $N ]; then
     N=$1
-    if [ ! $N ]; then
+    if [ -z $N ]; then
         echo "need to provide a number by --array or cmdline"
         exit
     fi
@@ -53,7 +53,7 @@ do
     if [ ! -f $OUTDIR/${name}.RM/${name}.sorted.fasta.tbl ]; then
 	pushd $SCRATCH
 	ln -s $INDIR/${name}.sorted.fasta
-	RepeatMasker -s -pa $CPU -excln -e ncbi -a -lcambig -source -poly -small -html -gff -dir $OUTDIR/${name}.RM -s -lib $LIBRARY ${name}.sorted.fasta > $OUTDIR/${name}.RM/${name}.RepeatMasker.out
+	RepeatMasker -s -pa $PA -excln -e rmblast -a -lcambig -source -poly -small -html -gff -dir $OUTDIR/${name}.RM -s -lib $LIBRARY ${name}.sorted.fasta > $OUTDIR/${name}.RM/${name}.RepeatMasker.out
     else
 	echo "Skipping ${name} as masked already"
     fi
