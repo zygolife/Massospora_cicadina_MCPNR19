@@ -1,0 +1,86 @@
+ctg19671	1300	family	Streptococcaceae	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+ctg19942	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg20215	1239	phylum	Firmicutes	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+ctg20188	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg20368	1	no rank	root	unknown;unknown	-_root
+ctg20440	1300	family	Streptococcaceae	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+ctg17283	1300	family	Streptococcaceae	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+ctg17391	1300	family	Streptococcaceae	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+ctg17722	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg17730	1357	genus	Lactococcus	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+ctg16141	1	no rank	root	unknown;unknown	-_root
+ctg16322	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg16572	1300	family	Streptococcaceae	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+ctg16575	1357	genus	Lactococcus	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+ctg16712	1357	genus	Lactococcus	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+ctg16748	186826	order	Lactobacillales	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+ctg12372	1314790	strain	Basidiobolus meristosporus CBS 931.73	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Basidiobolomycetes;o_Basidiobolales;f_Basidiobolaceae;g_Basidiobolus;s_Basidiobolus meristosporus;-_Basidiobolus meristosporus CBS 931.73
+ctg12394	186826	order	Lactobacillales	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+ctg12622	1380772	strain	Lactococcus garvieae TRF1	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus garvieae;-_Lactococcus garvieae TRF1
+ctg12774	186826	order	Lactobacillales	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+ctg17905	1	no rank	root	unknown;unknown	-_root
+ctg17920	1	no rank	root	unknown;unknown	-_root
+ctg18001	186826	order	Lactobacillales	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+ctg18435	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg18566	186826	order	Lactobacillales	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+ctg18668	91061	class	Bacilli	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+ctg4601	796925	strain	Conidiobolus coronatus NRRL 28638	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+ctg4641	186826	order	Lactobacillales	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+ctg5203	796925	strain	Conidiobolus coronatus NRRL 28638	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+ctg5290	1938954	species	Bifiguratus adelaidae	Eukaryota;Mucoromycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Endogonomycetes;o_Endogonales;-_Endogonales incertae sedis;g_Bifiguratus;s_Bifiguratus adelaidae
+ctg6078	1357	genus	Lactococcus	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+ctg6496	112252	no rank	Fungi incertae sedis	Eukaryota;unknown	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis
+ctg6595	112252	no rank	Fungi incertae sedis	Eukaryota;unknown	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis
+split1_ctg7281	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg7358	1358	species	Lactococcus lactis	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus lactis
+ctg7433	1357	genus	Lactococcus	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+ctg14040	186826	order	Lactobacillales	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+ctg14049	1357	genus	Lactococcus	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+ctg14128	186826	order	Lactobacillales	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+ctg14150	186826	order	Lactobacillales	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+ctg12895	91061	class	Bacilli	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+ctg13045	186826	order	Lactobacillales	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+ctg13060	1300	family	Streptococcaceae	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+ctg13309	1	no rank	root	unknown;unknown	-_root
+ctg13570	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg13589	91061	class	Bacilli	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+ctg14681	1357	genus	Lactococcus	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+ctg14831	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg14885	1357	genus	Lactococcus	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+ctg15020	1300	family	Streptococcaceae	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+ctg15023	1588020	species	Arthrobacter sp. Hiyo1	Bacteria;Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micrococcales;f_Micrococcaceae;g_Arthrobacter;-_unclassified Arthrobacter;s_Arthrobacter sp. Hiyo1
+ctg15445	1359	species	Lactococcus cremoris	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus cremoris
+ctg18922	1314790	strain	Basidiobolus meristosporus CBS 931.73	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Basidiobolomycetes;o_Basidiobolales;f_Basidiobolaceae;g_Basidiobolus;s_Basidiobolus meristosporus;-_Basidiobolus meristosporus CBS 931.73
+ctg19083	1357	genus	Lactococcus	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+ctg19167	1359	species	Lactococcus cremoris	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus cremoris
+ctg19193	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg228	104777	species	Brachionus calyciflorus	Eukaryota;Rotifera	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Spiralia;-_Gnathifera;p_Rotifera;c_Eurotatoria;-_Monogononta;-_Pseudotrocha;o_Ploima;f_Brachionidae;g_Brachionus;s_Brachionus calyciflorus
+split3_ctg350	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg454	177370	species	Entomophthora planchoniana	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Entomophthoraceae;g_Entomophthora;s_Entomophthora planchoniana
+ctg1069	3659	species	Cucumis sativus	Eukaryota;Streptophyta	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_fabids;o_Cucurbitales;f_Cucurbitaceae;-_Benincaseae;g_Cucumis;s_Cucumis sativus
+ctg1090	796925	strain	Conidiobolus coronatus NRRL 28638	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+ctg1455	1	no rank	root	unknown;unknown	-_root
+ctg1727	1450539	strain	Aspergillus saccharolyticus JOP 1030-1	Eukaryota;Ascomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;c_Eurotiomycetes;-_Eurotiomycetidae;o_Eurotiales;f_Aspergillaceae;g_Aspergillus;s_Aspergillus saccharolyticus;-_Aspergillus saccharolyticus JOP 1030-1
+split4_ctg2751	1	no rank	root	unknown;unknown	-_root
+ctg3466	1	no rank	root	unknown;unknown	-_root
+ctg4146	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg19191	1	no rank	root	unknown;unknown	-_root
+ctg19240	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg19335	186826	order	Lactobacillales	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+ctg19361	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg19385	1239	phylum	Firmicutes	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+ctg19425	186826	order	Lactobacillales	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+ctg15511	796925	strain	Conidiobolus coronatus NRRL 28638	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+ctg15652	1	no rank	root	unknown;unknown	-_root
+ctg15968	1300	family	Streptococcaceae	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+ctg16071	1	no rank	root	unknown;unknown	-_root
+ctg8264	2493676	species	Mesorhizobium sp. M3A.F.Ca.ET.080.04.2.1	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Phyllobacteriaceae;g_Mesorhizobium;-_unclassified Mesorhizobium;s_Mesorhizobium sp. M3A.F.Ca.ET.080.04.2.1
+split1_ctg8404	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg9090	716545	clade	saccharomyceta	Eukaryota;Ascomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta
+ctg9854	48709	species	Orchesella cincta	Eukaryota;Arthropoda	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Collembola;o_Entomobryomorpha;-_Entomobryoidea;f_Orchesellidae;-_Orchesellinae;g_Orchesella;s_Orchesella cincta
+ctg10011	796925	strain	Conidiobolus coronatus NRRL 28638	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+ctg10391	796925	strain	Conidiobolus coronatus NRRL 28638	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+ctg10666	1359	species	Lactococcus cremoris	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus cremoris
+ctg11106	91061	class	Bacilli	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+ctg11822	1358	species	Lactococcus lactis	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus lactis
+ctg12058	1357	genus	Lactococcus	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus

@@ -1,0 +1,210 @@
+100.0000	72	5	no rank	1	root
+93.0556	67	4	no rank	131567	  cellular organisms
+73.6111	53	0	superkingdom	2759	    Eukaryota
+54.1667	39	0	clade	33154	      Opisthokonta
+40.2778	29	0	kingdom	4751	        Fungi
+33.3333	24	1	no rank	112252	          Fungi incertae sedis
+18.0556	13	0	phylum	1913637	            Mucoromycota
+11.1111	8	1	subphylum	451507	              Mucoromycotina
+5.5556	4	0	class	2212703	                Mucoromycetes
+5.5556	4	0	order	4827	                  Mucorales
+2.7778	2	0	family	4851	                    Cunninghamellaceae
+2.7778	2	0	genus	4828	                      Absidia
+2.7778	2	2	species	4829	                        Absidia glauca
+1.3889	1	0	family	499202	                    Lichtheimiaceae
+1.3889	1	0	genus	688353	                      Lichtheimia
+1.3889	1	0	species	42458	                        Lichtheimia corymbifera
+1.3889	1	1	strain	1263082	                          Lichtheimia corymbifera JMRC:FSU:9682
+1.3889	1	0	suborder	1344963	                    Mucorineae
+1.3889	1	0	family	1344955	                      Rhizopodaceae
+1.3889	1	0	genus	4842	                        Rhizopus
+1.3889	1	1	species	86630	                          Rhizopus azygosporus
+4.1667	3	0	class	2212702	                Endogonomycetes
+4.1667	3	0	order	4869	                  Endogonales
+2.7778	2	0	family	4870	                    Endogonaceae
+2.7778	2	0	genus	2052799	                      Jimgerdemannia
+2.7778	2	2	species	994334	                        Jimgerdemannia flammicorona
+1.3889	1	0	no rank	2052803	                    Endogonales incertae sedis
+1.3889	1	0	genus	2026842	                      Bifiguratus
+1.3889	1	1	species	1938954	                        Bifiguratus adelaidae
+6.9444	5	0	subphylum	214504	              Glomeromycotina
+6.9444	5	0	class	214506	                Glomeromycetes
+6.9444	5	0	order	36750	                  Glomerales
+6.9444	5	0	family	36751	                    Glomeraceae
+6.9444	5	0	genus	1129544	                      Rhizophagus
+6.9444	5	5	species	588596	                        Rhizophagus irregularis
+9.7222	7	0	phylum	1913638	            Zoopagomycota
+8.3333	6	0	subphylum	1264859	              Entomophthoromycotina
+6.9444	5	0	class	1399770	                Entomophthoromycetes
+6.9444	5	0	order	4857	                  Entomophthorales
+6.9444	5	0	family	34486	                    Ancylistaceae
+6.9444	5	0	genus	34487	                      Conidiobolus
+6.9444	5	0	species	34488	                        Conidiobolus coronatus
+6.9444	5	5	strain	796925	                          Conidiobolus coronatus NRRL 28638
+1.3889	1	0	class	1399768	                Basidiobolomycetes
+1.3889	1	0	order	1264872	                  Basidiobolales
+1.3889	1	0	family	4858	                    Basidiobolaceae
+1.3889	1	0	genus	4859	                      Basidiobolus
+1.3889	1	0	species	423460	                        Basidiobolus meristosporus
+1.3889	1	1	strain	1314790	                          Basidiobolus meristosporus CBS 931.73
+1.3889	1	0	subphylum	451827	              Zoopagomycotina
+1.3889	1	0	class	2233521	                Zoopagomycetes
+1.3889	1	0	order	78899	                  Zoopagales
+1.3889	1	0	family	78905	                    Sigmoideomycetaceae
+1.3889	1	0	genus	78914	                      Thamnocephalis
+1.3889	1	1	species	78915	                        Thamnocephalis sphaerospora
+4.1667	3	0	phylum	4761	            Chytridiomycota
+4.1667	3	0	no rank	2683659	              Chytridiomycota incertae sedis
+4.1667	3	1	class	451435	                Chytridiomycetes
+1.3889	1	0	order	4810	                  Chytridiales
+1.3889	1	0	family	1352827	                    Chytriomycetaceae
+1.3889	1	0	genus	109967	                      Rhizoclosmatium
+1.3889	1	1	species	329046	                        Rhizoclosmatium globosum
+1.3889	1	0	order	2231171	                  Synchytriales
+1.3889	1	0	family	286113	                    Synchytriaceae
+1.3889	1	0	genus	286114	                      Synchytrium
+1.3889	1	1	species	286115	                        Synchytrium endobioticum
+6.9444	5	0	subkingdom	451864	          Dikarya
+5.5556	4	0	phylum	4890	            Ascomycota
+5.5556	4	0	clade	716545	              saccharomyceta
+5.5556	4	0	subphylum	147538	                Pezizomycotina
+5.5556	4	2	clade	716546	                  leotiomyceta
+1.3889	1	0	class	147547	                    Lecanoromycetes
+1.3889	1	0	clade	1520881	                      OSLEUM clade
+1.3889	1	0	subclass	1520791	                        Umbilicariomycetidae
+1.3889	1	0	order	452227	                          Umbilicariales
+1.3889	1	0	family	87265	                            Umbilicariaceae
+1.3889	1	0	genus	87266	                              Lasallia
+1.3889	1	1	species	136370	                                Lasallia pustulata
+1.3889	1	0	clade	715989	                    sordariomyceta
+1.3889	1	0	class	147550	                      Sordariomycetes
+1.3889	1	0	subclass	222543	                        Hypocreomycetidae
+1.3889	1	1	order	5125	                          Hypocreales
+1.3889	1	0	phylum	5204	            Basidiomycota
+1.3889	1	0	subphylum	29000	              Pucciniomycotina
+1.3889	1	0	class	162481	                Microbotryomycetes
+1.3889	1	0	order	55070	                  Microbotryales
+1.3889	1	0	family	55071	                    Microbotryaceae
+1.3889	1	0	genus	34416	                      Microbotryum
+1.3889	1	1	species	796604	                        Microbotryum silenes-dioicae
+12.5000	9	0	kingdom	33208	        Metazoa
+12.5000	9	0	clade	6072	          Eumetazoa
+11.1111	8	0	clade	33213	            Bilateria
+6.9444	5	0	clade	33317	              Protostomia
+6.9444	5	0	clade	1206794	                Ecdysozoa
+6.9444	5	0	clade	88770	                  Panarthropoda
+6.9444	5	0	phylum	6656	                    Arthropoda
+6.9444	5	0	clade	197563	                      Mandibulata
+6.9444	5	0	clade	197562	                        Pancrustacea
+6.9444	5	0	subphylum	6960	                          Hexapoda
+6.9444	5	0	class	50557	                            Insecta
+6.9444	5	0	clade	85512	                              Dicondylia
+6.9444	5	0	subclass	7496	                                Pterygota
+6.9444	5	0	infraclass	33340	                                  Neoptera
+6.9444	5	0	cohort	33392	                                    Endopterygota
+4.1667	3	0	superorder	85604	                                      Amphiesmenoptera
+4.1667	3	0	order	7088	                                        Lepidoptera
+4.1667	3	0	suborder	41191	                                          Glossata
+4.1667	3	0	infraorder	41196	                                            Neolepidoptera
+4.1667	3	0	parvorder	41197	                                              Heteroneura
+4.1667	3	0	clade	37567	                                                Ditrysia
+2.7778	2	0	clade	104431	                                                  Obtectomera
+1.3889	1	0	superfamily	37569	                                                    Bombycoidea
+1.3889	1	0	family	7089	                                                      Bombycidae
+1.3889	1	0	subfamily	475327	                                                        Bombycinae
+1.3889	1	0	genus	7090	                                                          Bombyx
+1.3889	1	1	species	7091	                                                            Bombyx mori
+1.3889	1	0	superfamily	37573	                                                    Pyraloidea
+1.3889	1	0	family	268499	                                                      Crambidae
+1.3889	1	0	subfamily	40081	                                                        Crambinae
+1.3889	1	0	genus	168630	                                                          Chilo
+1.3889	1	1	species	168631	                                                            Chilo suppressalis
+1.3889	1	0	superfamily	41011	                                                  Tineoidea
+1.3889	1	0	family	93884	                                                    Psychidae
+1.3889	1	0	subfamily	262181	                                                      Oiketicinae
+1.3889	1	0	genus	151548	                                                        Eumeta
+1.3889	1	1	species	151549	                                                          Eumeta japonica
+2.7778	2	0	order	7041	                                      Coleoptera
+2.7778	2	0	suborder	41084	                                        Polyphaga
+2.7778	2	0	infraorder	41087	                                          Elateriformia
+2.7778	2	0	superfamily	71193	                                            Elateroidea
+2.7778	2	0	family	7049	                                              Lampyridae
+2.7778	2	0	subfamily	433515	                                                Luciolinae
+2.7778	2	0	genus	2069291	                                                  Abscondita
+2.7778	2	2	species	2069292	                                                    Abscondita terminalis
+4.1667	3	0	clade	33511	              Deuterostomia
+4.1667	3	0	phylum	7711	                Chordata
+4.1667	3	0	subphylum	89593	                  Craniata
+4.1667	3	0	clade	7742	                    Vertebrata
+4.1667	3	0	clade	7776	                      Gnathostomata
+4.1667	3	0	clade	117570	                        Teleostomi
+4.1667	3	0	clade	117571	                          Euteleostomi
+4.1667	3	0	superclass	8287	                            Sarcopterygii
+4.1667	3	0	clade	1338369	                              Dipnotetrapodomorpha
+4.1667	3	0	clade	32523	                                Tetrapoda
+2.7778	2	0	class	8292	                                  Amphibia
+2.7778	2	0	superorder	41666	                                    Batrachia
+2.7778	2	0	order	8342	                                      Anura
+2.7778	2	0	superfamily	30319	                                        Pipoidea
+2.7778	2	0	family	8352	                                          Pipidae
+2.7778	2	0	subfamily	8360	                                            Xenopodinae
+2.7778	2	0	genus	8353	                                              Xenopus
+1.3889	1	0	subgenus	8363	                                                Silurana
+1.3889	1	1	species	8364	                                                  Xenopus tropicalis
+1.3889	1	0	subgenus	262014	                                                Xenopus
+1.3889	1	1	species	8355	                                                  Xenopus laevis
+1.3889	1	0	clade	32524	                                  Amniota
+1.3889	1	0	clade	8457	                                    Sauropsida
+1.3889	1	0	clade	32561	                                      Sauria
+1.3889	1	0	class	8504	                                        Lepidosauria
+1.3889	1	0	order	8509	                                          Squamata
+1.3889	1	0	clade	1329961	                                            Bifurcata
+1.3889	1	0	clade	1329950	                                              Unidentata
+1.3889	1	0	clade	1329912	                                                Episquamata
+1.3889	1	0	clade	1329976	                                                  Laterata
+1.3889	1	0	clade	1329975	                                                    Lacertibaenia
+1.3889	1	0	family	8522	                                                      Lacertidae
+1.3889	1	0	subfamily	162266	                                                        Lacertinae
+1.3889	1	0	genus	42163	                                                          Podarcis
+1.3889	1	1	species	64176	                                                            Podarcis muralis
+1.3889	1	0	phylum	6073	            Cnidaria
+1.3889	1	0	class	6101	              Anthozoa
+1.3889	1	0	subclass	6102	                Hexacorallia
+1.3889	1	0	order	6125	                  Scleractinia
+1.3889	1	0	suborder	123760	                    Faviina
+1.3889	1	0	family	46736	                      Merulinidae
+1.3889	1	0	genus	1920453	                        Orbicella
+1.3889	1	1	species	48498	                          Orbicella faveolata
+1.3889	1	0	class	28009	        Choanoflagellata
+1.3889	1	0	order	1924738	          Craspedida
+1.3889	1	0	family	81529	            Salpingoecidae
+1.3889	1	0	genus	86017	              Salpingoeca
+1.3889	1	1	species	946362	                Salpingoeca rosetta
+18.0556	13	0	kingdom	33090	      Viridiplantae
+18.0556	13	0	phylum	35493	        Streptophyta
+18.0556	13	0	subphylum	131221	          Streptophytina
+18.0556	13	0	clade	3193	            Embryophyta
+18.0556	13	0	clade	58023	              Tracheophyta
+18.0556	13	0	clade	78536	                Euphyllophyta
+18.0556	13	0	clade	58024	                  Spermatophyta
+18.0556	13	0	class	3398	                    Magnoliopsida
+18.0556	13	0	clade	1437183	                      Mesangiospermae
+18.0556	13	0	order	41768	                        Ranunculales
+18.0556	13	0	family	3440	                          Ranunculaceae
+18.0556	13	0	subfamily	1463137	                            Thalictroideae
+18.0556	13	0	genus	46968	                              Thalictrum
+18.0556	13	13	species	46969	                                Thalictrum thalictroides
+1.3889	1	0	clade	2698737	      Sar
+1.3889	1	0	clade	33634	        Stramenopiles
+1.3889	1	1	phylum	4762	          Oomycota
+13.8889	10	2	superkingdom	2	    Bacteria
+6.9444	5	1	phylum	1224	      Proteobacteria
+5.5556	4	3	class	1236	        Gammaproteobacteria
+1.3889	1	1	order	91347	          Enterobacterales
+4.1667	3	0	clade	1783272	      Terrabacteria group
+4.1667	3	0	phylum	1239	        Firmicutes
+2.7778	2	0	class	91061	          Bacilli
+2.7778	2	0	order	186826	            Lactobacillales
+2.7778	2	1	family	1300	              Streptococcaceae
+1.3889	1	1	genus	1357	                Lactococcus
+1.3889	1	1	class	186801	          Clostridia

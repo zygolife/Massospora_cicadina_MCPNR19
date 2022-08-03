@@ -1,0 +1,151 @@
+100.0000	55	8	no rank	1	root
+85.4545	47	2	no rank	131567	  cellular organisms
+61.8182	34	0	superkingdom	2759	    Eukaryota
+43.6364	24	1	clade	33154	      Opisthokonta
+30.9091	17	0	kingdom	4751	        Fungi
+29.0909	16	0	no rank	112252	          Fungi incertae sedis
+16.3636	9	1	phylum	1913638	            Zoopagomycota
+14.5455	8	0	subphylum	1264859	              Entomophthoromycotina
+12.7273	7	0	class	1399770	                Entomophthoromycetes
+12.7273	7	0	order	4857	                  Entomophthorales
+12.7273	7	0	family	34486	                    Ancylistaceae
+12.7273	7	0	genus	34487	                      Conidiobolus
+12.7273	7	0	species	34488	                        Conidiobolus coronatus
+12.7273	7	7	strain	796925	                          Conidiobolus coronatus NRRL 28638
+1.8182	1	0	class	1399768	                Basidiobolomycetes
+1.8182	1	0	order	1264872	                  Basidiobolales
+1.8182	1	0	family	4858	                    Basidiobolaceae
+1.8182	1	0	genus	4859	                      Basidiobolus
+1.8182	1	0	species	423460	                        Basidiobolus meristosporus
+1.8182	1	1	strain	1314790	                          Basidiobolus meristosporus CBS 931.73
+9.0909	5	0	phylum	1913637	            Mucoromycota
+3.6364	2	0	subphylum	451507	              Mucoromycotina
+3.6364	2	0	class	2212703	                Mucoromycetes
+3.6364	2	0	order	4827	                  Mucorales
+3.6364	2	0	family	4851	                    Cunninghamellaceae
+3.6364	2	0	genus	4828	                      Absidia
+3.6364	2	2	species	4829	                        Absidia glauca
+3.6364	2	0	subphylum	1137986	              Mortierellomycotina
+3.6364	2	0	class	2212732	                Mortierellomycetes
+3.6364	2	0	order	214503	                  Mortierellales
+3.6364	2	0	family	4854	                    Mortierellaceae
+3.6364	2	0	genus	2779861	                      Linnemannia
+3.6364	2	0	species	310910	                        Linnemannia elongata
+3.6364	2	2	strain	1314771	                          Linnemannia elongata AG-77
+1.8182	1	0	subphylum	214504	              Glomeromycotina
+1.8182	1	0	class	214506	                Glomeromycetes
+1.8182	1	0	order	36750	                  Glomerales
+1.8182	1	0	family	36751	                    Glomeraceae
+1.8182	1	0	genus	1129544	                      Rhizophagus
+1.8182	1	1	species	588596	                        Rhizophagus irregularis
+3.6364	2	0	phylum	4761	            Chytridiomycota
+3.6364	2	0	no rank	2683659	              Chytridiomycota incertae sedis
+3.6364	2	0	class	451435	                Chytridiomycetes
+3.6364	2	0	order	2231171	                  Synchytriales
+3.6364	2	0	family	286113	                    Synchytriaceae
+3.6364	2	0	genus	286114	                      Synchytrium
+1.8182	1	1	species	286115	                        Synchytrium endobioticum
+1.8182	1	1	species	1806994	                        Synchytrium microbalum
+1.8182	1	0	subkingdom	451864	          Dikarya
+1.8182	1	0	phylum	5204	            Basidiomycota
+1.8182	1	0	subphylum	29000	              Pucciniomycotina
+1.8182	1	0	class	162481	                Microbotryomycetes
+1.8182	1	0	order	55070	                  Microbotryales
+1.8182	1	0	family	55071	                    Microbotryaceae
+1.8182	1	0	genus	34416	                      Microbotryum
+1.8182	1	1	species	796604	                        Microbotryum silenes-dioicae
+10.9091	6	0	kingdom	33208	        Metazoa
+10.9091	6	0	clade	6072	          Eumetazoa
+9.0909	5	1	clade	33213	            Bilateria
+5.4545	3	0	clade	33511	              Deuterostomia
+5.4545	3	0	phylum	7711	                Chordata
+5.4545	3	0	subphylum	89593	                  Craniata
+5.4545	3	0	clade	7742	                    Vertebrata
+5.4545	3	0	clade	7776	                      Gnathostomata
+5.4545	3	0	clade	117570	                        Teleostomi
+5.4545	3	0	clade	117571	                          Euteleostomi
+3.6364	2	0	superclass	8287	                            Sarcopterygii
+3.6364	2	0	clade	1338369	                              Dipnotetrapodomorpha
+3.6364	2	0	clade	32523	                                Tetrapoda
+3.6364	2	0	clade	32524	                                  Amniota
+3.6364	2	0	clade	8457	                                    Sauropsida
+3.6364	2	0	clade	32561	                                      Sauria
+3.6364	2	0	clade	1329799	                                        Archelosauria
+3.6364	2	0	clade	8492	                                          Archosauria
+3.6364	2	0	order	1294634	                                            Crocodylia
+3.6364	2	0	family	1294636	                                              Alligatoridae
+3.6364	2	0	subfamily	34915	                                                Alligatorinae
+3.6364	2	0	genus	8495	                                                  Alligator
+3.6364	2	2	species	8496	                                                    Alligator mississippiensis
+1.8182	1	0	superclass	7898	                            Actinopterygii
+1.8182	1	0	class	186623	                              Actinopteri
+1.8182	1	0	subclass	41665	                                Neopterygii
+1.8182	1	0	infraclass	32443	                                  Teleostei
+1.8182	1	0	clade	1489341	                                    Osteoglossocephalai
+1.8182	1	0	no rank	186625	                                      Clupeocephala
+1.8182	1	0	cohort	186634	                                        Otomorpha
+1.8182	1	0	subcohort	32519	                                          Ostariophysi
+1.8182	1	0	clade	186626	                                            Otophysi
+1.8182	1	0	superorder	186628	                                              Characiphysae
+1.8182	1	0	order	7991	                                                Characiformes
+1.8182	1	0	suborder	1489739	                                                  Characoidei
+1.8182	1	0	family	42495	                                                    Serrasalmidae
+1.8182	1	0	genus	42513	                                                      Pygocentrus
+1.8182	1	1	species	42514	                                                        Pygocentrus nattereri
+1.8182	1	0	clade	33317	              Protostomia
+1.8182	1	0	clade	1206794	                Ecdysozoa
+1.8182	1	0	clade	88770	                  Panarthropoda
+1.8182	1	1	phylum	6656	                    Arthropoda
+1.8182	1	0	phylum	6073	            Cnidaria
+1.8182	1	0	class	6101	              Anthozoa
+1.8182	1	0	subclass	6102	                Hexacorallia
+1.8182	1	0	order	6125	                  Scleractinia
+1.8182	1	0	suborder	123760	                    Faviina
+1.8182	1	0	family	46736	                      Merulinidae
+1.8182	1	0	genus	1920453	                        Orbicella
+1.8182	1	1	species	48498	                          Orbicella faveolata
+18.1818	10	0	kingdom	33090	      Viridiplantae
+18.1818	10	0	phylum	35493	        Streptophyta
+16.3636	9	0	subphylum	131221	          Streptophytina
+16.3636	9	0	clade	3193	            Embryophyta
+16.3636	9	0	clade	58023	              Tracheophyta
+16.3636	9	0	clade	78536	                Euphyllophyta
+16.3636	9	0	clade	58024	                  Spermatophyta
+16.3636	9	0	class	3398	                    Magnoliopsida
+16.3636	9	0	clade	1437183	                      Mesangiospermae
+16.3636	9	0	order	41768	                        Ranunculales
+16.3636	9	0	family	3440	                          Ranunculaceae
+16.3636	9	0	subfamily	1463137	                            Thalictroideae
+16.3636	9	0	genus	46968	                              Thalictrum
+16.3636	9	9	species	46969	                                Thalictrum thalictroides
+1.8182	1	0	class	131220	          Klebsormidiophyceae
+1.8182	1	0	order	3172	            Klebsormidiales
+1.8182	1	0	family	3173	              Klebsormidiaceae
+1.8182	1	0	genus	3174	                Klebsormidium
+1.8182	1	1	species	105231	                  Klebsormidium nitens
+20.0000	11	2	superkingdom	2	    Bacteria
+12.7273	7	0	clade	1783272	      Terrabacteria group
+10.9091	6	0	phylum	201174	        Actinobacteria
+10.9091	6	2	class	1760	          Actinomycetia
+3.6364	2	0	order	85006	            Micrococcales
+3.6364	2	0	family	1268	              Micrococcaceae
+1.8182	1	0	genus	1663	                Arthrobacter
+1.8182	1	1	no rank	235627	                  unclassified Arthrobacter
+1.8182	1	0	genus	1868332	                Neomicrococcus
+1.8182	1	1	species	556325	                  Neomicrococcus aestuarii
+1.8182	1	0	order	85007	            Corynebacteriales
+1.8182	1	0	family	1653	              Corynebacteriaceae
+1.8182	1	0	genus	1716	                Corynebacterium
+1.8182	1	1	no rank	2624378	                  unclassified Corynebacterium
+1.8182	1	0	order	85008	            Micromonosporales
+1.8182	1	0	family	28056	              Micromonosporaceae
+1.8182	1	0	genus	1873	                Micromonospora
+1.8182	1	1	species	47866	                  Micromonospora inyonensis
+1.8182	1	0	phylum	544448	        Tenericutes
+1.8182	1	0	class	31969	          Mollicutes
+1.8182	1	1	order	2085	            Mycoplasmatales
+3.6364	2	1	phylum	1224	      Proteobacteria
+1.8182	1	0	class	1236	        Gammaproteobacteria
+1.8182	1	0	order	72274	          Pseudomonadales
+1.8182	1	0	family	135621	            Pseudomonadaceae
+1.8182	1	1	genus	286	              Pseudomonas

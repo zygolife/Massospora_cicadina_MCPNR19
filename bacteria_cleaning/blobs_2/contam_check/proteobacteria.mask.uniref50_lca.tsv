@@ -1,0 +1,782 @@
+split1_ctg7989	1	no rank	root	unknown;unknown	-_root
+split3_ctg7989	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg8063	1	no rank	root	unknown;unknown	-_root
+ctg8159	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg8161	994334	species	Jimgerdemannia flammicorona	Eukaryota;Mucoromycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Endogonomycetes;o_Endogonales;f_Endogonaceae;g_Jimgerdemannia;s_Jimgerdemannia flammicorona
+ctg8217	1	no rank	root	unknown;unknown	-_root
+ctg8397	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+split3_ctg8404	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg8452	1	no rank	root	unknown;unknown	-_root
+ctg8523	1	no rank	root	unknown;unknown	-_root
+ctg2173	86630	species	Rhizopus azygosporus	Eukaryota;Mucoromycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Mucoromycetes;o_Mucorales;-_Mucorineae;f_Rhizopodaceae;g_Rhizopus;s_Rhizopus azygosporus
+ctg2428	112252	no rank	Fungi incertae sedis	Eukaryota;unknown	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis
+split9_ctg2751	1	no rank	root	unknown;unknown	-_root
+split11_ctg2751	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg2826	1	no rank	root	unknown;unknown	-_root
+ctg2882	796925	strain	Conidiobolus coronatus NRRL 28638	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+split3_ctg2952	1	no rank	root	unknown;unknown	-_root
+ctg3325	1	no rank	root	unknown;unknown	-_root
+ctg3326	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg3346	588596	species	Rhizophagus irregularis	Eukaryota;Mucoromycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Glomeromycotina;c_Glomeromycetes;o_Glomerales;f_Glomeraceae;g_Rhizophagus;s_Rhizophagus irregularis
+ctg5584	1	no rank	root	unknown;unknown	-_root
+split2_ctg5612	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg5733	1	no rank	root	unknown;unknown	-_root
+ctg5737	796925	strain	Conidiobolus coronatus NRRL 28638	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+ctg5802	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg5811	1	no rank	root	unknown;unknown	-_root
+ctg5903	1	no rank	root	unknown;unknown	-_root
+ctg5994	1	no rank	root	unknown;unknown	-_root
+split2_ctg6018	1	no rank	root	unknown;unknown	-_root
+split1_ctg6140	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg7410	1	no rank	root	unknown;unknown	-_root
+split1_split0_ctg7416	1	no rank	root	unknown;unknown	-_root
+split2_ctg7416	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+split0_ctg7429	1	no rank	root	unknown;unknown	-_root
+split2_ctg7429	1	no rank	root	unknown;unknown	-_root
+ctg7547	33213	clade	Bilateria	Eukaryota;unknown	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria
+ctg7543	1	no rank	root	unknown;unknown	-_root
+ctg7662	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split1_ctg7722	1	no rank	root	unknown;unknown	-_root
+split2_ctg7722	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+split3_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split4_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+ctg14242	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg14265	1	no rank	root	unknown;unknown	-_root
+ctg14332	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg14353	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+split1_ctg14355	1	no rank	root	unknown;unknown	-_root
+split4_ctg14355	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg14359	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split0_ctg14387	1	no rank	root	unknown;unknown	-_root
+split20_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split21_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split1_split0_ctg11784	1	no rank	root	unknown;unknown	-_root
+split36_ctg11784	1	no rank	root	unknown;unknown	-_root
+ctg11823	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+split0_ctg11830	1	no rank	root	unknown;unknown	-_root
+split8_ctg11830	1	no rank	root	unknown;unknown	-_root
+ctg11893	1	no rank	root	unknown;unknown	-_root
+ctg11984	1	no rank	root	unknown;unknown	-_root
+ctg12031	1	no rank	root	unknown;unknown	-_root
+ctg11404	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split0_ctg11411	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg20275	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg20281	1	no rank	root	unknown;unknown	-_root
+ctg20294	1	no rank	root	unknown;unknown	-_root
+ctg20303	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg20296	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg20302	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg20333	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg20343	1	no rank	root	unknown;unknown	-_root
+split1_ctg20505	1	no rank	root	unknown;unknown	-_root
+split3_ctg20505	111527	species group	pseudomallei group	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Burkholderia;-_pseudomallei group
+ctg16691	1	no rank	root	unknown;unknown	-_root
+ctg16700	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg16710	53335	genus	Pantoea	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea
+ctg16716	1	no rank	root	unknown;unknown	-_root
+ctg16726	1	no rank	root	unknown;unknown	-_root
+ctg16785	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg16790	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg16813	1	no rank	root	unknown;unknown	-_root
+split37_split0_ctg9	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+split39_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split41_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split42_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split44_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split45_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split2_ctg9	1	no rank	root	unknown;unknown	-_root
+ctg27	1938954	species	Bifiguratus adelaidae	Eukaryota;Mucoromycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Endogonomycetes;o_Endogonales;-_Endogonales incertae sedis;g_Bifiguratus;s_Bifiguratus adelaidae
+ctg55	1264859	subphylum	Entomophthoromycotina	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina
+ctg239	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg6409	588596	species	Rhizophagus irregularis	Eukaryota;Mucoromycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Glomeromycotina;c_Glomeromycetes;o_Glomerales;f_Glomeraceae;g_Rhizophagus;s_Rhizophagus irregularis
+ctg6431	716546	clade	leotiomyceta	Eukaryota;Ascomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta
+ctg6718	1	no rank	root	unknown;unknown	-_root
+split1_ctg6805	1	no rank	root	unknown;unknown	-_root
+split1_ctg6840	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split2_ctg6840	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split4_ctg6840	33069	species	Pseudomonas viridiflava	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas syringae group;s_Pseudomonas viridiflava
+split6_ctg6840	1	no rank	root	unknown;unknown	-_root
+ctg6860	1	no rank	root	unknown;unknown	-_root
+ctg6948	451435	class	Chytridiomycetes	Eukaryota;Chytridiomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Chytridiomycota;-_Chytridiomycota incertae sedis;c_Chytridiomycetes
+ctg3416	796925	strain	Conidiobolus coronatus NRRL 28638	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+ctg3559	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg15875	92645	species	Herbaspirillum frisingense	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae;g_Herbaspirillum;s_Herbaspirillum frisingense
+ctg15954	334625	species	Oppiella nova	Eukaryota;Arthropoda	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Chelicerata;c_Arachnida;-_Acari;-_Acariformes;o_Sarcoptiformes;-_Oribatida;-_Brachypylina;-_Oppioidea;f_Oppiidae;g_Oppiella;s_Oppiella nova
+ctg15976	1	no rank	root	unknown;unknown	-_root
+split0_ctg15991	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+split0_ctg15996	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+split8_ctg15996	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg16000	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg16045	1	no rank	root	unknown;unknown	-_root
+ctg6306	1	no rank	root	unknown;unknown	-_root
+ctg6344	6246	family	Strongyloididae	Eukaryota;Nematoda	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;p_Nematoda;c_Chromadorea;o_Rhabditida;-_Tylenchina;-_Panagrolaimomorpha;-_Strongyloidoidea;f_Strongyloididae
+split0_ctg10943	1	no rank	root	unknown;unknown	-_root
+split24_ctg10943	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg11032	78915	species	Thamnocephalis sphaerospora	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Zoopagomycotina;c_Zoopagomycetes;o_Zoopagales;f_Sigmoideomycetaceae;g_Thamnocephalis;s_Thamnocephalis sphaerospora
+ctg11118	1	no rank	root	unknown;unknown	-_root
+ctg11173	1	no rank	root	unknown;unknown	-_root
+ctg11178	1	no rank	root	unknown;unknown	-_root
+ctg11204	1	no rank	root	unknown;unknown	-_root
+ctg11223	29169	genus	Ancylostoma	Eukaryota;Nematoda	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;p_Nematoda;c_Chromadorea;o_Strongylida;-_Ancylostomatoidea;f_Ancylostomatidae;-_Ancylostomatinae;g_Ancylostoma
+split1_ctg10924	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+split5_ctg10924	1	no rank	root	unknown;unknown	-_root
+ctg17884	1	no rank	root	unknown;unknown	-_root
+ctg17898	1	no rank	root	unknown;unknown	-_root
+ctg20140	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg20183	1	no rank	root	unknown;unknown	-_root
+ctg20208	1	no rank	root	unknown;unknown	-_root
+ctg20206	1	no rank	root	unknown;unknown	-_root
+ctg20232	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg20223	1245745	strain	Beauveria bassiana D1-5	Eukaryota;Ascomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+ctg15267	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg15280	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg12216	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg12220	1	no rank	root	unknown;unknown	-_root
+ctg12235	1	no rank	root	unknown;unknown	-_root
+split1_ctg12306	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split3_ctg12306	1	no rank	root	unknown;unknown	-_root
+ctg12313	1	no rank	root	unknown;unknown	-_root
+ctg12364	1	no rank	root	unknown;unknown	-_root
+ctg12374	1	no rank	root	unknown;unknown	-_root
+ctg15284	1	no rank	root	unknown;unknown	-_root
+ctg15302	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg15341	1	no rank	root	unknown;unknown	-_root
+ctg15346	1	no rank	root	unknown;unknown	-_root
+ctg15392	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg15446	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg15451	1	no rank	root	unknown;unknown	-_root
+ctg15489	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split2_ctg15503	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg15558	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split2_ctg408	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split1_ctg449	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg13717	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg13730	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg13737	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg13800	10662	family	Myoviridae	Viruses;Uroviricota	d_Viruses;-_Duplodnaviria;k_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales;f_Myoviridae
+ctg13812	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg13818	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg13856	1	no rank	root	unknown;unknown	-_root
+ctg13861	1	no rank	root	unknown;unknown	-_root
+split14_ctg14387	1	no rank	root	unknown;unknown	-_root
+ctg14396	1	no rank	root	unknown;unknown	-_root
+ctg13016	1	no rank	root	unknown;unknown	-_root
+ctg13038	1	no rank	root	unknown;unknown	-_root
+ctg13122	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split1_ctg13147	1903409	family	Erwiniaceae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+split2_ctg13147	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg13157	1	no rank	root	unknown;unknown	-_root
+ctg13198	1	no rank	root	unknown;unknown	-_root
+ctg13258	1	no rank	root	unknown;unknown	-_root
+split2_split2_ctg7917	1	no rank	root	unknown;unknown	-_root
+ctg7950	1454005	species	Candidatus Accumulibacter sp. BA-94	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_Betaproteobacteria incertae sedis;g_Candidatus Accumulibacter;-_unclassified Candidatus Accumulibacter;s_Candidatus Accumulibacter sp. BA-94
+split3_split43_ctg8990	1	no rank	root	unknown;unknown	-_root
+ctg9070	1	no rank	root	unknown;unknown	-_root
+ctg9136	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg9138	1	no rank	root	unknown;unknown	-_root
+ctg9281	133383	species	Smittium mucronatum	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Kickxellomycotina;c_Harpellomycetes;o_Harpellales;f_Legeriomycetaceae;g_Smittium;s_Smittium mucronatum
+ctg9405	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg9424	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg9425	1	no rank	root	unknown;unknown	-_root
+split6_ctg18445	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg18452	294	species	Pseudomonas fluorescens	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas fluorescens group;s_Pseudomonas fluorescens
+ctg18461	61474	species	Timema californicum	Eukaryota;Arthropoda	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Polyneoptera;o_Phasmatodea;-_Timematodea;-_Timematoidea;f_Timematidae;g_Timema;s_Timema californicum
+ctg18464	1	no rank	root	unknown;unknown	-_root
+ctg18465	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg18477	1	no rank	root	unknown;unknown	-_root
+ctg18494	1903409	family	Erwiniaceae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+ctg18519	1357	genus	Lactococcus	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+ctg18520	1	no rank	root	unknown;unknown	-_root
+split1_ctg18525	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split2_split0_ctg13531	413497	species	Cronobacter dublinensis	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Cronobacter;s_Cronobacter dublinensis
+split9_split59_ctg13531	1	no rank	root	unknown;unknown	-_root
+ctg13537	1	no rank	root	unknown;unknown	-_root
+ctg13588	1	no rank	root	unknown;unknown	-_root
+split1_ctg13614	1	no rank	root	unknown;unknown	-_root
+split2_ctg13614	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split0_ctg13644	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg13652	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg13670	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg13696	1	no rank	root	unknown;unknown	-_root
+ctg12053	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg12065	1	no rank	root	unknown;unknown	-_root
+split4_ctg7722	1	no rank	root	unknown;unknown	-_root
+ctg7748	796925	strain	Conidiobolus coronatus NRRL 28638	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+ctg7761	35722	species	Parasitella parasitica	Eukaryota;Mucoromycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Mucoromycetes;o_Mucorales;-_Mucorineae;f_Mucoraceae;g_Parasitella;s_Parasitella parasitica
+ctg7853	451507	subphylum	Mucoromycotina	Eukaryota;Mucoromycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina
+ctg7857	1	no rank	root	unknown;unknown	-_root
+split1_split0_ctg7917	1	no rank	root	unknown;unknown	-_root
+split3_split0_ctg7917	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split1_split2_ctg7917	1	no rank	root	unknown;unknown	-_root
+ctg20259	1	no rank	root	unknown;unknown	-_root
+ctg20254	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg15584	1	no rank	root	unknown;unknown	-_root
+ctg15624	1903409	family	Erwiniaceae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+ctg15666	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg15674	1	no rank	root	unknown;unknown	-_root
+split1_ctg15735	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+split2_ctg15735	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg15757	1	no rank	root	unknown;unknown	-_root
+ctg15767	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg13886	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg13897	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg14647	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg14672	1	no rank	root	unknown;unknown	-_root
+ctg14676	2069292	species	Abscondita terminalis	Eukaryota;Arthropoda	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Endopterygota;o_Coleoptera;-_Polyphaga;-_Elateriformia;-_Elateroidea;f_Lampyridae;-_Luciolinae;g_Abscondita;s_Abscondita terminalis
+split1_ctg14679	1	no rank	root	unknown;unknown	-_root
+split3_ctg14679	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+split4_ctg14679	1	no rank	root	unknown;unknown	-_root
+split0_ctg14695	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg14702	1	no rank	root	unknown;unknown	-_root
+ctg7016	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg7078	109895	species	Powellomyces hirtus	Eukaryota;Chytridiomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Chytridiomycota;-_Chytridiomycota incertae sedis;c_Chytridiomycetes;o_Spizellomycetales;f_Powellomycetaceae;g_Powellomyces;s_Powellomyces hirtus
+ctg7101	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg7133	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+split0_ctg7147	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+split2_ctg7147	1	no rank	root	unknown;unknown	-_root
+ctg7173	151549	species	Eumeta japonica	Eukaryota;Arthropoda	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Endopterygota;-_Amphiesmenoptera;o_Lepidoptera;-_Glossata;-_Neolepidoptera;-_Heteroneura;-_Ditrysia;-_Tineoidea;f_Psychidae;-_Oiketicinae;g_Eumeta;s_Eumeta japonica
+ctg7255	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split2_ctg7281	1	no rank	root	unknown;unknown	-_root
+ctg7350	1	no rank	root	unknown;unknown	-_root
+ctg13525	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split1_split0_ctg13531	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split0_ctg3587	1	no rank	root	unknown;unknown	-_root
+split12_ctg3587	1	no rank	root	unknown;unknown	-_root
+ctg3640	549	species	Pantoea agglomerans	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;-_Pantoea agglomerans group;s_Pantoea agglomerans
+ctg3754	6656	phylum	Arthropoda	Eukaryota;Arthropoda	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda
+split1_ctg3914	1	no rank	root	unknown;unknown	-_root
+ctg3923	796925	strain	Conidiobolus coronatus NRRL 28638	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+split1_ctg3948	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg4020	1	no rank	root	unknown;unknown	-_root
+ctg10615	1	no rank	root	unknown;unknown	-_root
+ctg10628	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg10306	1314771	strain	Linnemannia elongata AG-77	Eukaryota;Mucoromycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mortierellomycotina;c_Mortierellomycetes;o_Mortierellales;f_Mortierellaceae;g_Linnemannia;s_Linnemannia elongata;-_Linnemannia elongata AG-77
+ctg10316	1	no rank	root	unknown;unknown	-_root
+ctg10339	1	no rank	root	unknown;unknown	-_root
+split1_ctg10389	1	no rank	root	unknown;unknown	-_root
+split2_ctg10389	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split4_ctg10389	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+split5_ctg10389	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split2_ctg10420	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split2_ctg9432	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+split1_ctg9467	1	no rank	root	unknown;unknown	-_root
+split2_ctg9467	1	no rank	root	unknown;unknown	-_root
+split3_ctg9467	1	no rank	root	unknown;unknown	-_root
+ctg9536	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split2_ctg9522	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split4_ctg9522	1	no rank	root	unknown;unknown	-_root
+split6_ctg9522	1	no rank	root	unknown;unknown	-_root
+split1_ctg9586	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split3_ctg9586	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg17164	1	no rank	root	unknown;unknown	-_root
+ctg17167	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg501	74557	species	Thraustotheca clavata	Eukaryota;Oomycota	-_cellular organisms;d_Eukaryota;-_Sar;-_Stramenopiles;p_Oomycota;o_Saprolegniales;f_Saprolegniaceae;g_Thraustotheca;s_Thraustotheca clavata
+split1_ctg800	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split10_ctg800	1	no rank	root	unknown;unknown	-_root
+ctg964	2015582	species	Bacteroidetes bacterium B1(2017)	Bacteria;Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;-_unclassified Bacteroidetes;s_Bacteroidetes bacterium B1(2017)
+ctg1017	1	no rank	root	unknown;unknown	-_root
+ctg1131	35722	species	Parasitella parasitica	Eukaryota;Mucoromycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Mucoromycetes;o_Mucorales;-_Mucorineae;f_Mucoraceae;g_Parasitella;s_Parasitella parasitica
+ctg1343	1263082	strain	Lichtheimia corymbifera JMRC:FSU:9682	Eukaryota;Mucoromycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Mucoromycetes;o_Mucorales;f_Lichtheimiaceae;g_Lichtheimia;s_Lichtheimia corymbifera;-_Lichtheimia corymbifera JMRC:FSU:9682
+ctg1369	101091	species	Choanephora cucurbitarum	Eukaryota;Mucoromycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Mucoromycetes;o_Mucorales;-_Mucorineae;f_Choanephoraceae;-_Choanephoroideae;g_Choanephora;s_Choanephora cucurbitarum
+split4_ctg9586	1	no rank	root	unknown;unknown	-_root
+ctg9591	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg9618	1	no rank	root	unknown;unknown	-_root
+ctg9643	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split0_ctg9659	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split8_ctg9659	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+split2_ctg9715	1	no rank	root	unknown;unknown	-_root
+ctg9764	1	no rank	root	unknown;unknown	-_root
+ctg9780	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg9811	1	no rank	root	unknown;unknown	-_root
+ctg19419	1	no rank	root	unknown;unknown	-_root
+ctg19523	136849	species group	Pseudomonas syringae group	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas syringae group
+ctg14907	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg14916	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg14958	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg14962	1	no rank	root	unknown;unknown	-_root
+ctg14969	1	no rank	root	unknown;unknown	-_root
+split0_ctg15014	543	family	Enterobacteriaceae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+split2_ctg15014	1	no rank	root	unknown;unknown	-_root
+ctg15056	1	no rank	root	unknown;unknown	-_root
+ctg18288	1	no rank	root	unknown;unknown	-_root
+ctg18289	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split4_ctg13322	1	no rank	root	unknown;unknown	-_root
+ctg13341	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg13388	1	no rank	root	unknown;unknown	-_root
+ctg13398	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg13409	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg13446	1	no rank	root	unknown;unknown	-_root
+ctg13491	3111	species	Prototheca wickerhamii	Eukaryota;Chlorophyta	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Chlorophyta;-_core chlorophytes;c_Trebouxiophyceae;o_Chlorellales;f_Chlorellaceae;g_Prototheca;s_Prototheca wickerhamii
+ctg13523	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+split34_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split35_split0_ctg9	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg19153	1	no rank	root	unknown;unknown	-_root
+ctg19163	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg19151	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg19161	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg19170	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg19174	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg19202	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg19203	129137	no rank	Pseudomonas amygdali pv. eriobotryae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas syringae group;-_Pseudomonas syringae group genomosp. 2;s_Pseudomonas amygdali;-_Pseudomonas amygdali pv. eriobotryae
+split1_split0_ctg10256	1	no rank	root	unknown;unknown	-_root
+split4_split0_ctg10256	1	no rank	root	unknown;unknown	-_root
+ctg14032	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split1_ctg14096	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split3_ctg10709	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg10745	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg10782	1	no rank	root	unknown;unknown	-_root
+split2_ctg10798	1	no rank	root	unknown;unknown	-_root
+split3_ctg10798	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split5_ctg10798	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg20257	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg20276	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg16917	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg16942	1	no rank	root	unknown;unknown	-_root
+ctg16947	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg16948	1	no rank	root	unknown;unknown	-_root
+ctg16971	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg16997	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg17026	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg17035	1	no rank	root	unknown;unknown	-_root
+split3_ctg17039	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg17050	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+split9_ctg18525	1	no rank	root	unknown;unknown	-_root
+ctg18575	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg18585	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg18577	1	no rank	root	unknown;unknown	-_root
+ctg18600	1	no rank	root	unknown;unknown	-_root
+ctg18558	1	no rank	root	unknown;unknown	-_root
+ctg18622	1	no rank	root	unknown;unknown	-_root
+ctg18630	1	no rank	root	unknown;unknown	-_root
+ctg19207	1	no rank	root	unknown;unknown	-_root
+ctg19184	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split6_split0_ctg9	1702250	species	Pseudomonas sp. IB20	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_unclassified Pseudomonas;s_Pseudomonas sp. IB20
+split9_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split11_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split12_split0_ctg9	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split13_split0_ctg9	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split17_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split18_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split19_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+ctg5075	1	no rank	root	unknown;unknown	-_root
+ctg5106	1913638	phylum	Zoopagomycota	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota
+ctg16301	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg16309	1	no rank	root	unknown;unknown	-_root
+ctg16348	1	no rank	root	unknown;unknown	-_root
+split1_ctg16371	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split2_ctg16371	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg16370	1	no rank	root	unknown;unknown	-_root
+ctg16425	303	species	Pseudomonas putida	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas putida group;s_Pseudomonas putida
+ctg16477	1	no rank	root	unknown;unknown	-_root
+split0_ctg17399	1	no rank	root	unknown;unknown	-_root
+split1_ctg17413	1	no rank	root	unknown;unknown	-_root
+split5_ctg17413	1	no rank	root	unknown;unknown	-_root
+split6_ctg17413	1	no rank	root	unknown;unknown	-_root
+ctg17470	1	no rank	root	unknown;unknown	-_root
+ctg17477	1	no rank	root	unknown;unknown	-_root
+ctg17501	1	no rank	root	unknown;unknown	-_root
+ctg17541	1	no rank	root	unknown;unknown	-_root
+ctg17566	1	no rank	root	unknown;unknown	-_root
+ctg17598	1	no rank	root	unknown;unknown	-_root
+split2_ctg14096	1	no rank	root	unknown;unknown	-_root
+split3_split29_ctg14121	1	no rank	root	unknown;unknown	-_root
+ctg14123	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg14134	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg14135	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg14161	1	no rank	root	unknown;unknown	-_root
+ctg14164	1245745	strain	Beauveria bassiana D1-5	Eukaryota;Ascomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+ctg14191	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg14218	135621	family	Pseudomonadaceae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae
+ctg14226	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg15778	1	no rank	root	unknown;unknown	-_root
+ctg15868	1	no rank	root	unknown;unknown	-_root
+ctg11236	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg11254	1	no rank	root	unknown;unknown	-_root
+split1_ctg11256	1	no rank	root	unknown;unknown	-_root
+split3_ctg11256	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+split6_ctg11256	1	no rank	root	unknown;unknown	-_root
+split7_ctg11256	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split8_ctg11256	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg11268	1	no rank	root	unknown;unknown	-_root
+ctg11234	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg11231	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split1_ctg8598	1	no rank	root	unknown;unknown	-_root
+split10_ctg8598	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split11_ctg8598	543	family	Enterobacteriaceae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+split12_ctg8598	1	no rank	root	unknown;unknown	-_root
+split14_ctg8598	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg8740	1	no rank	root	unknown;unknown	-_root
+ctg8846	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg8894	1	no rank	root	unknown;unknown	-_root
+ctg19843	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg19865	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg19910	1	no rank	root	unknown;unknown	-_root
+ctg19864	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg19960	1	no rank	root	unknown;unknown	-_root
+ctg19975	1	no rank	root	unknown;unknown	-_root
+ctg19985	1	no rank	root	unknown;unknown	-_root
+ctg19995	1	no rank	root	unknown;unknown	-_root
+ctg19988	1	no rank	root	unknown;unknown	-_root
+ctg20017	1903409	family	Erwiniaceae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+split1_split0_ctg2	1	no rank	root	unknown;unknown	-_root
+split3_split0_ctg2	1	no rank	root	unknown;unknown	-_root
+split14_split0_ctg2	1	no rank	root	unknown;unknown	-_root
+split25_split0_ctg2	1	no rank	root	unknown;unknown	-_root
+split26_split0_ctg2	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+split29_split0_ctg2	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split30_split0_ctg2	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split34_split0_ctg2	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+split3_split38_split0_ctg2	1	no rank	root	unknown;unknown	-_root
+split40_split0_ctg2	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg15081	413497	species	Cronobacter dublinensis	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Cronobacter;s_Cronobacter dublinensis
+ctg15097	72274	order	Pseudomonadales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales
+ctg19016	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg19058	549	species	Pantoea agglomerans	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;-_Pantoea agglomerans group;s_Pantoea agglomerans
+ctg19064	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg19076	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg19078	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split1_ctg19095	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+split3_ctg19095	1	no rank	root	unknown;unknown	-_root
+ctg19138	7375	species	Lucilia cuprina	Eukaryota;Arthropoda	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Endopterygota;o_Diptera;-_Brachycera;-_Muscomorpha;-_Eremoneura;-_Cyclorrhapha;-_Schizophora;-_Calyptratae;-_Oestroidea;f_Calliphoridae;-_Luciliinae;g_Lucilia;s_Lucilia cuprina
+split6_ctg12529	1	no rank	root	unknown;unknown	-_root
+ctg12545	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg2501	329046	species	Rhizoclosmatium globosum	Eukaryota;Chytridiomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Chytridiomycota;-_Chytridiomycota incertae sedis;c_Chytridiomycetes;o_Chytridiales;f_Chytriomycetaceae;g_Rhizoclosmatium;s_Rhizoclosmatium globosum
+ctg2566	1314790	strain	Basidiobolus meristosporus CBS 931.73	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Basidiobolomycetes;o_Basidiobolales;f_Basidiobolaceae;g_Basidiobolus;s_Basidiobolus meristosporus;-_Basidiobolus meristosporus CBS 931.73
+split0_ctg2607	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+split8_ctg2607	1	no rank	root	unknown;unknown	-_root
+ctg2734	86630	species	Rhizopus azygosporus	Eukaryota;Mucoromycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Mucoromycetes;o_Mucorales;-_Mucorineae;f_Rhizopodaceae;g_Rhizopus;s_Rhizopus azygosporus
+split1_ctg2751	1	no rank	root	unknown;unknown	-_root
+split3_ctg2751	1	no rank	root	unknown;unknown	-_root
+split5_ctg2751	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg18190	1	no rank	root	unknown;unknown	-_root
+ctg18228	1	no rank	root	unknown;unknown	-_root
+ctg12802	53335	genus	Pantoea	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea
+ctg12875	1	no rank	root	unknown;unknown	-_root
+ctg12906	1	no rank	root	unknown;unknown	-_root
+ctg12917	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+split1_ctg12948	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+split2_ctg12948	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+split3_ctg12948	54291	species	Raoultella ornithinolytica	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Raoultella;s_Raoultella ornithinolytica
+ctg12957	1	no rank	root	unknown;unknown	-_root
+split6_ctg10798	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+split7_ctg10798	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+split10_split306_ctg2	1	no rank	root	unknown;unknown	-_root
+split11_split306_ctg2	1	no rank	root	unknown;unknown	-_root
+split12_split306_ctg2	1	no rank	root	unknown;unknown	-_root
+split34_split306_ctg2	1	no rank	root	unknown;unknown	-_root
+split35_split306_ctg2	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split37_split306_ctg2	1	no rank	root	unknown;unknown	-_root
+split1_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split2_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+ctg17150	1	no rank	root	unknown;unknown	-_root
+ctg17193	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg13904	0	no rank	unclassified		
+ctg13935	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+split1_ctg13938	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split2_ctg13938	1	no rank	root	unknown;unknown	-_root
+split3_ctg13938	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg13968	1	no rank	root	unknown;unknown	-_root
+ctg13980	1	no rank	root	unknown;unknown	-_root
+ctg14024	1	no rank	root	unknown;unknown	-_root
+ctg16107	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg16115	2069292	species	Abscondita terminalis	Eukaryota;Arthropoda	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Endopterygota;o_Coleoptera;-_Polyphaga;-_Elateriformia;-_Elateroidea;f_Lampyridae;-_Luciolinae;g_Abscondita;s_Abscondita terminalis
+ctg16203	1	no rank	root	unknown;unknown	-_root
+ctg16209	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg16212	1	no rank	root	unknown;unknown	-_root
+ctg16216	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg16218	1	no rank	root	unknown;unknown	-_root
+ctg16224	1	no rank	root	unknown;unknown	-_root
+ctg16227	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg16238	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg20346	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg20395	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split0_ctg335	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split1_ctg350	1	no rank	root	unknown;unknown	-_root
+split4_ctg350	1	no rank	root	unknown;unknown	-_root
+split5_ctg350	1	no rank	root	unknown;unknown	-_root
+split7_ctg350	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split8_ctg350	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split9_ctg350	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split12_ctg350	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg5415	1	no rank	root	unknown;unknown	-_root
+ctg5582	4892	order	Saccharomycetales	Eukaryota;Ascomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Saccharomycotina;c_Saccharomycetes;o_Saccharomycetales
+split2_ctg10256	1	no rank	root	unknown;unknown	-_root
+ctg10307	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg17062	1851514	species	Scandinavium goeteborgense	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Scandinavium;s_Scandinavium goeteborgense
+ctg17068	1	no rank	root	unknown;unknown	-_root
+ctg17113	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg17112	1	no rank	root	unknown;unknown	-_root
+ctg17144	1	no rank	root	unknown;unknown	-_root
+ctg17161	1	no rank	root	unknown;unknown	-_root
+ctg16084	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg16103	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+split1_split26_ctg12431	1	no rank	root	unknown;unknown	-_root
+split2_split26_ctg12431	1	no rank	root	unknown;unknown	-_root
+split1_ctg12429	72274	order	Pseudomonadales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales
+split2_ctg12429	1	no rank	root	unknown;unknown	-_root
+split3_ctg12429	1	no rank	root	unknown;unknown	-_root
+ctg12487	1	no rank	root	unknown;unknown	-_root
+split4_ctg12522	1	no rank	root	unknown;unknown	-_root
+split0_ctg12529	1	no rank	root	unknown;unknown	-_root
+split7_ctg2751	1	no rank	root	unknown;unknown	-_root
+split8_ctg2751	1	no rank	root	unknown;unknown	-_root
+ctg10821	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg10832	1	no rank	root	unknown;unknown	-_root
+ctg16541	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg16543	1	no rank	root	unknown;unknown	-_root
+ctg16552	1245745	strain	Beauveria bassiana D1-5	Eukaryota;Ascomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+ctg16556	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg16601	0	no rank	unclassified		
+ctg16627	1	no rank	root	unknown;unknown	-_root
+split0_ctg14723	1	no rank	root	unknown;unknown	-_root
+split2_ctg14723	1	no rank	root	unknown;unknown	-_root
+ctg14752	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split0_ctg14772	1	no rank	root	unknown;unknown	-_root
+split2_split3_ctg14772	1	no rank	root	unknown;unknown	-_root
+ctg14787	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg14807	1	no rank	root	unknown;unknown	-_root
+ctg14817	1	no rank	root	unknown;unknown	-_root
+ctg14822	1300	family	Streptococcaceae	Bacteria;Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+ctg14853	135621	family	Pseudomonadaceae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae
+split1_ctg13322	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split2_ctg13322	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg4362	469	genus	Acinetobacter	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae;g_Acinetobacter
+split2_ctg4669	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg4759	1	no rank	root	unknown;unknown	-_root
+ctg4852	4862	family	Kickxellaceae	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Kickxellomycotina;c_Kickxellomycetes;o_Kickxellales;f_Kickxellaceae
+ctg4902	1	no rank	root	unknown;unknown	-_root
+split1_split0_ctg4929	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split3_split0_ctg4929	1	no rank	root	unknown;unknown	-_root
+split2_ctg4929	1	no rank	root	unknown;unknown	-_root
+ctg19246	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg19245	53335	genus	Pantoea	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea
+split2_ctg11411	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+split1_ctg11424	1	no rank	root	unknown;unknown	-_root
+split2_ctg11424	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg11467	1	no rank	root	unknown;unknown	-_root
+ctg11478	1	no rank	root	unknown;unknown	-_root
+ctg11577	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg11637	1	no rank	root	unknown;unknown	-_root
+ctg11655	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg10432	1	no rank	root	unknown;unknown	-_root
+ctg10489	1	no rank	root	unknown;unknown	-_root
+split2_ctg6140	1	no rank	root	unknown;unknown	-_root
+split3_ctg6140	1	no rank	root	unknown;unknown	-_root
+ctg6171	716546	clade	leotiomyceta	Eukaryota;Ascomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta
+split1_ctg6179	1	no rank	root	unknown;unknown	-_root
+split2_ctg6179	1	no rank	root	unknown;unknown	-_root
+split3_ctg6179	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split4_ctg6179	1	no rank	root	unknown;unknown	-_root
+ctg6265	4751	kingdom	Fungi	Eukaryota;uc_Fungi	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi
+ctg8933	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split1_split0_ctg8990	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split1_ctg10627	1	no rank	root	unknown;unknown	-_root
+split2_ctg10627	1	no rank	root	unknown;unknown	-_root
+ctg9843	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg9856	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg9889	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg9926	61474	species	Timema californicum	Eukaryota;Arthropoda	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Polyneoptera;o_Phasmatodea;-_Timematodea;-_Timematoidea;f_Timematidae;g_Timema;s_Timema californicum
+ctg9940	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg10094	1	no rank	root	unknown;unknown	-_root
+ctg19148	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg19158	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg4141	1	no rank	root	unknown;unknown	-_root
+ctg4343	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg19213	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split1_ctg19216	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg19224	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg19215	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg19243	1	no rank	root	unknown;unknown	-_root
+ctg19249	1	no rank	root	unknown;unknown	-_root
+ctg19597	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split0_ctg19612	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg19642	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg19645	1	no rank	root	unknown;unknown	-_root
+ctg19713	53335	genus	Pantoea	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea
+ctg19723	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg19747	1	no rank	root	unknown;unknown	-_root
+ctg19803	1	no rank	root	unknown;unknown	-_root
+ctg19813	47879	species	Pseudomonas corrugata	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas fluorescens group;s_Pseudomonas corrugata
+ctg19838	135621	family	Pseudomonadaceae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae
+ctg9431	1	no rank	root	unknown;unknown	-_root
+split1_ctg9432	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg15136	1	no rank	root	unknown;unknown	-_root
+ctg15142	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+split1_ctg15149	1	no rank	root	unknown;unknown	-_root
+split2_ctg15149	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg15224	1760	class	Actinomycetia	Bacteria;Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+ctg15251	543	family	Enterobacteriaceae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+split1_split0_ctg15237	1	no rank	root	unknown;unknown	-_root
+split31_ctg15237	1	no rank	root	unknown;unknown	-_root
+ctg11699	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg11735	1	no rank	root	unknown;unknown	-_root
+ctg17198	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg17235	1	no rank	root	unknown;unknown	-_root
+ctg17236	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg17252	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg17300	135621	family	Pseudomonadaceae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae
+ctg17325	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg17372	4762	phylum	Oomycota	Eukaryota;Oomycota	-_cellular organisms;d_Eukaryota;-_Sar;-_Stramenopiles;p_Oomycota
+split0_ctg17397	543	family	Enterobacteriaceae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+ctg16638	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg16660	1	no rank	root	unknown;unknown	-_root
+ctg16815	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg16839	549	species	Pantoea agglomerans	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;-_Pantoea agglomerans group;s_Pantoea agglomerans
+ctg18107	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg18136	1	no rank	root	unknown;unknown	-_root
+ctg18149	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg18177	53335	genus	Pantoea	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea
+ctg18179	1	no rank	root	unknown;unknown	-_root
+ctg18194	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+split0_ctg18649	1	no rank	root	unknown;unknown	-_root
+split2_ctg18649	1	no rank	root	unknown;unknown	-_root
+split22_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split24_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split25_split0_ctg9	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split26_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split28_split0_ctg9	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split29_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split31_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+split32_split0_ctg9	1	no rank	root	unknown;unknown	-_root
+ctg12701	1	no rank	root	unknown;unknown	-_root
+ctg12725	1	no rank	root	unknown;unknown	-_root
+ctg12756	1	no rank	root	unknown;unknown	-_root
+ctg12763	1	no rank	root	unknown;unknown	-_root
+ctg12771	1	no rank	root	unknown;unknown	-_root
+ctg12775	1	no rank	root	unknown;unknown	-_root
+ctg12784	1	no rank	root	unknown;unknown	-_root
+split0_ctg12796	1	no rank	root	unknown;unknown	-_root
+split4_ctg12796	1	no rank	root	unknown;unknown	-_root
+ctg12804	1	no rank	root	unknown;unknown	-_root
+split1_ctg12935	1	no rank	root	unknown;unknown	-_root
+split2_ctg12935	1	no rank	root	unknown;unknown	-_root
+ctg19244	1	no rank	root	unknown;unknown	-_root
+ctg19257	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg10513	994334	species	Jimgerdemannia flammicorona	Eukaryota;Mucoromycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Endogonomycetes;o_Endogonales;f_Endogonaceae;g_Jimgerdemannia;s_Jimgerdemannia flammicorona
+split0_ctg10519	1	no rank	root	unknown;unknown	-_root
+split12_ctg10519	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg10543	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg10555	1	no rank	root	unknown;unknown	-_root
+ctg10596	1	no rank	root	unknown;unknown	-_root
+split1_split0_ctg12563	1	no rank	root	unknown;unknown	-_root
+split1_split28_ctg12563	1	no rank	root	unknown;unknown	-_root
+split5_split28_ctg12563	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg12585	1	no rank	root	unknown;unknown	-_root
+split1_ctg12591	1	no rank	root	unknown;unknown	-_root
+split3_ctg12591	1	no rank	root	unknown;unknown	-_root
+split4_ctg12591	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg12610	28211	class	Alphaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+ctg12658	1	no rank	root	unknown;unknown	-_root
+ctg12696	4751	kingdom	Fungi	Eukaryota;uc_Fungi	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi
+split2_ctg17397	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg17404	1	no rank	root	unknown;unknown	-_root
+ctg14418	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg14431	1	no rank	root	unknown;unknown	-_root
+ctg14429	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg14437	339	species	Xanthomonas campestris	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Xanthomonas;s_Xanthomonas campestris
+ctg14435	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg14446	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg14463	1	no rank	root	unknown;unknown	-_root
+ctg14483	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split2_ctg18743	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg18742	1	no rank	root	unknown;unknown	-_root
+ctg18759	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg18760	1	no rank	root	unknown;unknown	-_root
+ctg18772	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg18834	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg18912	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg18951	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+split5_ctg18995	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg19036	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg18648	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg18665	1588022	species	Arthrobacter sp. Hiyo6	Bacteria;Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micrococcales;f_Micrococcaceae;g_Arthrobacter;-_unclassified Arthrobacter;s_Arthrobacter sp. Hiyo6
+ctg18678	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg18681	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split1_ctg18715	1	no rank	root	unknown;unknown	-_root
+split2_ctg18715	1	no rank	root	unknown;unknown	-_root
+split3_ctg18715	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+split7_ctg18715	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split8_ctg18715	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg18717	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg12078	1	no rank	root	unknown;unknown	-_root
+ctg12087	1	no rank	root	unknown;unknown	-_root
+split1_split0_ctg12092	1	no rank	root	unknown;unknown	-_root
+split2_split0_ctg12092	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+split10_ctg12092	746360	strain	Pseudomonas fluorescens WH6	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas fluorescens group;s_Pseudomonas fluorescens;-_Pseudomonas fluorescens WH6
+ctg12129	1	no rank	root	unknown;unknown	-_root
+ctg12143	1	no rank	root	unknown;unknown	-_root
+ctg12145	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg12164	549	species	Pantoea agglomerans	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;-_Pantoea agglomerans group;s_Pantoea agglomerans
+ctg12188	4862	family	Kickxellaceae	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Kickxellomycotina;c_Kickxellomycetes;o_Kickxellales;f_Kickxellaceae
+split1_ctg12384	1	no rank	root	unknown;unknown	-_root
+split1_split0_ctg12431	1	no rank	root	unknown;unknown	-_root
+ctg5240	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg5264	355688	no rank	Agaricomycetes incertae sedis	Eukaryota;Basidiomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Basidiomycota;-_Agaricomycotina;c_Agaricomycetes;-_Agaricomycetes incertae sedis
+split0_ctg5303	1	no rank	root	unknown;unknown	-_root
+split3_split40_ctg5303	1	no rank	root	unknown;unknown	-_root
+split4_split40_ctg5303	1	no rank	root	unknown;unknown	-_root
+ctg5345	215637	species	Dimargaris cristalligena	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Kickxellomycotina;c_Dimargaritomycetes;o_Dimargaritales;f_Dimargaritaceae;g_Dimargaris;s_Dimargaris cristalligena
+split5_ctg5361	1	no rank	root	unknown;unknown	-_root
+ctg5410	1	no rank	root	unknown;unknown	-_root
+ctg17877	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg17935	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg17940	1903409	family	Erwiniaceae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+ctg17946	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg17963	1245745	strain	Beauveria bassiana D1-5	Eukaryota;Ascomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+ctg17993	1	no rank	root	unknown;unknown	-_root
+ctg17944	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg18048	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg18078	1	no rank	root	unknown;unknown	-_root
+ctg18085	1	no rank	root	unknown;unknown	-_root
+split43_split0_ctg2	1	no rank	root	unknown;unknown	-_root
+split45_split0_ctg2	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split47_split0_ctg2	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split49_split0_ctg2	1	no rank	root	unknown;unknown	-_root
+split55_split0_ctg2	1	no rank	root	unknown;unknown	-_root
+split56_split0_ctg2	1	no rank	root	unknown;unknown	-_root
+split61_split0_ctg2	1	no rank	root	unknown;unknown	-_root
+split72_split0_ctg2	1	no rank	root	unknown;unknown	-_root
+split98_split0_ctg2	1	no rank	root	unknown;unknown	-_root
+split1_split306_ctg2	1	no rank	root	unknown;unknown	-_root
+ctg18343	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split0_ctg18352	1	no rank	root	unknown;unknown	-_root
+split4_ctg18352	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg18389	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg18388	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg18432	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg18422	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg18454	286	genus	Pseudomonas	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+ctg18456	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+split0_ctg18445	1	no rank	root	unknown;unknown	-_root
+ctg16507	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+ctg16513	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg19252	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg19322	1	no rank	root	unknown;unknown	-_root
+ctg19325	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg19382	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split1_ctg19390	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split4_ctg19390	75682	family	Oxalobacteraceae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae
+ctg19396	413497	species	Cronobacter dublinensis	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Cronobacter;s_Cronobacter dublinensis
+ctg19478	1	no rank	root	unknown;unknown	-_root
+ctg16671	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg16669	1	no rank	root	unknown;unknown	-_root
+ctg17632	1	no rank	root	unknown;unknown	-_root
+ctg17659	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg17749	53335	genus	Pantoea	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea
+ctg17770	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+ctg17790	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg17868	1	no rank	root	unknown;unknown	-_root
+ctg17860	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+ctg17882	1	no rank	root	unknown;unknown	-_root
+ctg14714	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg14715	1	no rank	root	unknown;unknown	-_root
+ctg14526	1	no rank	root	unknown;unknown	-_root
+ctg14592	1236	class	Gammaproteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+split1_ctg10863	1	no rank	root	unknown;unknown	-_root
+split2_ctg10863	55212	species	Erwinia rhapontici	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Erwinia;s_Erwinia rhapontici
+split1_ctg10880	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split3_ctg10880	131567	no rank	cellular organisms	unknown;unknown	-_cellular organisms
+split12_ctg10880	1	no rank	root	unknown;unknown	-_root
+split13_ctg10880	1	no rank	root	unknown;unknown	-_root
+ctg10896	1	no rank	root	unknown;unknown	-_root
+ctg10917	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria

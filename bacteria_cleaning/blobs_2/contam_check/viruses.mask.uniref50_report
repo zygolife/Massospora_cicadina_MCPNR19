@@ -1,0 +1,86 @@
+100.0000	32	8	no rank	1	root
+56.2500	18	0	no rank	131567	  cellular organisms
+43.7500	14	2	superkingdom	2	    Bacteria
+34.3750	11	1	phylum	1224	      Proteobacteria
+21.8750	7	0	class	1236	        Gammaproteobacteria
+21.8750	7	5	order	91347	          Enterobacterales
+6.2500	2	0	family	1903409	            Erwiniaceae
+6.2500	2	0	genus	551	              Erwinia
+3.1250	1	1	species	65700	                Erwinia tracheiphila
+3.1250	1	0	no rank	2622719	                unclassified Erwinia
+3.1250	1	1	species	1500895	                  Erwinia sp. 9145
+9.3750	3	0	class	28216	        Betaproteobacteria
+6.2500	2	0	order	80840	          Burkholderiales
+3.1250	1	0	family	506	            Alcaligenaceae
+3.1250	1	0	genus	1100891	              Paenalcaligenes
+3.1250	1	1	species	643674	                Paenalcaligenes hominis
+3.1250	1	0	family	75682	            Oxalobacteraceae
+3.1250	1	0	genus	846	              Oxalobacter
+3.1250	1	1	species	847	                Oxalobacter formigenes
+3.1250	1	0	order	206351	          Neisseriales
+3.1250	1	1	family	481	            Neisseriaceae
+3.1250	1	0	no rank	2323	      Bacteria incertae sedis
+3.1250	1	0	clade	1783234	        Bacteria candidate phyla
+3.1250	1	0	clade	95901	          Candidatus Dependentiae
+3.1250	1	0	no rank	1104668	            unclassified Candidatus Dependentiae
+3.1250	1	1	species	1619080	              candidate division TM6 bacterium GW2011_GWF2_33_332
+12.5000	4	0	superkingdom	2759	    Eukaryota
+12.5000	4	0	clade	33154	      Opisthokonta
+9.3750	3	0	kingdom	33208	        Metazoa
+9.3750	3	0	clade	6072	          Eumetazoa
+9.3750	3	0	clade	33213	            Bilateria
+9.3750	3	0	clade	33317	              Protostomia
+9.3750	3	0	clade	1206794	                Ecdysozoa
+9.3750	3	0	clade	88770	                  Panarthropoda
+9.3750	3	0	phylum	6656	                    Arthropoda
+6.2500	2	0	clade	197563	                      Mandibulata
+6.2500	2	0	clade	197562	                        Pancrustacea
+6.2500	2	0	subphylum	6960	                          Hexapoda
+6.2500	2	0	class	50557	                            Insecta
+6.2500	2	0	clade	85512	                              Dicondylia
+6.2500	2	0	subclass	7496	                                Pterygota
+6.2500	2	0	infraclass	33340	                                  Neoptera
+6.2500	2	0	cohort	33342	                                    Paraneoptera
+6.2500	2	0	order	7524	                                      Hemiptera
+6.2500	2	0	suborder	1955247	                                        Auchenorrhyncha
+6.2500	2	0	infraorder	33365	                                          Cicadomorpha
+6.2500	2	0	superfamily	33368	                                            Membracoidea
+6.2500	2	0	family	30102	                                              Cicadellidae
+6.2500	2	0	subfamily	33370	                                                Cicadellinae
+6.2500	2	0	tribe	565685	                                                  Proconiini
+6.2500	2	0	genus	139475	                                                    Homalodisca
+6.2500	2	2	species	320908	                                                      Homalodisca liturata
+3.1250	1	0	subphylum	6843	                      Chelicerata
+3.1250	1	0	class	6854	                        Arachnida
+3.1250	1	0	order	6893	                          Araneae
+3.1250	1	0	suborder	6905	                            Araneomorphae
+3.1250	1	0	clade	74971	                              Entelegynae
+3.1250	1	0	clade	74974	                                Orbiculariae
+3.1250	1	0	superfamily	74975	                                  Araneoidea
+3.1250	1	0	family	34643	                                    Theridiidae
+3.1250	1	0	genus	449632	                                      Parasteatoda
+3.1250	1	1	species	114398	                                        Parasteatoda tepidariorum
+3.1250	1	0	kingdom	4751	        Fungi
+3.1250	1	0	no rank	112252	          Fungi incertae sedis
+3.1250	1	0	phylum	1913638	            Zoopagomycota
+3.1250	1	0	subphylum	1264859	              Entomophthoromycotina
+3.1250	1	0	class	1399770	                Entomophthoromycetes
+3.1250	1	0	order	4857	                  Entomophthorales
+3.1250	1	0	family	34486	                    Ancylistaceae
+3.1250	1	0	genus	34487	                      Conidiobolus
+3.1250	1	0	species	34488	                        Conidiobolus coronatus
+3.1250	1	1	strain	796925	                          Conidiobolus coronatus NRRL 28638
+18.7500	6	1	superkingdom	10239	  Viruses
+15.6250	5	0	clade	2731341	    Duplodnaviria
+15.6250	5	0	kingdom	2731360	      Heunggongvirae
+15.6250	5	0	phylum	2731618	        Uroviricota
+15.6250	5	0	class	2731619	          Caudoviricetes
+15.6250	5	0	order	28883	            Caudovirales
+6.2500	2	0	family	10662	              Myoviridae
+6.2500	2	2	genus	680115	                Phikzvirus
+6.2500	2	0	family	10744	              Podoviridae
+6.2500	2	2	no rank	196895	                unclassified Podoviridae
+3.1250	1	0	family	10699	              Siphoviridae
+3.1250	1	0	genus	2733185	                Lanavirus
+3.1250	1	0	species	2734243	                  Pseudomonas virus Lana
+3.1250	1	1	no rank	2530172	                    Pseudomonas phage Lana

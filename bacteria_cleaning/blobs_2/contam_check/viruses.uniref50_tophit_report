@@ -1,0 +1,30 @@
+UniRef50_P25479	1	0.997	0.997	0.822	1	no rank	root	-_root
+UniRef50_E1SEW6	1	0.994	0.994	0.837	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_D2EBT8	1	0.999	0.999	0.831	10239	superkingdom	Viruses	d_Viruses
+UniRef50_C3X3V6	1	0.522	0.522	0.272	847	species	Oxalobacter formigenes	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae;g_Oxalobacter;s_Oxalobacter formigenes
+UniRef50_A0A137NVF4	1	0.619	0.619	0.412	796925	strain	Conidiobolus coronatus NRRL 28638	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+UniRef50_A0A378VDR6	1	0.594	0.594	0.627	481	family	Neisseriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae
+UniRef50_UPI0010F6900D	1	0.428	0.428	0.860	543	family	Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_UPI0015FE7A65	1	0.998	0.998	0.931	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0M2KCF5	1	0.553	0.553	0.922	65700	species	Erwinia tracheiphila	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Erwinia;s_Erwinia tracheiphila
+UniRef50_U7A459	1	0.984	0.984	0.781	1	no rank	root	-_root
+UniRef50_UPI00191A6EFF	1	0.893	0.893	0.924	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_UPI000F8CF45E	1	0.905	0.905	0.755	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A7T6ZL45	1	0.999	0.999	0.865	196895	no rank	unclassified Podoviridae	d_Viruses;-_Duplodnaviria;k_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales;f_Podoviridae;-_unclassified Podoviridae
+UniRef50_A0A481W562	1	0.540	0.540	0.801	680115	genus	Phikzvirus	d_Viruses;-_Duplodnaviria;k_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales;f_Myoviridae;g_Phikzvirus
+UniRef50_P03765	1	0.479	0.479	0.927	1	no rank	root	-_root
+UniRef50_A0A090V6J4	1	0.994	0.994	0.793	1	no rank	root	-_root
+UniRef50_A0A0C5E746	1	0.998	0.998	0.912	1	no rank	root	-_root
+UniRef50_UPI00055566DE	1	0.998	0.998	0.884	1500895	species	Erwinia sp. 9145	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Erwinia;-_unclassified Erwinia;s_Erwinia sp. 9145
+UniRef50_A0A5S6QBA2	1	0.169	0.169	0.503	70415	species	Trichuris muris	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;p_Nematoda;c_Enoplea;-_Dorylaimia;o_Trichinellida;f_Trichuridae;g_Trichuris;s_Trichuris muris
+UniRef50_K4F7E2	1	0.917	0.917	0.634	196895	no rank	unclassified Podoviridae	d_Viruses;-_Duplodnaviria;k_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales;f_Podoviridae;-_unclassified Podoviridae
+UniRef50_A0A6G9KFK6	1	0.250	0.250	0.646	2530172	no rank	Pseudomonas phage Lana	d_Viruses;-_Duplodnaviria;k_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales;f_Siphoviridae;g_Lanavirus;s_Pseudomonas virus Lana;-_Pseudomonas phage Lana
+UniRef50_A0A6G5Y3Z1	1	0.996	0.996	0.647	1	no rank	root	-_root
+UniRef50_A0A1B7HT48	2	0.918	1.823	0.619	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A1B0VMH5	1	0.999	0.999	0.741	1	no rank	root	-_root
+UniRef50_UPI000B45B7A5	1	0.874	0.874	0.499	6573	species	Mizuhopecten yessoensis	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Spiralia;-_Lophotrochozoa;p_Mollusca;c_Bivalvia;-_Autobranchia;-_Pteriomorphia;o_Pectinida;-_Pectinoidea;f_Pectinidae;g_Mizuhopecten;s_Mizuhopecten yessoensis
+UniRef50_A0A447V260	1	0.995	0.995	0.670	1	no rank	root	-_root
+UniRef50_A0A085AF51	1	0.838	0.838	0.760	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A1U9JY48	1	0.758	0.758	0.382	643674	species	Paenalcaligenes hominis	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Paenalcaligenes;s_Paenalcaligenes hominis
+UniRef50_A0A1B6J4J7	2	0.576	0.840	0.567	320908	species	Homalodisca liturata	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Paraneoptera;o_Hemiptera;-_Auchenorrhyncha;-_Cicadomorpha;-_Membracoidea;f_Cicadellidae;-_Cicadellinae;-_Proconiini;g_Homalodisca;s_Homalodisca liturata
+UniRef50_F8SK09	1	0.985	0.985	0.710	680115	genus	Phikzvirus	d_Viruses;-_Duplodnaviria;k_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales;f_Myoviridae;g_Phikzvirus

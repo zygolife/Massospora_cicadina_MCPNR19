@@ -1,0 +1,32 @@
+split4_ctg14703	1	no rank	root	unknown;unknown	-_root
+ctg14726	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg14981	6573	species	Mizuhopecten yessoensis	Eukaryota;Mollusca	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Spiralia;-_Lophotrochozoa;p_Mollusca;c_Bivalvia;-_Autobranchia;-_Pteriomorphia;o_Pectinida;-_Pectinoidea;f_Pectinidae;g_Mizuhopecten;s_Mizuhopecten yessoensis
+split2_ctg15375	481	family	Neisseriaceae	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae
+ctg15914	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+ctg16177	196895	no rank	unclassified Podoviridae	Viruses;Uroviricota	d_Viruses;-_Duplodnaviria;k_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales;f_Podoviridae;-_unclassified Podoviridae
+ctg16387	2	superkingdom	Bacteria	Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+split2_ctg16938	1	no rank	root	unknown;unknown	-_root
+split3_ctg16938	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg17373	320908	species	Homalodisca liturata	Eukaryota;Arthropoda	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Paraneoptera;o_Hemiptera;-_Auchenorrhyncha;-_Cicadomorpha;-_Membracoidea;f_Cicadellidae;-_Cicadellinae;-_Proconiini;g_Homalodisca;s_Homalodisca liturata
+ctg18675	643674	species	Paenalcaligenes hominis	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Paenalcaligenes;s_Paenalcaligenes hominis
+ctg19210	1	no rank	root	unknown;unknown	-_root
+ctg306	847	species	Oxalobacter formigenes	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae;g_Oxalobacter;s_Oxalobacter formigenes
+ctg3830	10744	family	Podoviridae	Viruses;Uroviricota	d_Viruses;-_Duplodnaviria;k_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales;f_Podoviridae
+split3_ctg3914	1	no rank	root	unknown;unknown	-_root
+ctg5314	796925	strain	Conidiobolus coronatus NRRL 28638	Eukaryota;Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+split2_ctg6805	65700	species	Erwinia tracheiphila	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Erwinia;s_Erwinia tracheiphila
+ctg8129	1	no rank	root	unknown;unknown	-_root
+ctg8157	680115	genus	Phikzvirus	Viruses;Uroviricota	d_Viruses;-_Duplodnaviria;k_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales;f_Myoviridae;g_Phikzvirus
+ctg8984	10239	superkingdom	Viruses	Viruses;uc_Viruses	d_Viruses
+ctg10057	70415	species	Trichuris muris	Eukaryota;Nematoda	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;p_Nematoda;c_Enoplea;-_Dorylaimia;o_Trichinellida;f_Trichuridae;g_Trichuris;s_Trichuris muris
+ctg12200	680115	genus	Phikzvirus	Viruses;Uroviricota	d_Viruses;-_Duplodnaviria;k_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales;f_Myoviridae;g_Phikzvirus
+ctg20006	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+ctg20456	320908	species	Homalodisca liturata	Eukaryota;Arthropoda	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Paraneoptera;o_Hemiptera;-_Auchenorrhyncha;-_Cicadomorpha;-_Membracoidea;f_Cicadellidae;-_Cicadellinae;-_Proconiini;g_Homalodisca;s_Homalodisca liturata
+ctg12420	1	no rank	root	unknown;unknown	-_root
+ctg13967	2530172	no rank	Pseudomonas phage Lana	Viruses;Uroviricota	d_Viruses;-_Duplodnaviria;k_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales;f_Siphoviridae;g_Lanavirus;s_Pseudomonas virus Lana;-_Pseudomonas phage Lana
+ctg14381	1500895	species	Erwinia sp. 9145	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Erwinia;-_unclassified Erwinia;s_Erwinia sp. 9145
+ctg14412	1	no rank	root	unknown;unknown	-_root
+ctg14607	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+split1_ctg14703	1224	phylum	Proteobacteria	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+split2_ctg14703	1	no rank	root	unknown;unknown	-_root
+split3_ctg14703	91347	order	Enterobacterales	Bacteria;Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales

@@ -1,0 +1,112 @@
+100.0000	55	8	no rank	1	root
+85.4545	47	3	no rank	131567	  cellular organisms
+56.3636	31	0	superkingdom	2759	    Eukaryota
+52.7273	29	1	clade	33154	      Opisthokonta
+50.9091	28	0	kingdom	4751	        Fungi
+47.2727	26	1	no rank	112252	          Fungi incertae sedis
+34.5455	19	3	phylum	1913638	            Zoopagomycota
+27.2727	15	0	subphylum	1264859	              Entomophthoromycotina
+20.0000	11	0	class	1399770	                Entomophthoromycetes
+20.0000	11	0	order	4857	                  Entomophthorales
+20.0000	11	0	family	34486	                    Ancylistaceae
+20.0000	11	0	genus	34487	                      Conidiobolus
+20.0000	11	0	species	34488	                        Conidiobolus coronatus
+20.0000	11	11	strain	796925	                          Conidiobolus coronatus NRRL 28638
+7.2727	4	0	class	1399768	                Basidiobolomycetes
+7.2727	4	0	order	1264872	                  Basidiobolales
+7.2727	4	0	family	4858	                    Basidiobolaceae
+7.2727	4	0	genus	4859	                      Basidiobolus
+7.2727	4	0	species	423460	                        Basidiobolus meristosporus
+7.2727	4	4	strain	1314790	                          Basidiobolus meristosporus CBS 931.73
+1.8182	1	0	subphylum	451828	              Kickxellomycotina
+1.8182	1	0	class	2219692	                Dimargaritomycetes
+1.8182	1	0	order	78918	                  Dimargaritales
+1.8182	1	0	family	78919	                    Dimargaritaceae
+1.8182	1	0	genus	78924	                      Dimargaris
+1.8182	1	1	species	215637	                        Dimargaris cristalligena
+9.0909	5	0	phylum	1913637	            Mucoromycota
+5.4545	3	1	subphylum	451507	              Mucoromycotina
+3.6364	2	0	class	2212703	                Mucoromycetes
+3.6364	2	1	order	4827	                  Mucorales
+1.8182	1	0	family	4851	                    Cunninghamellaceae
+1.8182	1	0	genus	4828	                      Absidia
+1.8182	1	1	species	4829	                        Absidia glauca
+3.6364	2	0	subphylum	1137986	              Mortierellomycotina
+3.6364	2	0	class	2212732	                Mortierellomycetes
+3.6364	2	0	order	214503	                  Mortierellales
+3.6364	2	0	family	4854	                    Mortierellaceae
+3.6364	2	0	genus	2779861	                      Linnemannia
+3.6364	2	0	species	310910	                        Linnemannia elongata
+3.6364	2	2	strain	1314771	                          Linnemannia elongata AG-77
+1.8182	1	0	phylum	4761	            Chytridiomycota
+1.8182	1	0	no rank	2683659	              Chytridiomycota incertae sedis
+1.8182	1	0	class	451435	                Chytridiomycetes
+1.8182	1	0	order	2231171	                  Synchytriales
+1.8182	1	0	family	286113	                    Synchytriaceae
+1.8182	1	0	genus	286114	                      Synchytrium
+1.8182	1	1	species	286115	                        Synchytrium endobioticum
+3.6364	2	0	subkingdom	451864	          Dikarya
+3.6364	2	0	phylum	4890	            Ascomycota
+3.6364	2	0	clade	716545	              saccharomyceta
+1.8182	1	0	subphylum	147537	                Saccharomycotina
+1.8182	1	0	class	4891	                  Saccharomycetes
+1.8182	1	1	order	4892	                    Saccharomycetales
+1.8182	1	0	subphylum	147538	                Pezizomycotina
+1.8182	1	0	clade	716546	                  leotiomyceta
+1.8182	1	0	class	147545	                    Eurotiomycetes
+1.8182	1	0	subclass	451871	                      Eurotiomycetidae
+1.8182	1	1	order	5042	                        Eurotiales
+1.8182	1	0	clade	554915	      Amoebozoa
+1.8182	1	0	phylum	2605435	        Evosea
+1.8182	1	0	class	2605334	          Variosea
+1.8182	1	0	order	2681888	            Cavosteliida
+1.8182	1	0	family	435412	              Cavosteliaceae
+1.8182	1	0	genus	65007	                Planoprotostelium
+1.8182	1	1	species	1890364	                  Planoprotostelium fungivorum
+1.8182	1	0	clade	2698737	      Sar
+1.8182	1	0	clade	33634	        Stramenopiles
+1.8182	1	0	phylum	4762	          Oomycota
+1.8182	1	0	order	370421	            Albuginales
+1.8182	1	0	family	65355	              Albuginaceae
+1.8182	1	0	genus	65356	                Albugo
+1.8182	1	1	species	65357	                  Albugo candida
+23.6364	13	2	superkingdom	2	    Bacteria
+14.5455	8	0	clade	1783272	      Terrabacteria group
+10.9091	6	0	phylum	201174	        Actinobacteria
+10.9091	6	2	class	1760	          Actinomycetia
+3.6364	2	0	order	85006	            Micrococcales
+3.6364	2	0	family	1268	              Micrococcaceae
+1.8182	1	0	genus	1663	                Arthrobacter
+1.8182	1	1	no rank	235627	                  unclassified Arthrobacter
+1.8182	1	0	genus	1868332	                Neomicrococcus
+1.8182	1	1	species	556325	                  Neomicrococcus aestuarii
+1.8182	1	0	order	85007	            Corynebacteriales
+1.8182	1	0	family	1653	              Corynebacteriaceae
+1.8182	1	0	genus	1716	                Corynebacterium
+1.8182	1	1	no rank	2624378	                  unclassified Corynebacterium
+1.8182	1	0	order	85008	            Micromonosporales
+1.8182	1	0	family	28056	              Micromonosporaceae
+1.8182	1	0	genus	1873	                Micromonospora
+1.8182	1	1	species	47866	                  Micromonospora inyonensis
+1.8182	1	0	phylum	1239	        Firmicutes
+1.8182	1	0	class	186801	          Clostridia
+1.8182	1	0	order	2770089	            Thermosediminibacterales
+1.8182	1	0	family	2770093	              Thermosediminibacteraceae
+1.8182	1	1	genus	291988	                Thermosediminibacter
+1.8182	1	0	phylum	544448	        Tenericutes
+1.8182	1	0	class	31969	          Mollicutes
+1.8182	1	1	order	2085	            Mycoplasmatales
+3.6364	2	1	phylum	1224	      Proteobacteria
+1.8182	1	0	class	1236	        Gammaproteobacteria
+1.8182	1	0	order	72274	          Pseudomonadales
+1.8182	1	0	family	135621	            Pseudomonadaceae
+1.8182	1	1	genus	286	              Pseudomonas
+1.8182	1	0	clade	1783270	      FCB group
+1.8182	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+1.8182	1	0	phylum	976	          Bacteroidetes
+1.8182	1	0	class	117747	            Sphingobacteriia
+1.8182	1	0	order	200666	              Sphingobacteriales
+1.8182	1	0	family	84566	                Sphingobacteriaceae
+1.8182	1	0	genus	423349	                  Mucilaginibacter
+1.8182	1	0	no rank	2617802	                    unclassified Mucilaginibacter
+1.8182	1	1	species	2695265	                      Mucilaginibacter sp. R11

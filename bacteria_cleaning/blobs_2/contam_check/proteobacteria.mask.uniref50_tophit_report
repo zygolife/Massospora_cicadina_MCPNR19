@@ -1,0 +1,710 @@
+UniRef50_A0A6A5KY47	2	0.565	0.934	0.833	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_Q48LX3	1	0.999	0.999	0.890	1	no rank	root	-_root
+UniRef50_A0A0S4IA13	1	0.973	0.973	0.749	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_B7LVH7	1	0.659	0.659	0.896	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A699IG36	1	0.385	0.385	0.888	118510	species	Tanacetum cinerariifolium	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_asterids;-_campanulids;o_Asterales;f_Asteraceae;-_Asteroideae;-_Anthemideae;-_Anthemidinae;g_Tanacetum;s_Tanacetum cinerariifolium
+UniRef50_A0A0N8REJ6	1	0.829	0.829	0.766	129137	no rank	Pseudomonas amygdali pv. eriobotryae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas syringae group;-_Pseudomonas syringae group genomosp. 2;s_Pseudomonas amygdali;-_Pseudomonas amygdali pv. eriobotryae
+UniRef50_A0A4R3WTL1	1	0.293	0.293	0.496	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A0J8YNS3	1	0.999	0.999	0.950	1903409	family	Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+UniRef50_A0A3M5QQB5	2	0.999	1.998	0.908	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_C6CBG9	1	0.998	0.998	0.838	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A197KF80	1	0.370	0.370	0.532	1314771	strain	Linnemannia elongata AG-77	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mortierellomycotina;c_Mortierellomycetes;o_Mortierellales;f_Mortierellaceae;g_Linnemannia;s_Linnemannia elongata;-_Linnemannia elongata AG-77
+UniRef50_A0A2H5TP52	1	0.465	0.465	0.519	588596	species	Rhizophagus irregularis	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Glomeromycotina;c_Glomeromycetes;o_Glomerales;f_Glomeraceae;g_Rhizophagus;s_Rhizophagus irregularis
+UniRef50_H3RIK4	2	0.999	1.997	0.878	1	no rank	root	-_root
+UniRef50_A0A0P9L521	1	0.934	0.934	0.797	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A255WVL0	1	0.999	0.999	0.904	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0H3KX72	2	0.964	1.913	0.868	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A4S3YCT1	1	0.998	0.998	0.849	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_P77748	1	0.998	0.998	0.817	1	no rank	root	-_root
+UniRef50_A0A011QN60	1	0.725	0.725	0.659	1454005	species	Candidatus Accumulibacter sp. BA-94	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_Betaproteobacteria incertae sedis;g_Candidatus Accumulibacter;-_unclassified Candidatus Accumulibacter;s_Candidatus Accumulibacter sp. BA-94
+UniRef50_Q9Z9H0	1	0.983	0.983	0.814	1	no rank	root	-_root
+UniRef50_A0A2Z6QYU9	1	0.859	0.859	0.576	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_D9Z4Z3	1	0.979	0.979	0.647	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A1I4SST8	1	0.999	0.999	0.684	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A0S4ICI6	3	0.999	2.990	0.747	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q0SZX7	1	0.999	0.999	0.893	1	no rank	root	-_root
+UniRef50_A0A068RUZ5	1	0.694	0.694	0.596	4751	kingdom	Fungi	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi
+UniRef50_A0A7H4M4I8	1	0.715	0.715	0.835	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A2K4G0M0	1	0.996	0.996	0.768	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P67088	1	0.993	0.993	0.804	1	no rank	root	-_root
+UniRef50_P20707	1	0.999	0.999	0.852	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P04825	2	0.999	1.997	0.844	1	no rank	root	-_root
+UniRef50_A0A1W6BB97	1	0.999	0.999	0.834	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A077FGG7	3	0.998	2.994	0.759	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A4WFL5	1	0.999	0.999	0.954	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A261XXB3	1	0.283	0.283	0.723	451507	subphylum	Mucoromycotina	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina
+UniRef50_Q9I6C8	1	0.998	0.998	0.777	1	no rank	root	-_root
+UniRef50_A0A163ITE5	1	0.550	0.550	0.830	4751	kingdom	Fungi	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi
+UniRef50_A0A0J8YR37	1	0.948	0.948	0.927	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0J9B4M0	1	0.999	0.999	0.959	1903409	family	Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+UniRef50_A0A6B9FUY7	1	0.820	0.820	0.662	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A5E6MVU2	1	0.993	0.993	0.927	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A6A5L3Q2	1	0.229	0.229	0.527	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_Q886Y6	1	0.648	0.648	0.562	1	no rank	root	-_root
+UniRef50_P19319	1	0.571	0.571	0.886	1	no rank	root	-_root
+UniRef50_A0A699K277	1	0.842	0.842	0.747	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A5E7BPN0	1	0.996	0.996	0.832	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A3M3XJB7	1	0.974	0.974	0.755	72274	order	Pseudomonadales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales
+UniRef50_A0A3M4AJ62	1	0.999	0.999	0.888	1	no rank	root	-_root
+UniRef50_A0A3M5QDH7	1	0.962	0.962	0.769	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_B2VIS7	1	0.998	0.998	0.820	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0A2VZ79	1	0.501	0.501	0.694	1245745	strain	Beauveria bassiana D1-5	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+UniRef50_A0A6A5L2X6	1	0.967	0.967	0.610	1	no rank	root	-_root
+UniRef50_A0A3R8ZSK4	1	0.582	0.582	0.683	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A377Z7Z8	1	0.668	0.668	0.703	543	family	Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_Q9HZE0	1	0.971	0.971	0.830	1	no rank	root	-_root
+UniRef50_A0A080VZ43	1	0.998	0.998	0.720	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A376JZK4	1	0.530	0.530	0.733	1	no rank	root	-_root
+UniRef50_A0A083ZFN6	1	0.990	0.990	0.743	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q9I664	1	0.986	0.986	0.745	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q89FH0	1	0.943	0.943	0.859	1	no rank	root	-_root
+UniRef50_P0AE84	1	0.847	0.847	0.880	1	no rank	root	-_root
+UniRef50_X1WSL3	1	0.460	0.460	0.766	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A3L9HYX6	1	0.644	0.644	0.813	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P27302	1	0.998	0.998	0.901	1	no rank	root	-_root
+UniRef50_P27725	1	0.906	0.906	0.827	1	no rank	root	-_root
+UniRef50_A0A3M4Q5X3	2	0.998	1.991	0.756	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A0J8YV69	1	0.962	0.962	0.836	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_C4LC41	1	0.996	0.996	0.727	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P21258	1	0.995	0.995	0.744	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A7U9LBX1	1	0.998	0.998	0.777	135621	family	Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae
+UniRef50_B5XRB0	2	0.999	1.674	0.730	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A0A2VI91	1	0.440	0.440	0.822	1245745	strain	Beauveria bassiana D1-5	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+UniRef50_E2XUC4	1	0.903	0.903	0.646	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A0J6J7M5	1	0.999	0.999	0.685	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q8Z0Z2	1	0.856	0.856	0.850	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A1S2V039	1	0.999	0.999	0.701	135621	family	Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae
+UniRef50_P45419	1	0.954	0.954	0.776	1	no rank	root	-_root
+UniRef50_Q9KQC6	1	0.988	0.988	0.697	1	no rank	root	-_root
+UniRef50_A0A1Y1XZP4	1	0.783	0.783	0.529	1314790	strain	Basidiobolus meristosporus CBS 931.73	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Basidiobolomycetes;o_Basidiobolales;f_Basidiobolaceae;g_Basidiobolus;s_Basidiobolus meristosporus;-_Basidiobolus meristosporus CBS 931.73
+UniRef50_R9VN27	1	0.874	0.874	0.699	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A4XTN0	2	0.998	1.933	0.743	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q8ZRV8	1	0.999	0.999	0.880	1	no rank	root	-_root
+UniRef50_A0A0A3Z6F1	1	0.995	0.995	0.536	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A5E7DNY1	1	0.998	0.998	0.829	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P13364	2	0.999	1.998	0.882	1	no rank	root	-_root
+UniRef50_L1LSG3	1	0.989	0.989	0.832	1	no rank	root	-_root
+UniRef50_A0A219A292	1	0.999	0.999	0.921	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A7X7GJN1	1	0.580	0.580	0.703	1831	species	Rhodococcus sp.	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Nocardiaceae;g_Rhodococcus;-_unclassified Rhodococcus;s_Rhodococcus sp.
+UniRef50_A0A6G6ZTR3	1	0.999	0.999	0.795	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_J9M4F8	1	0.357	0.357	0.862	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_L7GP50	1	0.997	0.997	0.888	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_Q8X5Q4	1	0.864	0.864	0.839	1	no rank	root	-_root
+UniRef50_A0A377MV85	1	0.425	0.425	0.828	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A3M3XD13	1	0.904	0.904	0.847	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A137P990	1	0.181	0.181	0.665	1264859	subphylum	Entomophthoromycotina	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina
+UniRef50_A0A5P2SIB7	2	0.985	1.965	0.675	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P09148	1	0.256	0.256	0.759	1	no rank	root	-_root
+UniRef50_D2TAK6	1	0.983	0.983	0.865	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_C3K8M7	1	0.998	0.998	0.898	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P15038	1	0.997	0.997	0.703	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_Q9I190	1	0.986	0.986	0.766	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_B5XPS9	1	0.880	0.880	0.860	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q9HYX0	1	0.858	0.858	0.793	1	no rank	root	-_root
+UniRef50_P0A9E1	1	0.740	0.740	0.674	1	no rank	root	-_root
+UniRef50_F3GFB0	1	0.995	0.995	0.801	1	no rank	root	-_root
+UniRef50_Q87XI7	2	0.989	1.972	0.737	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q5ILH9	1	0.400	0.400	0.497	3111	species	Prototheca wickerhamii	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Chlorophyta;-_core chlorophytes;c_Trebouxiophyceae;o_Chlorellales;f_Chlorellaceae;g_Prototheca;s_Prototheca wickerhamii
+UniRef50_J2UIV0	1	0.980	0.980	0.864	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_Q9ZF31-3	1	0.997	0.997	0.847	1	no rank	root	-_root
+UniRef50_I2BDN6	1	0.984	0.984	0.672	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A317Q4Y6	1	0.988	0.988	0.583	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_P32559	1	0.274	0.274	0.352	4892	order	Saccharomycetales	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Saccharomycotina;c_Saccharomycetes;o_Saccharomycetales
+UniRef50_A0A2X3BY85	1	0.578	0.578	0.928	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_P69452	1	0.881	0.881	0.818	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P32131	1	0.772	0.772	0.713	1	no rank	root	-_root
+UniRef50_D2TN56	1	0.877	0.877	0.793	1	no rank	root	-_root
+UniRef50_Q4K8I2	2	0.995	1.981	0.863	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_P00936	2	0.999	1.987	0.887	1	no rank	root	-_root
+UniRef50_A0A4S7VXS2	1	0.595	0.595	0.707	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A7J6ZA53	1	0.136	0.136	0.905	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A3N5EHE1	1	0.469	0.469	0.740	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A246QD07	1	0.956	0.956	0.745	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A5C5NAA4	2	0.998	1.996	0.906	1	no rank	root	-_root
+UniRef50_R9VJR3	1	0.983	0.983	0.617	1	no rank	root	-_root
+UniRef50_A0A3M5QFU5	1	0.997	0.997	0.904	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A375D8Q2	1	0.946	0.946	0.771	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_Q87ZS5	1	0.999	0.999	0.848	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_Q8X743	1	0.854	0.854	0.877	1	no rank	root	-_root
+UniRef50_Q8FDF5	1	0.996	0.996	0.912	1	no rank	root	-_root
+UniRef50_H3RET4	1	0.998	0.998	0.855	1	no rank	root	-_root
+UniRef50_A0A379VSB5	1	0.751	0.751	0.924	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A0L7T2M1	1	0.972	0.972	0.715	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A444LIT0	1	0.998	0.998	0.745	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A137P1I0	1	0.606	0.606	0.516	796925	strain	Conidiobolus coronatus NRRL 28638	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+UniRef50_A0A090VMS0	1	0.972	0.972	0.721	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A7V8FZW5	1	0.510	0.510	0.662	92645	species	Herbaspirillum frisingense	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae;g_Herbaspirillum;s_Herbaspirillum frisingense
+UniRef50_P0ACY5	2	0.998	1.750	0.940	1	no rank	root	-_root
+UniRef50_Q9F8D7	1	0.999	0.999	0.919	1	no rank	root	-_root
+UniRef50_B1VCC7	1	0.991	0.991	0.707	1	no rank	root	-_root
+UniRef50_P42620	1	0.994	0.994	0.847	1	no rank	root	-_root
+UniRef50_A0A0A2VTR7	1	0.091	0.091	0.804	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A2G8CH21	1	0.998	0.998	0.976	1903409	family	Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+UniRef50_P35654	1	0.690	0.690	0.645	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_D2TDM7	1	0.999	0.999	0.708	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_Q32DF6	1	0.959	0.959	0.720	1	no rank	root	-_root
+UniRef50_P22188	1	0.998	0.998	0.887	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A376X4J0	1	0.780	0.780	0.777	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A4R6EEE6	1	0.997	0.997	0.995	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A5E6ZKP0	1	0.958	0.958	0.622	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_P32703	1	0.995	0.995	0.849	1	no rank	root	-_root
+UniRef50_A0A3S0M806	1	0.997	0.997	0.845	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_Q9I527	1	0.935	0.935	0.635	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A3M3E0Y2	1	0.992	0.992	0.805	1	no rank	root	-_root
+UniRef50_Q4KAY8	1	0.999	0.999	0.891	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_S5YTG5	1	0.836	0.836	0.700	1	no rank	root	-_root
+UniRef50_J7QQT0	1	0.994	0.994	0.887	1	no rank	root	-_root
+UniRef50_A0A4Z0ASD5	1	0.999	0.999	0.708	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_P14294	2	0.949	1.789	0.872	1	no rank	root	-_root
+UniRef50_P00350	2	0.692	1.278	0.854	1	no rank	root	-_root
+UniRef50_A0A1E7WVA9	1	0.986	0.986	0.625	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_Q4KEV9	1	0.999	0.999	0.876	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A3M3EGJ4	2	0.999	1.994	0.733	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0D1LTU9	1	0.959	0.959	0.787	1	no rank	root	-_root
+UniRef50_P41393	1	0.999	0.999	0.851	1	no rank	root	-_root
+UniRef50_P06709	1	0.498	0.498	0.845	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A5E7I3L7	1	0.993	0.993	0.778	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A8B4ICC2	1	0.614	0.614	0.905	294	species	Pseudomonas fluorescens	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas fluorescens group;s_Pseudomonas fluorescens
+UniRef50_A0A433QPI2	1	0.440	0.440	0.784	994334	species	Jimgerdemannia flammicorona	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Endogonomycetes;o_Endogonales;f_Endogonaceae;g_Jimgerdemannia;s_Jimgerdemannia flammicorona
+UniRef50_Q46861	1	0.950	0.950	0.938	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_UPI0017885FB0	1	0.982	0.982	0.580	267888	family	Pseudoalteromonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Alteromonadales;f_Pseudoalteromonadaceae
+UniRef50_P0AGC4	1	0.998	0.998	0.826	1	no rank	root	-_root
+UniRef50_A0A120G8Z8	1	0.434	0.434	0.781	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_P39836	1	0.973	0.973	0.842	1	no rank	root	-_root
+UniRef50_A0A1C7NLC5	1	0.103	0.103	0.923	101091	species	Choanephora cucurbitarum	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Mucoromycetes;o_Mucorales;-_Mucorineae;f_Choanephoraceae;-_Choanephoroideae;g_Choanephora;s_Choanephora cucurbitarum
+UniRef50_V5Z9K4	1	0.994	0.994	0.750	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A7H4MUI2	1	0.890	0.890	0.800	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A9MHH3	1	0.996	0.996	0.852	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A7Y8AN88	1	0.995	0.995	0.901	136843	species group	Pseudomonas fluorescens group	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas fluorescens group
+UniRef50_A0A0C5VLU1	2	0.998	1.996	0.707	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A0J8YGU7	1	0.547	0.547	0.908	1903409	family	Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+UniRef50_A6TCE4	1	0.998	0.998	0.888	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A2V2A8A1	1	0.973	0.973	0.795	1	no rank	root	-_root
+UniRef50_A0A2X2DKI8	2	0.789	1.450	0.894	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_P43928	1	0.991	0.991	0.858	1	no rank	root	-_root
+UniRef50_A0A379TAV3	1	0.716	0.716	0.833	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P77504	1	0.954	0.954	0.825	1	no rank	root	-_root
+UniRef50_A0A5E7AYA1	1	0.960	0.960	0.803	1	no rank	root	-_root
+UniRef50_A0A0U5EBH2	1	0.998	0.998	0.743	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P31242	2	0.995	1.991	0.754	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A508ZZ54	1	0.556	0.556	0.888	1	no rank	root	-_root
+UniRef50_A0A7V8EBU0	1	0.991	0.991	0.603	303	species	Pseudomonas putida	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas putida group;s_Pseudomonas putida
+UniRef50_A0A0C2I553	1	0.998	0.998	0.597	1	no rank	root	-_root
+UniRef50_P62557	1	0.557	0.557	0.929	1	no rank	root	-_root
+UniRef50_W8UIH3	1	0.905	0.905	0.890	1	no rank	root	-_root
+UniRef50_Q4KK74	1	0.981	0.981	0.878	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A089YSF2	1	0.975	0.975	0.879	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_P04995	3	0.996	2.722	0.797	1	no rank	root	-_root
+UniRef50_J0MH23	1	0.277	0.277	0.609	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P0ABG8	1	0.565	0.565	0.839	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A127MMH9	1	0.970	0.970	0.806	1	no rank	root	-_root
+UniRef50_J2XU50	1	0.986	0.986	0.770	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A2P8L6R5	1	0.665	0.665	0.925	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A1D3JSL0	1	0.689	0.689	0.510	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_Q87VX3	2	0.999	1.998	0.899	1	no rank	root	-_root
+UniRef50_A0A367K687	1	0.144	0.144	0.601	86630	species	Rhizopus azygosporus	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Mucoromycetes;o_Mucorales;-_Mucorineae;f_Rhizopodaceae;g_Rhizopus;s_Rhizopus azygosporus
+UniRef50_A0A0S4HWU6	1	0.995	0.995	0.920	1	no rank	root	-_root
+UniRef50_A0A0M7BJ74	1	0.981	0.981	0.814	1	no rank	root	-_root
+UniRef50_U3U2W4	1	0.912	0.912	0.858	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A486NFL4	1	0.857	0.857	0.837	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_P43672	1	0.929	0.929	0.775	1	no rank	root	-_root
+UniRef50_F4N631	1	0.950	0.950	0.845	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A340Y8D9	1	0.668	0.668	0.822	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A1C7ZBN5	2	0.999	1.998	0.880	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P07648	1	0.929	0.929	0.822	1	no rank	root	-_root
+UniRef50_Q877K0	1	0.994	0.994	0.813	1	no rank	root	-_root
+UniRef50_A0A1Q9RCD1	2	0.999	1.998	0.750	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A554UHA0	1	0.880	0.880	0.379	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P75728	1	0.985	0.985	0.683	1	no rank	root	-_root
+UniRef50_A0A3S4LIC8	1	0.916	0.916	0.714	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A105T343	1	0.999	0.999	0.675	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A379AE39	2	0.994	1.510	0.898	549	species	Pantoea agglomerans	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;-_Pantoea agglomerans group;s_Pantoea agglomerans
+UniRef50_A0A5J5G5S6	1	0.996	0.996	0.869	1	no rank	root	-_root
+UniRef50_UPI001050FC70	1	0.999	0.999	0.744	287	species	Pseudomonas aeruginosa	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa
+UniRef50_Q8X9H8	1	0.998	0.998	0.860	1	no rank	root	-_root
+UniRef50_A0A157YWG2	1	0.721	0.721	0.762	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_Q87Y31	1	0.998	0.998	0.908	1	no rank	root	-_root
+UniRef50_P10443	2	0.999	1.833	0.878	1	no rank	root	-_root
+UniRef50_A0A4U2UN60	1	0.980	0.980	0.722	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0L0H9U3	1	0.631	0.631	0.439	451435	class	Chytridiomycetes	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Chytridiomycota;-_Chytridiomycota incertae sedis;c_Chytridiomycetes
+UniRef50_A0A085GEJ2	1	0.996	0.996	0.786	1	no rank	root	-_root
+UniRef50_A0A1Y2CPZ7	1	0.397	0.397	0.610	329046	species	Rhizoclosmatium globosum	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Chytridiomycota;-_Chytridiomycota incertae sedis;c_Chytridiomycetes;o_Chytridiales;f_Chytriomycetaceae;g_Rhizoclosmatium;s_Rhizoclosmatium globosum
+UniRef50_A0A085G6F0	1	0.614	0.614	0.789	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A2I5T2V4	1	0.657	0.657	0.840	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P00910	1	0.993	0.993	0.778	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A0P9TRW7	1	0.998	0.998	0.809	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_P46837	1	0.571	0.571	0.826	1	no rank	root	-_root
+UniRef50_A0A379KQC2	1	0.999	0.999	0.700	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A7R9L728	1	0.387	0.387	0.720	334625	species	Oppiella nova	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Chelicerata;c_Arachnida;-_Acari;-_Acariformes;o_Sarcoptiformes;-_Oribatida;-_Brachypylina;-_Oppioidea;f_Oppiidae;g_Oppiella;s_Oppiella nova
+UniRef50_A0A2T0I3J2	1	0.999	0.999	0.824	135621	family	Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae
+UniRef50_A0A127MMK1	1	0.981	0.981	0.536	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q4ZLH1	1	0.999	0.999	0.760	1	no rank	root	-_root
+UniRef50_A0A5E7E1E8	1	0.976	0.976	0.697	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A0D6BKQ4	1	0.544	0.544	0.888	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A1F0J7M6	1	0.971	0.971	0.810	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A4R6IRW5	2	0.957	1.903	0.735	1	no rank	root	-_root
+UniRef50_A0A5Q2FLJ0	1	0.841	0.841	0.572	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A137PJH5	1	0.914	0.914	0.430	796925	strain	Conidiobolus coronatus NRRL 28638	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+UniRef50_W8RAH0	1	0.980	0.980	0.816	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A143HXH6	1	0.225	0.225	0.880	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A061JPK1	1	0.921	0.921	0.666	1	no rank	root	-_root
+UniRef50_G6F9W5	1	0.505	0.505	0.939	1300	family	Streptococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+UniRef50_D4I3U2	1	0.997	0.997	0.832	1	no rank	root	-_root
+UniRef50_P38038	1	0.998	0.998	0.857	1	no rank	root	-_root
+UniRef50_A0A0C7KIU7	1	0.994	0.994	0.834	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_P08691	2	0.762	0.762	0.801	1	no rank	root	-_root
+UniRef50_A0A0H2VBH0	1	0.989	0.989	0.802	1	no rank	root	-_root
+UniRef50_A0A5E7UAP9	1	0.845	0.845	0.747	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A7C8TTV8	1	0.999	0.999	0.902	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A377CA90	1	0.653	0.653	0.837	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A6TIS7	1	0.825	0.825	0.702	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A1N7TZY6	1	0.942	0.942	0.709	135621	family	Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae
+UniRef50_A0A5E7VGL7	2	0.999	1.998	0.910	1	no rank	root	-_root
+UniRef50_A0A137PFC0	1	0.298	0.298	0.680	796925	strain	Conidiobolus coronatus NRRL 28638	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+UniRef50_P75793	1	0.999	0.999	0.909	1	no rank	root	-_root
+UniRef50_P76272	1	0.727	0.727	0.721	1	no rank	root	-_root
+UniRef50_E2XPR9	1	0.986	0.986	0.923	1	no rank	root	-_root
+UniRef50_A0A016VMV5	1	0.292	0.292	0.901	29169	genus	Ancylostoma	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;p_Nematoda;c_Chromadorea;o_Strongylida;-_Ancylostomatoidea;f_Ancylostomatidae;-_Ancylostomatinae;g_Ancylostoma
+UniRef50_A0A379W0F0	2	0.695	1.382	0.920	1	no rank	root	-_root
+UniRef50_A0A261Y377	1	0.448	0.448	0.610	1938954	species	Bifiguratus adelaidae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Endogonomycetes;o_Endogonales;-_Endogonales incertae sedis;g_Bifiguratus;s_Bifiguratus adelaidae
+UniRef50_A0A1H0B7Q4	1	0.999	0.999	0.669	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A5E6S647	1	0.998	0.998	0.744	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_S2EYF6	2	0.990	1.978	0.815	1	no rank	root	-_root
+UniRef50_A0A0B7DHX1	1	0.998	0.998	0.780	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_P76369	1	0.883	0.883	0.809	1	no rank	root	-_root
+UniRef50_A0A376KRL2	1	0.489	0.489	0.817	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A554TM89	1	0.954	0.954	0.826	135621	family	Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae
+UniRef50_UPI00106A898C	1	0.992	0.992	0.775	287	species	Pseudomonas aeruginosa	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa
+UniRef50_P16100	1	0.992	0.992	0.802	1	no rank	root	-_root
+UniRef50_Q8EIQ6	1	0.996	0.996	0.706	1	no rank	root	-_root
+UniRef50_A0A1Q9QY73	1	0.937	0.937	0.889	1	no rank	root	-_root
+UniRef50_A0A376L692	1	0.615	0.615	0.883	1	no rank	root	-_root
+UniRef50_A0A507DXE7	1	0.157	0.157	0.795	109895	species	Powellomyces hirtus	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Chytridiomycota;-_Chytridiomycota incertae sedis;c_Chytridiomycetes;o_Spizellomycetales;f_Powellomycetaceae;g_Powellomyces;s_Powellomyces hirtus
+UniRef50_P28903	1	0.993	0.993	0.847	1	no rank	root	-_root
+UniRef50_A0A5E7GMI8	1	0.996	0.996	0.793	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A4U3FIF2	1	0.998	0.998	0.766	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A3M4RE50	1	0.982	0.982	0.865	1	no rank	root	-_root
+UniRef50_A0A4C1TK25	1	0.663	0.663	0.809	151549	species	Eumeta japonica	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Endopterygota;-_Amphiesmenoptera;o_Lepidoptera;-_Glossata;-_Neolepidoptera;-_Heteroneura;-_Ditrysia;-_Tineoidea;f_Psychidae;-_Oiketicinae;g_Eumeta;s_Eumeta japonica
+UniRef50_A0A4P9XV51	1	0.813	0.813	0.507	78915	species	Thamnocephalis sphaerospora	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Zoopagomycotina;c_Zoopagomycetes;o_Zoopagales;f_Sigmoideomycetaceae;g_Thamnocephalis;s_Thamnocephalis sphaerospora
+UniRef50_I7GF64	1	0.992	0.992	0.634	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A379IE63	1	0.998	0.998	0.922	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A0U5L2D4	1	0.999	0.999	0.751	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A378APG4	1	0.999	0.999	0.767	1	no rank	root	-_root
+UniRef50_A0A3M3ENZ3	1	0.755	0.755	0.815	47879	species	Pseudomonas corrugata	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas fluorescens group;s_Pseudomonas corrugata
+UniRef50_P63285	1	0.999	0.999	0.843	1	no rank	root	-_root
+UniRef50_G8Q584	1	0.999	0.999	0.615	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P13009	2	0.999	1.966	0.854	1	no rank	root	-_root
+UniRef50_A4W7Y9	1	0.922	0.922	0.874	1	no rank	root	-_root
+UniRef50_A0A377VZE4	1	0.821	0.821	0.905	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A2N1YQB1	2	0.999	1.998	0.758	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A0B5KB79	1	0.964	0.964	0.516	70775	species	Pseudomonas plecoglossicida	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas putida group;s_Pseudomonas plecoglossicida
+UniRef50_H3RIE0	1	0.997	0.997	0.793	1	no rank	root	-_root
+UniRef50_A0A518XDU8	1	0.987	0.987	0.888	53335	genus	Pantoea	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea
+UniRef50_A0A0L1MF56	1	0.999	0.999	0.851	135621	family	Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae
+UniRef50_Q9KGW3	1	0.733	0.733	0.938	1	no rank	root	-_root
+UniRef50_Q8X8T4	1	0.890	0.890	0.898	1	no rank	root	-_root
+UniRef50_A0A0T9Q9E7	1	0.981	0.981	0.526	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_U6ZYB6	1	0.720	0.720	0.870	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A0Q4MPI1	1	0.989	0.989	0.711	1903409	family	Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+UniRef50_A0A177A984	1	0.563	0.563	0.638	716546	clade	leotiomyceta	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta
+UniRef50_P0AES7	1	0.999	0.999	0.881	1	no rank	root	-_root
+UniRef50_A0A3R8V7S3	1	0.553	0.553	0.701	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P0A960	1	0.946	0.946	0.941	1	no rank	root	-_root
+UniRef50_A0A0L0BA90	1	0.999	0.999	0.949	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A0C5E8L0	1	0.989	0.989	0.816	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_UPI000B598729	1	0.550	0.550	0.903	54291	species	Raoultella ornithinolytica	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Raoultella;s_Raoultella ornithinolytica
+UniRef50_E9CK74	1	0.995	0.995	0.799	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_B2VK33	1	0.165	0.165	0.958	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P36683	2	0.999	1.987	0.854	1	no rank	root	-_root
+UniRef50_A0A7R9IV08	1	0.456	0.456	0.835	61474	species	Timema californicum	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Polyneoptera;o_Phasmatodea;-_Timematodea;-_Timematoidea;f_Timematidae;g_Timema;s_Timema californicum
+UniRef50_A0A376MTG4	1	0.910	0.910	0.632	1	no rank	root	-_root
+UniRef50_A0A7R9P8P8	1	0.618	0.618	0.796	61474	species	Timema californicum	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Polyneoptera;o_Phasmatodea;-_Timematodea;-_Timematoidea;f_Timematidae;g_Timema;s_Timema californicum
+UniRef50_A0A3S4M6B3	1	0.724	0.724	0.854	1	no rank	root	-_root
+UniRef50_D8MPH3	1	0.998	0.998	0.915	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q8YCG4	1	0.927	0.927	0.810	1	no rank	root	-_root
+UniRef50_Q88CF9	1	0.994	0.994	0.714	1	no rank	root	-_root
+UniRef50_UPI001580BDE9	1	0.178	0.178	1.000	48296	species	Acinetobacter pittii	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae;g_Acinetobacter;-_Acinetobacter calcoaceticus/baumannii complex;s_Acinetobacter pittii
+UniRef50_A0A7Y8KD73	1	0.998	0.998	0.927	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_UPI00160E572C	1	0.517	0.517	0.625	339	species	Xanthomonas campestris	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Xanthomonas;s_Xanthomonas campestris
+UniRef50_A0A0B7NEM6	1	0.349	0.349	0.545	112252	no rank	Fungi incertae sedis	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis
+UniRef50_A0A1X1ETH3	1	0.964	0.964	0.862	1	no rank	root	-_root
+UniRef50_A0A484X827	1	0.405	0.405	0.822	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q87VP0	1	0.998	0.998	0.926	1	no rank	root	-_root
+UniRef50_A0A447KXE4	1	0.411	0.411	0.793	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_Q83PY0	1	0.998	0.998	0.790	1	no rank	root	-_root
+UniRef50_A0A087TD10	1	0.205	0.205	0.671	6656	phylum	Arthropoda	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda
+UniRef50_Q87WD2	1	0.553	0.553	0.905	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A085GEY3	1	0.952	0.952	0.848	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A3G7Y9H7	3	0.997	2.790	0.782	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_Q8XB59	1	0.997	0.997	0.879	1	no rank	root	-_root
+UniRef50_D4GN04	1	0.314	0.314	0.817	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0P8ZBG0	1	0.301	0.301	0.778	1	no rank	root	-_root
+UniRef50_A0A5M7LUQ5	1	0.983	0.983	0.659	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A6A5KSZ2	1	0.463	0.463	0.818	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A455VFC0	1	0.821	0.821	0.688	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A1K1XT21	1	0.963	0.963	0.866	1	no rank	root	-_root
+UniRef50_E1SGS5	1	0.942	0.942	0.909	53335	genus	Pantoea	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea
+UniRef50_A9MJF0	1	0.998	0.998	0.903	1	no rank	root	-_root
+UniRef50_A0A379LRS2	1	0.725	0.725	0.916	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P15254	1	0.999	0.999	0.866	1	no rank	root	-_root
+UniRef50_Q8XAV1	1	0.998	0.998	0.911	1	no rank	root	-_root
+UniRef50_Q8X8L5	1	0.996	0.996	0.837	1	no rank	root	-_root
+UniRef50_A0A0P9JW27	2	0.779	1.397	0.851	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A3M5MXU7	1	0.999	0.999	0.627	72274	order	Pseudomonadales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales
+UniRef50_A0A024HA21	1	0.998	0.998	0.867	1	no rank	root	-_root
+UniRef50_A0A7J6Z552	1	0.417	0.417	0.935	2069292	species	Abscondita terminalis	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Endopterygota;o_Coleoptera;-_Polyphaga;-_Elateriformia;-_Elateroidea;f_Lampyridae;-_Luciolinae;g_Abscondita;s_Abscondita terminalis
+UniRef50_U6ZZQ3	1	0.914	0.914	0.678	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0P9NZ86	1	0.998	0.998	0.884	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A6I6XPL2	1	0.643	0.643	0.564	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A143HVP8	1	0.978	0.978	0.792	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A354ISL6	1	0.380	0.380	0.856	75682	family	Oxalobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae
+UniRef50_A0A447LL66	1	0.750	0.750	0.864	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A2X2T3R0	1	0.713	0.713	0.820	543	family	Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_P0A9J7	1	0.994	0.994	0.689	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_Q8ZPM6	1	0.976	0.976	0.834	1	no rank	root	-_root
+UniRef50_D2TA16	1	0.923	0.923	0.810	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A5E6U1J7	1	0.998	0.998	0.798	1	no rank	root	-_root
+UniRef50_A0A2C9EM88	1	0.999	0.999	0.817	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A376FJZ5	1	0.315	0.315	0.811	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A340WQK7	1	0.529	0.529	0.901	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_P0AAG8	1	0.678	0.678	0.877	1	no rank	root	-_root
+UniRef50_A0A0H3NGK0	1	0.998	0.998	0.866	1	no rank	root	-_root
+UniRef50_P02918	3	0.999	2.996	0.826	1	no rank	root	-_root
+UniRef50_A0A378CPU9	1	0.645	0.645	0.779	543	family	Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A449IHY3	1	0.992	0.992	0.802	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P76104	1	0.986	0.986	0.707	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A2G9L915	1	0.986	0.986	0.729	1	no rank	root	-_root
+UniRef50_P07003	1	0.802	0.802	0.797	1	no rank	root	-_root
+UniRef50_A0A1F2Q2A9	1	0.190	0.190	0.703	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0C5EGD8	1	0.999	0.999	0.603	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_P07118	1	0.999	0.999	0.875	1	no rank	root	-_root
+UniRef50_Q87WP4	2	0.999	1.992	0.933	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_D2TN57	1	0.913	0.913	0.832	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_Q3JWB9	1	0.544	0.544	0.700	111527	species group	pseudomallei group	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Burkholderia;-_pseudomallei group
+UniRef50_A0A0J8YRT6	1	0.969	0.969	0.943	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A083ZUY7	1	0.999	0.999	0.688	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q59086	1	0.984	0.984	0.727	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_K8B2R2	1	0.313	0.313	0.711	413497	species	Cronobacter dublinensis	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Cronobacter;s_Cronobacter dublinensis
+UniRef50_P0A9U5	1	0.996	0.996	0.879	1	no rank	root	-_root
+UniRef50_A0A1Y6JQF1	1	0.998	0.998	0.738	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_Q9HZJ5	2	0.999	1.998	0.878	1	no rank	root	-_root
+UniRef50_E2XP64	1	0.655	0.655	0.819	746360	strain	Pseudomonas fluorescens WH6	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas fluorescens group;s_Pseudomonas fluorescens;-_Pseudomonas fluorescens WH6
+UniRef50_D8MK53	1	0.986	0.986	0.846	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_UPI0006601DEC	1	0.952	0.952	0.892	53335	genus	Pantoea	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea
+UniRef50_P21170	2	0.964	1.160	0.873	1	no rank	root	-_root
+UniRef50_P0AB60	1	0.995	0.995	0.818	1	no rank	root	-_root
+UniRef50_A0A2N5F147	1	0.988	0.988	0.537	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A222FGR0	1	0.998	0.998	0.782	1	no rank	root	-_root
+UniRef50_P15977	1	0.816	0.816	0.745	1	no rank	root	-_root
+UniRef50_A0A659QX51	1	0.842	0.842	0.694	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A1Q9RC39	1	0.993	0.993	0.858	1	no rank	root	-_root
+UniRef50_A0A0J8YBR1	1	0.999	0.999	0.936	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A3G8C5F1	1	0.990	0.990	0.902	1	no rank	root	-_root
+UniRef50_P54745	1	0.611	0.611	0.815	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P24181	1	0.615	0.615	0.750	1	no rank	root	-_root
+UniRef50_A0A2G5BKS5	2	0.248	0.496	0.633	4862	family	Kickxellaceae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Kickxellomycotina;c_Kickxellomycetes;o_Kickxellales;f_Kickxellaceae
+UniRef50_A0A0A1HXQ9	1	0.534	0.534	0.823	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_V5ZAS1	1	0.992	0.992	0.644	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_UPI00068E1989	1	0.998	0.998	0.883	1903409	family	Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+UniRef50_A0A0A2WL32	1	0.349	0.349	0.725	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A810ZAF8	1	0.865	0.865	0.790	55212	species	Erwinia rhapontici	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Erwinia;s_Erwinia rhapontici
+UniRef50_A0A3M5DW80	1	0.622	0.622	0.727	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P0AD15	1	0.989	0.989	0.816	1	no rank	root	-_root
+UniRef50_A0A0U1HSR2	1	0.954	0.954	0.794	1	no rank	root	-_root
+UniRef50_P23234	1	0.996	0.996	0.654	1	no rank	root	-_root
+UniRef50_Q9I6Z0	1	0.996	0.996	0.839	1	no rank	root	-_root
+UniRef50_A0A0S4I5C0	1	0.998	0.998	0.770	1	no rank	root	-_root
+UniRef50_V6AE82	1	0.561	0.561	0.852	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_D4GFK3	1	0.998	0.998	0.748	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A0C3QH26	1	0.299	0.299	0.434	355688	no rank	Agaricomycetes incertae sedis	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Basidiomycota;-_Agaricomycotina;c_Agaricomycetes;-_Agaricomycetes incertae sedis
+UniRef50_A0A3M4AS39	1	0.702	0.702	0.689	1	no rank	root	-_root
+UniRef50_A0A810ZAE8	1	0.518	0.518	0.602	551	genus	Erwinia	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Erwinia
+UniRef50_A0A7J7B6Q6	1	0.429	0.429	0.846	2069292	species	Abscondita terminalis	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Endopterygota;o_Coleoptera;-_Polyphaga;-_Elateriformia;-_Elateroidea;f_Lampyridae;-_Luciolinae;g_Abscondita;s_Abscondita terminalis
+UniRef50_P57897	1	0.995	0.995	0.833	1	no rank	root	-_root
+UniRef50_A0A379TT51	1	0.754	0.754	0.797	543	family	Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_B4EX94	1	0.416	0.416	0.882	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_T0VFU1	1	0.886	0.886	0.929	1357	genus	Lactococcus	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+UniRef50_A0A068SDR5	1	0.110	0.110	0.745	1263082	strain	Lichtheimia corymbifera JMRC:FSU:9682	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Mucoromycetes;o_Mucorales;f_Lichtheimiaceae;g_Lichtheimia;s_Lichtheimia corymbifera;-_Lichtheimia corymbifera JMRC:FSU:9682
+UniRef50_A0A137P6Z4	1	0.474	0.474	0.625	1913638	phylum	Zoopagomycota	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota
+UniRef50_Q4RAF7	1	0.590	0.590	0.733	33213	clade	Bilateria	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria
+UniRef50_A0A0L0AZV1	1	0.999	0.999	0.959	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A0K0FHC6	1	0.496	0.496	0.471	6246	family	Strongyloididae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;p_Nematoda;c_Chromadorea;o_Rhabditida;-_Tylenchina;-_Panagrolaimomorpha;-_Strongyloidoidea;f_Strongyloididae
+UniRef50_A0A4R6DVA1	1	0.997	0.997	0.893	1851514	species	Scandinavium goeteborgense	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Scandinavium;s_Scandinavium goeteborgense
+UniRef50_C3K4W9	1	0.998	0.998	0.877	135621	family	Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae
+UniRef50_Q9HXZ1	1	0.999	0.999	0.835	1	no rank	root	-_root
+UniRef50_A0A0A2W0M9	1	0.463	0.463	0.799	1245745	strain	Beauveria bassiana D1-5	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+UniRef50_A0A143G9T8	1	0.999	0.999	0.833	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_UPI0008372E58	1	0.835	0.835	0.844	1903409	family	Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+UniRef50_E1PKY4	1	0.899	0.899	0.853	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_Q4K580	1	0.999	0.999	0.783	1	no rank	root	-_root
+UniRef50_A0A0G3Q3P8	1	0.551	0.551	0.552	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_Q7MLR5	1	0.998	0.998	0.755	1	no rank	root	-_root
+UniRef50_Q51363	1	0.994	0.994	0.864	1	no rank	root	-_root
+UniRef50_J2X9U5	1	0.996	0.996	0.797	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A829P8S6	1	0.976	0.976	0.903	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A120G662	1	0.982	0.982	0.922	294	species	Pseudomonas fluorescens	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas fluorescens group;s_Pseudomonas fluorescens
+UniRef50_P0DP44	1	0.994	0.994	0.856	1	no rank	root	-_root
+UniRef50_A0A0N0X8S5	1	0.971	0.971	0.857	136849	species group	Pseudomonas syringae group	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas syringae group
+UniRef50_A0A5M7LRT3	1	0.759	0.759	0.543	53335	genus	Pantoea	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea
+UniRef50_P37177	1	0.888	0.888	0.801	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A5M9IL40	1	0.999	0.999	0.917	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A379LSC4	1	0.905	0.905	0.940	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_UPI0006836CDE	1	0.204	0.204	0.950	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A085HD82	1	0.533	0.533	0.658	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P05042	1	0.994	0.994	0.849	1	no rank	root	-_root
+UniRef50_P0AFJ0	1	0.980	0.980	0.732	1	no rank	root	-_root
+UniRef50_A9MPE3	1	0.995	0.995	0.878	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A431SD08	1	0.998	0.998	0.759	1	no rank	root	-_root
+UniRef50_A0A1D3K3M3	1	0.998	0.998	0.887	1	no rank	root	-_root
+UniRef50_A0A3M3QSG4	2	0.947	1.889	0.716	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A486K457	1	0.988	0.988	0.923	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A292Q4U8	1	0.305	0.305	0.936	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A5I9JCH6	1	0.873	0.873	0.818	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_Q88P65	1	0.996	0.996	0.863	1	no rank	root	-_root
+UniRef50_Q57MS4	2	0.923	1.823	0.842	1	no rank	root	-_root
+UniRef50_A0A2N8ARB6	1	0.985	0.985	0.751	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A6L4XKU1	1	0.700	0.700	0.912	1	no rank	root	-_root
+UniRef50_A0A6P1PV00	1	0.894	0.894	0.588	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A144U9R8	1	0.369	0.369	0.809	1	no rank	root	-_root
+UniRef50_A0A0B7MUD9	2	0.230	0.230	0.592	35722	species	Parasitella parasitica	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Mucoromycetes;o_Mucorales;-_Mucorineae;f_Mucoraceae;g_Parasitella;s_Parasitella parasitica
+UniRef50_Q9S5G5	1	0.997	0.997	0.878	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_S2EVL9	1	0.996	0.996	0.563	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A3M4LI46	1	0.604	0.604	0.656	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A3S4X8I5	1	0.591	0.591	0.822	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A4P9ZWZ2	1	0.247	0.247	0.569	215637	species	Dimargaris cristalligena	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Kickxellomycotina;c_Dimargaritomycetes;o_Dimargaritales;f_Dimargaritaceae;g_Dimargaris;s_Dimargaris cristalligena
+UniRef50_C1DKZ7	1	0.542	0.542	0.813	1	no rank	root	-_root
+UniRef50_A0A385Z5J0	1	0.999	0.999	0.767	1	no rank	root	-_root
+UniRef50_A0A080VJN7	1	0.978	0.978	0.680	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_E2XU21	2	0.999	1.997	0.824	1	no rank	root	-_root
+UniRef50_A4WG57	1	0.742	0.742	0.808	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A554VTA4	1	0.731	0.731	0.800	1760	class	Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+UniRef50_Q83PC5	1	0.987	0.987	0.861	1	no rank	root	-_root
+UniRef50_A0A501S3J3	1	0.997	0.997	0.882	1	no rank	root	-_root
+UniRef50_A0A168QE88	1	0.970	0.970	0.741	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_P27296	1	0.976	0.976	0.748	1	no rank	root	-_root
+UniRef50_A0A3M4H8K7	1	0.944	0.944	0.868	1	no rank	root	-_root
+UniRef50_A0A071LR06	1	0.933	0.933	0.601	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_O54581	1	0.921	0.921	0.676	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A6S5TWM1	1	0.191	0.191	0.846	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_P06173	1	0.999	0.999	0.925	1	no rank	root	-_root
+UniRef50_A0A1C3GVQ0	1	0.999	0.999	0.674	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_UPI000F086739	1	0.998	0.998	0.651	33069	species	Pseudomonas viridiflava	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas syringae group;s_Pseudomonas viridiflava
+UniRef50_A0A6A5KWA6	2	0.354	0.658	0.699	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A0J8YHR6	1	0.999	0.999	0.900	1903409	family	Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+UniRef50_A0A3S4FKK3	1	0.916	0.916	0.615	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_P21499	2	0.999	1.959	0.819	1	no rank	root	-_root
+UniRef50_P25737	1	0.898	0.898	0.867	1	no rank	root	-_root
+UniRef50_C3KE75	1	0.999	0.999	0.981	1	no rank	root	-_root
+UniRef50_A0A0A2W0I9	1	0.274	0.274	0.853	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_P11954	1	0.903	0.903	0.851	1	no rank	root	-_root
+UniRef50_P33650	1	0.999	0.999	0.852	1	no rank	root	-_root
+UniRef50_U3U495	2	0.571	0.571	0.844	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_UPI0013038EF3	1	0.998	0.998	0.910	549	species	Pantoea agglomerans	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;-_Pantoea agglomerans group;s_Pantoea agglomerans
+UniRef50_W9TVE4	1	0.602	0.602	0.748	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A071MET2	1	0.909	0.909	0.705	1	no rank	root	-_root
+UniRef50_H6U1V1	1	0.748	0.748	0.900	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P00968	1	0.998	0.998	0.886	1	no rank	root	-_root
+UniRef50_A0A378AH42	1	0.465	0.465	0.858	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A6C8GCA8	1	0.421	0.421	0.814	543	family	Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_E1SEM7	1	0.999	0.999	0.918	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A198GKB9	1	0.679	0.679	0.763	1	no rank	root	-_root
+UniRef50_A0A447TQN5	1	0.916	0.916	0.893	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A367K2K7	1	0.564	0.564	0.343	86630	species	Rhizopus azygosporus	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Mucoromycetes;o_Mucorales;-_Mucorineae;f_Rhizopodaceae;g_Rhizopus;s_Rhizopus azygosporus
+UniRef50_Q88AE7	1	0.982	0.982	0.914	1	no rank	root	-_root
+UniRef50_A0A0W8AAB0	1	0.727	0.727	0.811	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A1R0H9A7	1	0.068	0.068	0.703	133383	species	Smittium mucronatum	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Kickxellomycotina;c_Harpellomycetes;o_Harpellales;f_Legeriomycetaceae;g_Smittium;s_Smittium mucronatum
+UniRef50_Q329C8	1	0.998	0.998	0.808	1	no rank	root	-_root
+UniRef50_A0A2U3K3M1	1	0.985	0.985	0.556	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A379IDZ2	2	0.999	1.998	0.829	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0F1R618	2	0.998	1.996	0.862	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_Q8Z765	1	0.996	0.996	0.777	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A7Y7YNV7	1	0.941	0.941	0.758	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A379AF58	1	0.327	0.327	0.758	53335	genus	Pantoea	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea
+UniRef50_Q9I3U8	1	0.991	0.991	0.723	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A1B5FFL3	1	0.797	0.797	0.738	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_J3DKJ6	1	0.988	0.988	0.686	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A4WCF6	1	0.894	0.894	0.886	1	no rank	root	-_root
+UniRef50_C9XZX4	1	0.876	0.876	0.799	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A127MRL4	1	0.999	0.999	0.740	1	no rank	root	-_root
+UniRef50_G8Q9B8	1	0.897	0.897	0.783	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A6A7Z2T0	1	0.997	0.997	0.691	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_Q65V59	1	0.996	0.996	0.687	1	no rank	root	-_root
+UniRef50_Q886X5	1	0.998	0.998	0.959	1	no rank	root	-_root
+UniRef50_G8Q2C5	1	0.997	0.997	0.785	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A137P1D8	1	0.977	0.977	0.556	796925	strain	Conidiobolus coronatus NRRL 28638	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+UniRef50_B2VHN8	1	0.157	0.157	0.761	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A293QP32	1	0.896	0.896	0.889	1	no rank	root	-_root
+UniRef50_A0A7D7EN05	1	0.590	0.590	0.717	1	no rank	root	-_root
+UniRef50_A0A0S4HNP0	1	0.997	0.997	0.710	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A3G7UWF6	1	0.999	0.999	0.905	1	no rank	root	-_root
+UniRef50_G8PXS8	1	0.997	0.997	0.650	1	no rank	root	-_root
+UniRef50_A0A3M4A0L8	1	0.486	0.486	0.708	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_O66041	1	0.998	0.998	0.861	1	no rank	root	-_root
+UniRef50_A0A167QUB2	1	0.993	0.993	0.820	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_D4GFM9	1	0.771	0.771	0.868	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A3M4RVE2	1	0.974	0.974	0.698	136849	species group	Pseudomonas syringae group	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas syringae group
+UniRef50_A0A3M0W8S4	1	0.546	0.546	0.598	716546	clade	leotiomyceta	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta
+UniRef50_UPI000C7196F8	1	0.602	0.602	0.734	7375	species	Lucilia cuprina	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Endopterygota;o_Diptera;-_Brachycera;-_Muscomorpha;-_Eremoneura;-_Cyclorrhapha;-_Schizophora;-_Calyptratae;-_Oestroidea;f_Calliphoridae;-_Luciliinae;g_Lucilia;s_Lucilia cuprina
+UniRef50_A0A4Q6F3P8	1	0.997	0.997	0.972	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A3F2RPZ7	1	0.216	0.216	0.678	4762	phylum	Oomycota	-_cellular organisms;d_Eukaryota;-_Sar;-_Stramenopiles;p_Oomycota
+UniRef50_A0A6P1Q0R6	1	0.915	0.915	0.781	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P07620	2	0.990	1.965	0.683	1	no rank	root	-_root
+UniRef50_F6A9K9	1	0.990	0.990	0.792	1	no rank	root	-_root
+UniRef50_P10369	1	0.933	0.933	0.762	1	no rank	root	-_root
+UniRef50_A0A0C6F6V4	1	0.998	0.998	0.760	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A7W7KPB2	1	0.991	0.991	0.643	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A2X3GTC5	1	0.670	0.670	0.813	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A6J4E825	1	0.715	0.715	0.800	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_V3PPM0	1	0.964	0.964	0.633	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_W9B4K0	1	0.960	0.960	0.898	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A3N6V0T6	1	0.792	0.792	0.698	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_E9CKN7	1	0.951	0.951	0.750	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A376DW46	1	0.318	0.318	0.753	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q9S6P8	1	0.829	0.829	0.888	1	no rank	root	-_root
+UniRef50_A0A3M3X4P9	1	0.999	0.999	0.761	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_D2TDA7	1	0.994	0.994	0.683	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A4V2BIH2	1	0.889	0.889	0.971	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_Q8XAW9	2	0.998	1.688	0.858	1	no rank	root	-_root
+UniRef50_P17169	2	0.998	1.977	0.831	1	no rank	root	-_root
+UniRef50_A0A5E6R1M7	1	0.997	0.997	0.595	1	no rank	root	-_root
+UniRef50_A0A379T7R9	1	0.526	0.526	0.880	59203	subspecies	Salmonella enterica subsp. arizonae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica;-_Salmonella enterica subsp. arizonae
+UniRef50_P0A9Q8	1	0.708	0.708	0.875	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_P22036	2	0.999	1.276	0.766	1	no rank	root	-_root
+UniRef50_A1AIL8	1	0.995	0.995	0.799	1	no rank	root	-_root
+UniRef50_A0A0H0LWH8	1	0.609	0.609	0.798	1	no rank	root	-_root
+UniRef50_A0A433D6W8	1	0.582	0.582	0.473	994334	species	Jimgerdemannia flammicorona	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Endogonomycetes;o_Endogonales;f_Endogonaceae;g_Jimgerdemannia;s_Jimgerdemannia flammicorona
+UniRef50_UPI000DACFE53	1	0.997	0.997	0.876	549	species	Pantoea agglomerans	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;-_Pantoea agglomerans group;s_Pantoea agglomerans
+UniRef50_A0A0A2VYA0	1	0.360	0.360	0.732	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A0H3LAZ9	1	0.741	0.741	0.832	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A7W8Y2T4	1	0.996	0.996	0.602	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_P33363	1	0.942	0.942	0.746	1	no rank	root	-_root
+UniRef50_A0A855KKY9	1	0.936	0.936	0.746	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_E1SGA5	1	0.998	0.998	0.927	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A2N7R136	1	0.999	0.999	0.760	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_P20099	1	0.999	0.999	0.862	1	no rank	root	-_root
+UniRef50_Q880X7	1	0.998	0.998	0.867	1	no rank	root	-_root
+UniRef50_A0A379J7C6	1	0.995	0.995	0.608	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A2X3CQG8	1	0.779	0.779	0.879	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A485B5N9	1	0.975	0.975	0.768	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_Q9HY08	1	0.999	0.999	0.837	1	no rank	root	-_root
+UniRef50_U3TSW0	1	0.607	0.607	0.915	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A377NKR4	1	0.997	0.997	0.696	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A447QPA2	1	0.712	0.712	0.883	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A658ZPN8	1	0.997	0.997	0.911	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A2V3PZ96	1	0.839	0.839	0.749	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_Q9I553	1	0.999	0.999	0.821	1	no rank	root	-_root
+UniRef50_A9H209	1	0.991	0.991	0.657	1	no rank	root	-_root
+UniRef50_Q6D1I0	1	0.388	0.388	0.922	1	no rank	root	-_root
+UniRef50_A0A485EQ68	1	0.993	0.993	0.870	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A376P2A7	1	0.571	0.571	0.911	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A659RUN1	1	0.910	0.910	0.834	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A6G8ITS7	1	0.999	0.999	0.916	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P37439	1	0.996	0.996	0.878	1	no rank	root	-_root
+UniRef50_A0A378C757	1	0.508	0.508	0.860	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_Q8FBC3	1	0.996	0.996	0.937	1	no rank	root	-_root
+UniRef50_A0A0F7HAJ7	1	0.998	0.998	0.867	1	no rank	root	-_root
+UniRef50_A0A1B7K7U9	1	0.953	0.953	0.724	543	family	Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_U1HN36	1	0.997	0.997	0.931	28211	class	Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+UniRef50_UPI0012D2E4C9	1	0.694	0.694	0.892	1702250	species	Pseudomonas sp. IB20	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_unclassified Pseudomonas;s_Pseudomonas sp. IB20
+UniRef50_A0A2X3D536	1	0.772	0.772	0.868	1	no rank	root	-_root
+UniRef50_A0A223VYS8	1	0.989	0.989	0.721	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_P43329	1	0.498	0.498	0.844	1	no rank	root	-_root
+UniRef50_A0A0X8EUW8	2	0.997	1.981	0.678	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A0D5XX53	1	0.998	0.998	0.881	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A059L0E6	2	0.999	1.998	0.858	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A6I1L781	1	0.944	0.944	0.858	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A2H5TQ13	1	0.250	0.250	0.637	588596	species	Rhizophagus irregularis	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Glomeromycotina;c_Glomeromycetes;o_Glomerales;f_Glomeraceae;g_Rhizophagus;s_Rhizophagus irregularis
+UniRef50_A0A1F8YFE3	1	0.177	0.177	0.499	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q47146	3	0.999	2.609	0.844	1	no rank	root	-_root
+UniRef50_P30296	1	0.835	0.835	0.834	1	no rank	root	-_root
+UniRef50_A0A0A1YWL5	1	0.999	0.999	0.746	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_UPI00165761F0	1	0.999	0.999	0.844	244566	species	Pseudomonas lurida	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas lurida
+UniRef50_Q0KDX2	1	0.941	0.941	0.587	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q4KIB4	1	0.998	0.998	0.921	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_UPI00111C00B8	1	0.842	0.842	0.863	470934	species	Pantoea vagans	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;s_Pantoea vagans
+UniRef50_P39448	2	0.998	1.996	0.772	1	no rank	root	-_root
+UniRef50_A0A3D4NNJ3	1	0.998	0.998	0.802	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A3M3Z0E7	2	0.998	1.996	0.835	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_D4E4X1	1	0.997	0.997	0.765	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_UPI0011A22300	1	0.986	0.986	0.659	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_Q01953	1	0.321	0.321	0.918	1	no rank	root	-_root
+UniRef50_P11454	1	0.998	0.998	0.768	1	no rank	root	-_root
+UniRef50_C1DQV2	1	0.988	0.988	0.917	1	no rank	root	-_root
+UniRef50_Q4K8G5	1	0.570	0.570	0.745	135621	family	Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae
+UniRef50_A0A078LQ29	1	0.999	0.999	0.713	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P0ADT7	1	0.749	0.749	0.864	1	no rank	root	-_root
+UniRef50_A0A379IKW3	1	0.932	0.932	0.909	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A6G6F103	1	0.998	0.998	0.741	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P21179	1	0.887	0.887	0.839	1	no rank	root	-_root
+UniRef50_A0A0P9LIL5	1	0.930	0.930	0.769	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A3M3W841	1	0.999	0.999	0.918	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_P22609	1	0.987	0.987	0.601	1	no rank	root	-_root
+UniRef50_A0A1A9EV76	1	0.999	0.999	0.726	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A6L5BNX0	1	0.998	0.998	0.603	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A3M6G9R3	1	0.573	0.573	0.895	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A257LD61	1	0.097	0.097	0.675	2015582	species	Bacteroidetes bacterium B1(2017)	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;-_unclassified Bacteroidetes;s_Bacteroidetes bacterium B1(2017)
+UniRef50_B9TC60	1	0.987	0.987	0.687	1	no rank	root	-_root
+UniRef50_Q59699	1	0.844	0.844	0.904	1	no rank	root	-_root
+UniRef50_A0A2X3CR58	1	0.729	0.729	0.887	1	no rank	root	-_root
+UniRef50_T1NJN6	1	0.903	0.903	0.938	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A7C8XMJ9	1	0.999	0.999	0.952	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0J8YDE4	1	0.916	0.916	0.923	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0D6BPD2	1	0.989	0.989	0.684	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_I2BAE3	1	0.990	0.990	0.814	1	no rank	root	-_root
+UniRef50_A0A0J8YM66	1	0.996	0.996	0.942	1903409	family	Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+UniRef50_Q65ST2	1	0.985	0.985	0.757	1	no rank	root	-_root
+UniRef50_A0A7J6Z9T1	1	0.704	0.704	0.843	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A379J6B4	1	0.996	0.996	0.574	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P09323	1	0.995	0.995	0.802	1	no rank	root	-_root
+UniRef50_A0A193SX91	2	0.999	1.997	0.747	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A375HKI5	1	0.984	0.984	0.738	1	no rank	root	-_root
+UniRef50_K8AKF5	2	0.706	1.355	0.688	413497	species	Cronobacter dublinensis	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Cronobacter;s_Cronobacter dublinensis
+UniRef50_P58203	1	0.997	0.997	0.808	1	no rank	root	-_root
+UniRef50_Q4K8B9	1	0.998	0.998	0.926	1	no rank	root	-_root
+UniRef50_A0A7C8THL0	1	0.999	0.999	0.962	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_P0AEP8	1	0.985	0.985	0.770	1	no rank	root	-_root
+UniRef50_Q9KTG1	1	0.998	0.998	0.802	1	no rank	root	-_root
+UniRef50_V5Z387	1	0.948	0.948	0.885	1903409	family	Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+UniRef50_A0A1Y2H2F2	1	0.606	0.606	0.718	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_J2M5V4	1	0.571	0.571	0.719	53335	genus	Pantoea	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea
+UniRef50_A0A5E7D822	1	0.775	0.775	0.909	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0A2VZQ7	1	0.647	0.647	0.778	1	no rank	root	-_root
+UniRef50_P24177	1	0.829	0.829	0.806	1	no rank	root	-_root
+UniRef50_A0A1V0YVN5	2	0.995	1.987	0.752	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_G7LM23	1	0.999	0.999	0.652	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P02919	1	0.589	0.589	0.781	1	no rank	root	-_root
+UniRef50_X1HB30	1	0.997	0.997	0.864	412755	species	marine sediment metagenome	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_marine sediment metagenome
+UniRef50_P0AEC3	1	0.992	0.992	0.844	1	no rank	root	-_root
+UniRef50_A0A3M6AQ69	1	0.827	0.827	0.873	1	no rank	root	-_root
+UniRef50_Q1ICZ5	1	0.991	0.991	0.849	1	no rank	root	-_root
+UniRef50_Q0T5U6	1	0.669	0.669	0.837	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A3M6HVW3	1	0.945	0.945	0.928	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_Q8XE76	1	0.961	0.961	0.922	1	no rank	root	-_root
+UniRef50_A0A0P9TV94	1	0.585	0.585	0.902	251698	species subgroup	Pseudomonas syringae group genomosp. 2	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas syringae group;-_Pseudomonas syringae group genomosp. 2
+UniRef50_A0A7X1G4E0	1	0.997	0.997	0.677	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A0H3B037	1	0.598	0.598	0.827	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A1B8V6D8	1	0.975	0.975	0.781	1	no rank	root	-_root
+UniRef50_I0QY36	1	0.998	0.998	0.853	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_F8SJL0	1	0.795	0.795	0.660	10662	family	Myoviridae	d_Viruses;-_Duplodnaviria;k_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales;f_Myoviridae
+UniRef50_L8JAA0	1	0.902	0.902	0.619	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0K8Q1C1	1	0.862	0.862	0.806	1588022	species	Arthrobacter sp. Hiyo6	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micrococcales;f_Micrococcaceae;g_Arthrobacter;-_unclassified Arthrobacter;s_Arthrobacter sp. Hiyo6
+UniRef50_A0A6N3HZ72	1	0.999	0.999	0.873	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A3N6S5B2	1	0.998	0.998	0.817	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A3G7A5C9	1	0.998	0.998	0.847	1	no rank	root	-_root
+UniRef50_A0A377PL65	1	0.919	0.919	0.612	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A137PCA1	1	0.495	0.495	0.471	796925	strain	Conidiobolus coronatus NRRL 28638	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+UniRef50_A0A0A2VU39	1	0.559	0.559	0.890	1245745	strain	Beauveria bassiana D1-5	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+UniRef50_A0A6A5L1X3	1	0.386	0.386	0.838	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A3S4M857	1	0.826	0.826	0.776	1	no rank	root	-_root
+UniRef50_A0A1B0VMH5	1	0.998	0.998	0.847	1	no rank	root	-_root
+UniRef50_P24183	1	0.999	0.999	0.732	1	no rank	root	-_root
+UniRef50_A0A077Q1L6	1	0.996	0.996	0.899	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A0A2WL64	1	0.245	0.245	0.673	1245745	strain	Beauveria bassiana D1-5	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+UniRef50_A0A0A2W096	1	0.555	0.555	0.894	1	no rank	root	-_root
+UniRef50_Q8FDH4	1	0.966	0.966	0.744	1	no rank	root	-_root
+UniRef50_A0A3D5M8C2	1	0.351	0.351	0.736	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A377Z077	1	0.932	0.932	0.826	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A1V9ZC78	1	0.167	0.167	0.659	74557	species	Thraustotheca clavata	-_cellular organisms;d_Eukaryota;-_Sar;-_Stramenopiles;p_Oomycota;o_Saprolegniales;f_Saprolegniaceae;g_Thraustotheca;s_Thraustotheca clavata
+UniRef50_A0A3M3XCZ1	1	0.998	0.998	0.957	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_E0SCW4	1	0.939	0.939	0.848	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A2G8D4J6	1	0.528	0.528	0.865	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales

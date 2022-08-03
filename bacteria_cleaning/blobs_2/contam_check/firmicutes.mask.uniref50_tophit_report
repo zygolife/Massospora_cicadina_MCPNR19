@@ -1,0 +1,84 @@
+UniRef50_A0A0S7CUK1	1	0.918	0.918	0.831	1588020	species	Arthrobacter sp. Hiyo1	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micrococcales;f_Micrococcaceae;g_Arthrobacter;-_unclassified Arthrobacter;s_Arthrobacter sp. Hiyo1
+UniRef50_A0A318Z506	1	0.502	0.502	0.225	1450539	strain	Aspergillus saccharolyticus JOP 1030-1	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;c_Eurotiomycetes;-_Eurotiomycetidae;o_Eurotiales;f_Aspergillaceae;g_Aspergillus;s_Aspergillus saccharolyticus;-_Aspergillus saccharolyticus JOP 1030-1
+UniRef50_A0A5M9Q9R5	1	0.971	0.971	0.914	1358	species	Lactococcus lactis	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus lactis
+UniRef50_Q9CID5	1	0.638	0.638	0.885	186826	order	Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+UniRef50_A0A1Y1YIJ1	1	0.684	0.684	0.376	1314790	strain	Basidiobolus meristosporus CBS 931.73	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Basidiobolomycetes;o_Basidiobolales;f_Basidiobolaceae;g_Basidiobolus;s_Basidiobolus meristosporus;-_Basidiobolus meristosporus CBS 931.73
+UniRef50_A0A083ZUY7	1	0.585	0.585	0.645	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0V8D3Z9	1	0.528	0.528	0.955	1357	genus	Lactococcus	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+UniRef50_A0A2N5WEU2	1	0.892	0.892	0.869	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_D2BKJ1	1	0.998	0.998	0.923	91061	class	Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+UniRef50_A0A0F6RRR5	1	0.928	0.928	0.679	1236	class	Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_Q9CEJ0	1	0.379	0.379	0.828	1	no rank	root	-_root
+UniRef50_A0A137PAF8	1	0.931	0.931	0.590	796925	strain	Conidiobolus coronatus NRRL 28638	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+UniRef50_P58002	1	0.713	0.713	0.805	1300	family	Streptococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+UniRef50_A0A6L2ZV23	1	0.691	0.691	0.851	1300	family	Streptococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+UniRef50_A0A098CTD0	1	0.775	0.775	0.933	1300	family	Streptococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+UniRef50_A0A2A5SPS1	1	0.998	0.998	0.918	1357	genus	Lactococcus	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+UniRef50_UPI00129D98F0	1	0.574	0.574	0.814	1358	species	Lactococcus lactis	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus lactis
+UniRef50_C3K855	1	0.993	0.993	0.503	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A854XP10	1	0.649	0.649	0.853	1359	species	Lactococcus cremoris	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus cremoris
+UniRef50_G8P2R8	1	0.997	0.997	0.949	186826	order	Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+UniRef50_A0A137PGL8	1	0.620	0.620	0.667	796925	strain	Conidiobolus coronatus NRRL 28638	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+UniRef50_A0A0B8R1F8	1	0.292	0.292	0.692	1300	family	Streptococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+UniRef50_A2RKD2	1	0.353	0.353	0.918	1357	genus	Lactococcus	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+UniRef50_A2RHN3	1	0.880	0.880	0.893	1359	species	Lactococcus cremoris	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus cremoris
+UniRef50_A0A261Y377	1	0.451	0.451	0.693	1938954	species	Bifiguratus adelaidae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Endogonomycetes;o_Endogonales;-_Endogonales incertae sedis;g_Bifiguratus;s_Bifiguratus adelaidae
+UniRef50_A0A654U9C5	1	0.474	0.474	0.844	186826	order	Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+UniRef50_B5E7F8	1	0.716	0.716	0.632	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A2T9ZAN7	1	0.288	0.288	0.874	1	no rank	root	-_root
+UniRef50_A0A552XKH0	1	0.537	0.537	0.934	91061	class	Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+UniRef50_A0A166KE11	1	0.553	0.553	0.957	1357	genus	Lactococcus	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+UniRef50_A0A1D2M7J3	1	0.256	0.256	0.545	48709	species	Orchesella cincta	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Collembola;o_Entomobryomorpha;-_Entomobryoidea;f_Orchesellidae;-_Orchesellinae;g_Orchesella;s_Orchesella cincta
+UniRef50_D6YR82	1	0.994	0.994	1.000	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A0N8QWT4	1	0.956	0.956	0.792	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A137NTP9	1	0.924	0.924	0.454	796925	strain	Conidiobolus coronatus NRRL 28638	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+UniRef50_A0A2A5SWU8	1	0.997	0.997	0.628	1359	species	Lactococcus cremoris	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus cremoris
+UniRef50_A0A2A5SY81	1	0.988	0.988	0.968	1357	genus	Lactococcus	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+UniRef50_A0A137NWS6	1	0.942	0.942	0.515	796925	strain	Conidiobolus coronatus NRRL 28638	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+UniRef50_A0A137PAV1	1	0.980	0.980	0.507	796925	strain	Conidiobolus coronatus NRRL 28638	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+UniRef50_A0A1Y1XZP4	1	0.953	0.953	0.603	1314790	strain	Basidiobolus meristosporus CBS 931.73	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Basidiobolomycetes;o_Basidiobolales;f_Basidiobolaceae;g_Basidiobolus;s_Basidiobolus meristosporus;-_Basidiobolus meristosporus CBS 931.73
+UniRef50_A0A6L2ZUI6	1	0.460	0.460	0.852	186826	order	Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+UniRef50_Q9CH85	1	0.630	0.630	0.912	1	no rank	root	-_root
+UniRef50_G8P9P5	1	0.398	0.398	0.929	1	no rank	root	-_root
+UniRef50_A0A1X2GP15	1	0.422	0.422	0.461	112252	no rank	Fungi incertae sedis	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis
+UniRef50_A4ITU9	1	0.995	0.995	0.760	1	no rank	root	-_root
+UniRef50_A0A166U746	1	0.999	0.999	0.865	1357	genus	Lactococcus	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+UniRef50_A0A5C5BMH0	1	0.999	0.999	0.756	186826	order	Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+UniRef50_A0A2X3W7T2	1	0.857	0.857	0.702	186826	order	Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+UniRef50_P49022	2	0.801	0.801	0.860	1	no rank	root	-_root
+UniRef50_Q02129	1	0.918	0.918	0.714	1239	phylum	Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+UniRef50_UPI000F7545D9	1	0.520	0.520	0.501	2493676	species	Mesorhizobium sp. M3A.F.Ca.ET.080.04.2.1	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Phyllobacteriaceae;g_Mesorhizobium;-_unclassified Mesorhizobium;s_Mesorhizobium sp. M3A.F.Ca.ET.080.04.2.1
+UniRef50_V8AT33	1	0.568	0.568	0.974	1380772	strain	Lactococcus garvieae TRF1	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus;s_Lactococcus garvieae;-_Lactococcus garvieae TRF1
+UniRef50_A0A0A0KV42	1	0.284	0.284	0.542	3659	species	Cucumis sativus	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_fabids;o_Cucurbitales;f_Cucurbitaceae;-_Benincaseae;g_Cucumis;s_Cucumis sativus
+UniRef50_D2BLV1	1	0.993	0.993	0.895	186826	order	Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+UniRef50_Q9CJJ2	1	0.655	0.655	0.717	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A3CQ05	1	0.408	0.408	0.676	1	no rank	root	-_root
+UniRef50_G8P3U1	1	0.347	0.347	0.900	1357	genus	Lactococcus	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+UniRef50_B8AAA5	1	0.267	0.267	0.611	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A137P8L6	1	0.721	0.721	0.455	796925	strain	Conidiobolus coronatus NRRL 28638	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Ancylistaceae;g_Conidiobolus;s_Conidiobolus coronatus;-_Conidiobolus coronatus NRRL 28638
+UniRef50_K2PKX6	1	0.605	0.605	0.877	186826	order	Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+UniRef50_W6VL34	1	1.000	1.000	0.829	1224	phylum	Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A3M4ZYU3	1	0.997	0.997	0.771	286	genus	Pseudomonas	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_A0A0L0HP38	1	0.549	0.549	0.525	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A0A5E6U1B4	1	0.998	0.998	0.842	294	species	Pseudomonas fluorescens	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas fluorescens group;s_Pseudomonas fluorescens
+UniRef50_A0A813PKM5	1	0.130	0.130	0.614	104777	species	Brachionus calyciflorus	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Spiralia;-_Gnathifera;p_Rotifera;c_Eurotatoria;-_Monogononta;-_Pseudotrocha;o_Ploima;f_Brachionidae;g_Brachionus;s_Brachionus calyciflorus
+UniRef50_D2BN87	1	0.998	0.998	0.938	1300	family	Streptococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+UniRef50_A0A098CQA1	1	0.996	0.996	0.849	1300	family	Streptococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+UniRef50_F3YB61	2	0.997	1.264	0.669	186826	order	Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+UniRef50_H5SXA2	1	0.492	0.492	0.718	1357	genus	Lactococcus	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+UniRef50_A0A3G4Z586	1	0.338	0.338	0.636	1239	phylum	Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+UniRef50_D2BPF5	1	0.996	0.996	0.886	1357	genus	Lactococcus	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+UniRef50_A0A077ZJJ7	1	0.153	0.153	0.706	131567	no rank	cellular organisms	-_cellular organisms
+UniRef50_A8AWD1	1	0.862	0.862	0.666	1	no rank	root	-_root
+UniRef50_A0A0V8CWX3	1	0.973	0.973	0.664	1357	genus	Lactococcus	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+UniRef50_A0A5A4S828	1	0.859	0.859	0.753	91347	order	Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A2RNI5	1	0.856	0.856	0.912	91061	class	Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+UniRef50_A0A098CM50	1	0.603	0.603	0.945	1300	family	Streptococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae
+UniRef50_A0A2Z5Z2B6	1	0.769	0.769	0.926	1357	genus	Lactococcus	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Lactococcus
+UniRef50_A0A6L2ZW29	1	0.523	0.523	0.963	91061	class	Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+UniRef50_A0A2S7FPC3	1	0.996	0.996	0.852	2	superkingdom	Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_E2EYZ0	1	0.993	0.993	0.662	177370	species	Entomophthora planchoniana	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Zoopagomycota;-_Entomophthoromycotina;c_Entomophthoromycetes;o_Entomophthorales;f_Entomophthoraceae;g_Entomophthora;s_Entomophthora planchoniana
+UniRef50_A0A2N5WEZ0	1	0.260	0.260	0.817	186826	order	Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+UniRef50_P00931	1	0.870	0.870	0.592	716545	clade	saccharomyceta	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta
+UniRef50_A0A2G5BC24	1	0.283	0.283	0.645	112252	no rank	Fungi incertae sedis	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis
+UniRef50_Q9CDT1	1	0.869	0.869	0.829	1300	family	Streptococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae

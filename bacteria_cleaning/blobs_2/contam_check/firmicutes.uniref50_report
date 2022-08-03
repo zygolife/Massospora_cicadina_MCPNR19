@@ -1,0 +1,126 @@
+100.0000	86	11	no rank	1	root
+87.2093	75	6	no rank	131567	  cellular organisms
+58.1395	50	4	superkingdom	2	    Bacteria
+48.8372	42	0	clade	1783272	      Terrabacteria group
+47.6744	41	2	phylum	1239	        Firmicutes
+45.3488	39	4	class	91061	          Bacilli
+40.6977	35	12	order	186826	            Lactobacillales
+26.7442	23	7	family	1300	              Streptococcaceae
+18.6047	16	10	genus	1357	                Lactococcus
+3.4884	3	3	species	1359	                  Lactococcus cremoris
+2.3256	2	2	species	1358	                  Lactococcus lactis
+1.1628	1	0	species	1363	                  Lactococcus garvieae
+1.1628	1	1	strain	1380772	                    Lactococcus garvieae TRF1
+1.1628	1	0	phylum	201174	        Actinobacteria
+1.1628	1	0	class	1760	          Actinomycetia
+1.1628	1	0	order	85006	            Micrococcales
+1.1628	1	0	family	1268	              Micrococcaceae
+1.1628	1	0	genus	1663	                Arthrobacter
+1.1628	1	0	no rank	235627	                  unclassified Arthrobacter
+1.1628	1	1	species	1588020	                    Arthrobacter sp. Hiyo1
+4.6512	4	0	phylum	1224	      Proteobacteria
+3.4884	3	1	class	1236	        Gammaproteobacteria
+1.1628	1	0	order	72274	          Pseudomonadales
+1.1628	1	0	family	135621	            Pseudomonadaceae
+1.1628	1	1	genus	286	              Pseudomonas
+1.1628	1	1	order	91347	          Enterobacterales
+1.1628	1	0	class	28211	        Alphaproteobacteria
+1.1628	1	0	order	356	          Hyphomicrobiales
+1.1628	1	0	family	69277	            Phyllobacteriaceae
+1.1628	1	0	genus	68287	              Mesorhizobium
+1.1628	1	0	no rank	325217	                unclassified Mesorhizobium
+1.1628	1	1	species	2493676	                  Mesorhizobium sp. M3A.F.Ca.ET.080.04.2.1
+22.0930	19	0	superkingdom	2759	    Eukaryota
+17.4419	15	0	clade	33154	      Opisthokonta
+13.9535	12	0	kingdom	4751	        Fungi
+10.4651	9	0	no rank	112252	          Fungi incertae sedis
+8.1395	7	0	phylum	1913638	            Zoopagomycota
+8.1395	7	0	subphylum	1264859	              Entomophthoromycotina
+5.8140	5	0	class	1399770	                Entomophthoromycetes
+5.8140	5	0	order	4857	                  Entomophthorales
+4.6512	4	0	family	34486	                    Ancylistaceae
+4.6512	4	0	genus	34487	                      Conidiobolus
+4.6512	4	0	species	34488	                        Conidiobolus coronatus
+4.6512	4	4	strain	796925	                          Conidiobolus coronatus NRRL 28638
+1.1628	1	0	family	34481	                    Entomophthoraceae
+1.1628	1	0	genus	34484	                      Entomophthora
+1.1628	1	1	species	177370	                        Entomophthora planchoniana
+2.3256	2	0	class	1399768	                Basidiobolomycetes
+2.3256	2	0	order	1264872	                  Basidiobolales
+2.3256	2	0	family	4858	                    Basidiobolaceae
+2.3256	2	0	genus	4859	                      Basidiobolus
+2.3256	2	0	species	423460	                        Basidiobolus meristosporus
+2.3256	2	2	strain	1314790	                          Basidiobolus meristosporus CBS 931.73
+2.3256	2	0	phylum	1913637	            Mucoromycota
+1.1628	1	0	subphylum	214504	              Glomeromycotina
+1.1628	1	0	class	214506	                Glomeromycetes
+1.1628	1	0	order	36750	                  Glomerales
+1.1628	1	0	family	36751	                    Glomeraceae
+1.1628	1	1	genus	1129544	                      Rhizophagus
+1.1628	1	0	subphylum	451507	              Mucoromycotina
+1.1628	1	0	class	2212702	                Endogonomycetes
+1.1628	1	0	order	4869	                  Endogonales
+1.1628	1	0	no rank	2052803	                    Endogonales incertae sedis
+1.1628	1	0	genus	2026842	                      Bifiguratus
+1.1628	1	1	species	1938954	                        Bifiguratus adelaidae
+3.4884	3	0	subkingdom	451864	          Dikarya
+2.3256	2	0	phylum	5204	            Basidiomycota
+2.3256	2	0	subphylum	5302	              Agaricomycotina
+1.1628	1	1	class	155616	                Tremellomycetes
+1.1628	1	1	class	155619	                Agaricomycetes
+1.1628	1	0	phylum	4890	            Ascomycota
+1.1628	1	1	clade	716545	              saccharomyceta
+3.4884	3	0	kingdom	33208	        Metazoa
+3.4884	3	0	clade	6072	          Eumetazoa
+3.4884	3	0	clade	33213	            Bilateria
+2.3256	2	0	clade	33511	              Deuterostomia
+2.3256	2	0	phylum	7711	                Chordata
+2.3256	2	0	subphylum	89593	                  Craniata
+2.3256	2	0	clade	7742	                    Vertebrata
+2.3256	2	0	clade	7776	                      Gnathostomata
+2.3256	2	0	clade	117570	                        Teleostomi
+2.3256	2	0	clade	117571	                          Euteleostomi
+2.3256	2	0	superclass	8287	                            Sarcopterygii
+2.3256	2	0	clade	1338369	                              Dipnotetrapodomorpha
+2.3256	2	0	clade	32523	                                Tetrapoda
+2.3256	2	0	clade	32524	                                  Amniota
+2.3256	2	0	clade	8457	                                    Sauropsida
+2.3256	2	0	clade	32561	                                      Sauria
+2.3256	2	0	class	8504	                                        Lepidosauria
+2.3256	2	0	order	8509	                                          Squamata
+2.3256	2	0	clade	1329961	                                            Bifurcata
+2.3256	2	0	clade	1329950	                                              Unidentata
+2.3256	2	1	clade	1329912	                                                Episquamata
+1.1628	1	0	clade	1329911	                                                  Toxicofera
+1.1628	1	0	suborder	8511	                                                    Iguania
+1.1628	1	0	family	2024747	                                                      Dactyloidae
+1.1628	1	0	genus	28376	                                                        Anolis
+1.1628	1	1	species	28377	                                                          Anolis carolinensis
+1.1628	1	0	clade	33317	              Protostomia
+1.1628	1	0	clade	1206794	                Ecdysozoa
+1.1628	1	0	clade	88770	                  Panarthropoda
+1.1628	1	0	phylum	6656	                    Arthropoda
+1.1628	1	0	clade	197563	                      Mandibulata
+1.1628	1	0	clade	197562	                        Pancrustacea
+1.1628	1	0	subphylum	6960	                          Hexapoda
+1.1628	1	0	class	30001	                            Collembola
+1.1628	1	0	order	730330	                              Entomobryomorpha
+1.1628	1	0	superfamily	79707	                                Entomobryoidea
+1.1628	1	0	family	2768097	                                  Orchesellidae
+1.1628	1	0	subfamily	50237	                                    Orchesellinae
+1.1628	1	0	genus	48705	                                      Orchesella
+1.1628	1	1	species	48709	                                        Orchesella cincta
+4.6512	4	0	kingdom	33090	      Viridiplantae
+4.6512	4	0	phylum	35493	        Streptophyta
+4.6512	4	0	subphylum	131221	          Streptophytina
+4.6512	4	0	clade	3193	            Embryophyta
+4.6512	4	0	clade	58023	              Tracheophyta
+4.6512	4	0	clade	78536	                Euphyllophyta
+4.6512	4	0	clade	58024	                  Spermatophyta
+4.6512	4	0	class	3398	                    Magnoliopsida
+4.6512	4	0	clade	1437183	                      Mesangiospermae
+4.6512	4	0	order	41768	                        Ranunculales
+4.6512	4	0	family	3440	                          Ranunculaceae
+4.6512	4	0	subfamily	1463137	                            Thalictroideae
+4.6512	4	0	genus	46968	                              Thalictrum
+4.6512	4	4	species	46969	                                Thalictrum thalictroides
