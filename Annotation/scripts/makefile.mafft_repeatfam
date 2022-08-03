@@ -1,0 +1,21 @@
+
+MAFFT      ?= mafft
+
+seqs    = $(wildcard *.fas)
+msa     = $(seqs:.fas=.fasaln)
+clipkit = $(seqs:.fas=.clipkit)
+
+all: $(msa) $(clipkit)
+
+.PHONY: clean all
+
+clean:
+	rm -f *.fasaln *.clipkit
+
+empty    :=
+
+%.fasaln : %.fas
+	${MAFFT} --auto $< > $@
+
+%.clipkit : %.fasaln
+	clipkit -o $@ $<
