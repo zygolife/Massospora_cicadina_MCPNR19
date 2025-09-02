@@ -1,0 +1,17 @@
+# BUSCO version is: 5.2.2 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_cicadina_Nanopore/Annotation/annotate/Massospora_cicadina_MCPNR19.leftover/predict_results/Massospora_cicadina_MCPNR19.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:8.7%[S:3.0%,D:5.7%],F:4.0%,M:87.3%,n:758	   
+	66	Complete BUSCOs (C)			   
+	23	Complete and single-copy BUSCOs (S)	   
+	43	Complete and duplicated BUSCOs (D)	   
+	30	Fragmented BUSCOs (F)			   
+	662	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
